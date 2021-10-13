@@ -1,14 +1,14 @@
-import copy
 import requests
 from collections import deque
 
 class Node:
 
-    def __init__(self, value, previous):
+    def __init__(self, weight, total_weight, previous):
         self.id = id 
         self.previous = previous
-        self.value = value
-
+        self.weight = weight
+        self.total_weight = total_weight
+    
     def give_unused_id():
         id = 0
         while True:
@@ -24,28 +24,36 @@ def get_weigts():
         weights.append([int(doc[i]), int(doc[i + 1])])
     return weights        
 
+def get_closesed_weight(searched_weight, visited):
+    closesed_weight = 0
+    for weight in visited:
+        if abs(closesed_weight - searched_weight) < abs(weight.value - searched_weight):
+            closesed_weight = weight
+    return closesed_weight
+
 def find_combination(weights, searched_weight):
-    should_run = True
     visited = []
     queue = deque([Node(0, True, None)])
-    while len(queue) != 0 and should_run:
+    while len(queue) != 0:
         for node in queue:
             if node.weight == searched_weight:
-                should_run = False
-                break
+                return get_path(0, node.id)
             for weight in weights:
-                if weight[1] != 0:
+                if weight[1] == 0:
                     continue
                 queue.append(Node(node.weight + weight[0], True))            
                 queue.append(Node(node.weight - weight[0], False))
-        visited.append(node.id)
+    get_closesed_weight(visited, searched_weight)
+    visited.append(queue.popleft())
+    return get_path(0, searched_weight, visited)
 
-def get_path(start, end, path=[]):
+def get_path(start, end, visited, path=[]):
     path.appendleft(end)
-    return get_path(end.previous)
-
-def print_combination_for_weight(weight, combination):
-    pass
+    for node in visited:
+        if node.id == end.previous:
+            path.appendleft(node.weight)
+            return get_path(0, node, path)
+    return path
 
 def main():
     #weights = get_weigts()
