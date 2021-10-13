@@ -37,17 +37,17 @@ def find_combination(weights, searched_weight):
     while len(queue) != 0:
         for node in queue:
             if node.weight == searched_weight:
-                return get_path(0, node.id)
+                return get_path(node, visited)
             for weight in weights:
                 if weight[1] == 0:
                     continue
                 queue.append(Node(node.weight + weight[0], True))            
                 queue.append(Node(node.weight - weight[0], False))
-    get_closesed_weight(visited, searched_weight)
-    visited.append(queue.popleft())
-    return get_path(0, searched_weight, visited)
+            visited.append(queue.popleft())
+    closesed_weight = get_closesed_weight(visited, searched_weight)
+    return get_path(closesed_weight, visited)
 
-def get_path(start, end, visited, path=[]):
+def get_path(end, visited, path=[]):
     path.appendleft(end)
     for node in visited:
         if node.id == end.previous:
@@ -55,13 +55,16 @@ def get_path(start, end, visited, path=[]):
             return get_path(0, node, path)
     return path
 
+def print_path_for_weight():
+    pass
+
 def main():
     #weights = get_weigts()
     weights = [[10, 1], [5, 3]]
     for weight in range(10,20, 10):
-        combination = find_combination(weights, weight)
-        if combination:
-            print_combination_for_weight(weight, combination)
+        path = find_combination(weights, weight)
+        if path:
+            print_path_for_weight(weight, path)
         else:
             print(f'There is no combination for {weight}g')
     return
