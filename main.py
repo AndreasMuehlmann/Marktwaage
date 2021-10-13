@@ -26,20 +26,34 @@ def give_possible_combination(combination1, combination2):
         return combination2
     else:
         return False        
+
+def call_find_combination_with_the_right_values(weights, searched_weight, weight, combination):
+    weights[weight][1] -= 1
+    combination1 = find_combination(weights, searched_weight + weights[weight][0], combination + deque([weights[weight][0]]))
+    combination2 = find_combination(weights, searched_weight - weights[weight][0], combination + deque([-weights[weight][0]]))
+    return combination1, combination2
+
+def give_possible_combination(combination1, combination2):
+    if combination1 and combination2:
+            return give_shorter_combination(combination1, combination2)
+    elif combination1:
+        return combination1 
+    elif combination2:
+        return combination2
+    else:
+        return False        
 '''
 def find_combination(weights, searched_weight, combination=deque([]), deleted_weights=0):
     if searched_weight == 0:
         return combination
-    for weight in range(len(weights)):
+    for weight in range(len(weights)): #give_best weights in order. For that make funktion. 
         weight -= deleted_weights
         weights = copy.deepcopy(weights)
         if weights[weight][1] == 0:
             del weights[weight]
             deleted_weights += 1
             continue 
-        weights[weight][1] -= 1
-        combination1 = find_combination(weights, searched_weight + weights[weight][0], combination + deque([weights[weight][0]]))
-        combination2 = find_combination(weights, searched_weight - weights[weight][0], combination + deque([-weights[weight][0]]))
+        combination1, combination2 = call_find_combination_with_the_right_values(weights, searched_weight, weight, combination)
         combination = give_possible_combination(combination1, combination2)
         if combination:
             return combination
