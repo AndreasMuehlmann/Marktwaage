@@ -2,6 +2,19 @@ import copy
 import requests
 from collections import deque
 
+class Node:
+
+    def __init__(self, value, previous):
+        self.id = id 
+        self.previous = previous
+        self.value = value
+
+    def give_unused_id():
+        id = 0
+        while True:
+            id += 1
+            yield id 
+            
 def get_weigts():
     url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke0.txt'
     result = requests.get(url)
@@ -9,76 +22,34 @@ def get_weigts():
     weights = []
     for i in range(1, len(doc), 2):
         weights.append([int(doc[i]), int(doc[i + 1])])
-    return weights
+    return weights        
 
-def give_shorter_combination(combination1, combination2):
-    if len(combination1) < len(combination2):
-        return combination1
-    else:
-        return combination2
+def find_combination(weights, searched_weight):
+    should_run = True
+    visited = []
+    queue = deque([Node(0, True, None)])
+    while len(queue) != 0 and should_run:
+        for node in queue:
+            if node.weight == searched_weight:
+                should_run = False
+                break
+            for weight in weights:
+                if weight[1] != 0:
+                    continue
+                queue.append(Node(node.weight + weight[0], True))            
+                queue.append(Node(node.weight - weight[0], False))
+        visited.append(node.id)
 
-def give_possible_combination(combination1, combination2):
-    if combination1 and combination2:
-            return give_shorter_combination(combination1, combination2)
-    elif combination1:
-        return combination1 
-    elif combination2:
-        return combination2
-    else:
-        return False        
-
-def call_find_combination_with_the_right_values(weights, searched_weight, weight, combination):
-    weights[weight][1] -= 1
-    combination1 = find_combination(weights, searched_weight + weights[weight][0], combination + deque([weights[weight][0]]))
-    combination2 = find_combination(weights, searched_weight - weights[weight][0], combination + deque([-weights[weight][0]]))
-    return combination1, combination2
-
-def give_possible_combination(combination1, combination2):
-    if combination1 and combination2:
-            return give_shorter_combination(combination1, combination2)
-    elif combination1:
-        return combination1 
-    elif combination2:
-        return combination2
-    else:
-        return False        
-'''
-def find_combination(weights, searched_weight, combination=deque([]), deleted_weights=0):
-    if searched_weight == 0:
-        return combination
-    for weight in range(len(weights)): #give_best weights in order. For that make funktion. 
-        weight -= deleted_weights
-        weights = copy.deepcopy(weights)
-        if weights[weight][1] == 0:
-            del weights[weight]
-            deleted_weights += 1
-            continue 
-        combination1, combination2 = call_find_combination_with_the_right_values(weights, searched_weight, weight, combination)
-        combination = give_possible_combination(combination1, combination2)
-        if combination:
-            return combination
-    return False
-'''
-
-def find_combination(weights, count_weights, searched_weight, queue=deque([]), combination=deque([])):
-    previous = {}
-    while any(count_weights):
-        for count, weight in enumerate(weights):
-            if count_weights[count] == 0:
-                continue
-            queue.append(weight)
-            previous[count]                
-            queue.append(-weight)
-             
-
+def get_path(start, end, path=[]):
+    path.appendleft(end)
+    return get_path(end.previous)
 
 def print_combination_for_weight(weight, combination):
     pass
 
 def main():
     #weights = get_weigts()
-    weights = [10, 5]
-    count_weights = [1, 3]
+    weights = [[10, 1], [5, 3]]
     for weight in range(10,20, 10):
         combination = find_combination(weights, weight)
         if combination:
