@@ -5,16 +5,21 @@ import copy
 from dataclasses import dataclass
 
 
-@dataclass(order=True)
+@dataclass()
 class Node:
-    available_weights : list
+
+    count : int
     weight : int 
     total_weight : int
+    available_weights : list
     previous : Node
     index : int = None
 
+    def __post_init__(self):
+        self.total_weight += self.count * self.weight
+
 def get_weigts():
-    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke0.txt'
+    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke1.txt'
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
@@ -28,7 +33,7 @@ def sort_helper(node):
 def get_closesed_weight(visited):
     closesed_weight = visited[0]
     for node in visited:
-        if abs(closesed_weight.total_weight - searched_weight) < abs(node.weight - searched_weight):
+        if abs(closesed_weight.total_weight - searched_weight) > abs(node.total_weight - searched_weight):
             closesed_weight = node
     return closesed_weight
 
@@ -45,17 +50,6 @@ def path_exists(path, visited): # dont use
             return True
     return False
 
-def remove_all_matching_nodes(visited): # dont use
-    deleted = 0
-    for node_index, node in  enumerate(visited):
-        node_index -= deleted
-        if path_exists(get_path(node, visited), visited):
-            del visited[node_index] 
-            deleted += 1
-        node.index -= deleted
-        node.previous
-    return visited
-
 def reachable(weights, current_weight): #dont use
     total = 0
     for weight in weights: 
@@ -66,24 +60,23 @@ def reachable(weights, current_weight): #dont use
     return True
 
 def remove_one_weight(weights, index):
-    weights[index][1] -= 1
-    if weights[index][1] == 0:
-        del weights[index]
+    del weights[index]
     return weights
 
 def find_combination(weights):
     visited = []
-    queue = [Node(weights, 0, 0, None)]
+    queue = [Node(0, 0, 0, weights, None)]
     while queue:
         node = queue[0]
         node.index = len(visited)
         if node.total_weight == searched_weight:
             return get_path(node, visited)
         for index, weight in enumerate(node.available_weights): 
-            if node.total_weight < searched_weight:           
-                queue.append(Node(remove_one_weight(copy.deepcopy(node.available_weights), index), +weight[0], node.total_weight + weight[0], node.index)) 
-            else:
-                queue.append(Node(remove_one_weight(copy.deepcopy(node.available_weights), index), -weight[0], node.total_weight - weight[0], node.index))
+            for count in range(1, weight[1]):
+                if node.total_weight < searched_weight:           
+                    queue.append(Node(count, +weight[0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), index), node.index)) 
+                else:
+                    queue.append(Node(count, -weight[0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), index), node.index))
         visited.append(queue[0])
         del queue[0]
         queue.sort(key=sort_helper)
@@ -92,7 +85,9 @@ def find_combination(weights):
 def print_path_for_weight(path):
     print(f'weight {searched_weight}:')
     for node in path:
-        print(node.weight)
+        for count in range(node.count):
+            print(node.weight)
+    print(f'reached weight{node.total_weight}')
 
 def main():
     global searched_weight
