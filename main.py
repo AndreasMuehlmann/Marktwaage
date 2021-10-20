@@ -19,7 +19,7 @@ class Node:
 
 
 def get_weigts():
-    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke5.txt'
+    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke1.txt'
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
@@ -60,7 +60,7 @@ def find_combination(weights):
                     queue.append(Node(count + 1, -weight[0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), index), node.index))
         visited.append(queue[0])
         del queue[0]
-    return get_path(get_closesed_weight(visited), visited)
+    return visited 
 
 def print_path_for_weight(path):
     print(f'weight {searched_weight}:')
@@ -72,9 +72,11 @@ def print_path_for_weight(path):
 def main():
     global searched_weight
     weights = get_weigts()
+    searched_weight = float('inf')
     start = time.time() 
-    for searched_weight in range(10, 1000, 10):
-        path = find_combination(copy.deepcopy(weights))
+    visited = find_combination(weights)
+    for searched_weight in range(10, 10010, 10):
+        path = get_path(get_closesed_weight(visited), visited)
         if path:
             print_path_for_weight(path)
         else:
