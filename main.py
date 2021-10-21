@@ -19,7 +19,7 @@ class Node:
 
 
 def get_weigts():
-    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke1.txt'
+    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke3.txt'
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
@@ -52,15 +52,13 @@ def find_combination(weights):
         node.index = len(visited)
         if node.total_weight == searched_weight:
             return get_path(node, visited)
-        for index, weight in enumerate(node.available_weights): 
-            for count in range(weight[1]):
-                if node.total_weight < searched_weight:           
-                    queue.append(Node(count + 1, +weight[0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), index), node.index)) 
-                else:
-                    queue.append(Node(count + 1, -weight[0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), index), node.index))
+        if node.available_weights:
+            for count in range(1 ,node.available_weights[0][1] + 1):
+                queue.append(Node(count, +node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
+                queue.append(Node(count, -node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
         visited.append(queue[0])
         del queue[0]
-    return visited 
+    return get_path(get_closesed_weight(visited), visited)
 
 def print_path_for_weight(path):
     print(f'weight {searched_weight}:')
@@ -72,15 +70,10 @@ def print_path_for_weight(path):
 def main():
     global searched_weight
     weights = get_weigts()
-    searched_weight = float('inf')
     start = time.time() 
-    visited = find_combination(weights)
     for searched_weight in range(10, 10010, 10):
-        path = get_path(get_closesed_weight(visited), visited)
-        if path:
-            print_path_for_weight(path)
-        else:
-            print(f'There is no combination for {searched_weight}g')
+        path = find_combination(weights)
+        print_path_for_weight(path) 
     print(f'time: {time.time() - start}')
     return
 
