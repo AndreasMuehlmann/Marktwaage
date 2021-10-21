@@ -18,7 +18,7 @@ class Node:
 
 
 def get_weigts():
-    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke1.txt'
+    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke4.txt'
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
@@ -70,6 +70,7 @@ def main():
     searched_weight = float('inf')
     start = time.time() 
     visited = find_combination(weights)
+    end_find_combination = time.time()
     for searched_weight in range(10, 10010, 10):
         path = get_path(get_closesed_weight(visited), visited)
         if path:
@@ -77,6 +78,7 @@ def main():
         else:
             print(f'There is no combination for {searched_weight}g')
     print(f'time: {time.time() - start}')
+    print(f'time find_combination: {end_find_combination - start}')
     return
 
 if __name__ == '__main__':
