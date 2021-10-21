@@ -12,7 +12,6 @@ class Node:
     total_weight : int
     available_weights : list
     previous : int 
-    index : int = None
 
     def __post_init__(self):
         self.total_weight += self.count * self.weight
@@ -50,14 +49,10 @@ def find_combination(weights):
     while queue:
         node = queue[0]
         node.index = len(visited)
-        if node.total_weight == searched_weight:
-            return get_path(node, visited)
-        for index, weight in enumerate(node.available_weights): 
-            for count in range(weight[1]):
-                if node.total_weight < searched_weight:           
-                    queue.append(Node(count + 1, +weight[0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), index), node.index)) 
-                else:
-                    queue.append(Node(count + 1, -weight[0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), index), node.index))
+        if node.available_weights:
+            for count in range(node.available_weights[0][1]):
+                    queue.append(Node(count + 1, +node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
+                    queue.append(Node(count + 1, -node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index))
         visited.append(queue[0])
         del queue[0]
     return visited 
