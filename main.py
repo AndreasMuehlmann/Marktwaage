@@ -19,7 +19,7 @@ class Node:
 
 
 def get_weigts():
-    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke3.txt'
+    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke0.txt'
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
@@ -72,7 +72,9 @@ def main():
     weights = get_weigts()
     start = time.time() 
     for searched_weight in range(10, 10010, 10):
+        start_find_combination = time.time() 
         path = find_combination(weights)
+        print(f'time_find_combination {time.time() - start_find_combination}')
         print_path_for_weight(path) 
     print(f'time: {time.time() - start}')
     return
