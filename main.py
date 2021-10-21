@@ -10,8 +10,8 @@ class Node:
     count : int
     weight : int 
     total_weight : int
-    available_weights : list
-    previous : int 
+    previous : int = None 
+    index : int = None
 
     def __post_init__(self):
         self.total_weight += self.count * self.weight
@@ -23,7 +23,7 @@ def get_weigts():
     doc = result.content.decode("utf-8").split()
     start_weights = []
     for i in range(1, len(doc), 2):
-        start_weights.append([int(doc[i]), int(doc[i + 1])]) 
+        start_weights.append((int(doc[i]), int(doc[i + 1]))) 
     return start_weights
 
 def get_closesed_weight(visited):
@@ -33,10 +33,6 @@ def get_closesed_weight(visited):
             closesed_weight = node
     return closesed_weight
 
-def remove_one_weight(weights, index):
-    del weights[index]
-    return weights
-
 def get_path(end, visited, path=[]):
     path = [end] + path
     if  end.previous is None:
@@ -44,17 +40,18 @@ def get_path(end, visited, path=[]):
     return get_path(visited[end.previous], visited, path)
 
 def find_combination(weights):
+    layer = [Node(0, 0, 0)]
     visited = []
-    queue = [Node(0, 0, 0, weights, None)]
-    while queue:
-        node = queue[0]
-        node.index = len(visited)
-        if node.available_weights:
-            for count in range(node.available_weights[0][1]):
-                    queue.append(Node(count + 1, +node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
-                    queue.append(Node(count + 1, -node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index))
-        visited.append(queue[0])
-        del queue[0]
+    for weight in weights:
+        next_layer = [Node(0, 0, 0)]
+        for node in layer:
+            node.index = len(visited)
+            for count in range(weight[1]):
+                    next_layer.append(Node(count + 1, +weight[0], node.total_weight, node.index)) 
+                    next_layer.append(Node(count + 1, -weight[0], node.total_weight, node.index))
+            visited.append(node)
+        layer = copy.deepcopy(next_layer)
+    visited.extend(next_layer)
     return visited 
 
 def print_path_for_weight(path):
