@@ -53,9 +53,9 @@ def find_combination(weights):
         if node.total_weight == searched_weight:
             return get_path(node, visited)
         if node.available_weights:
-            for count in range(1 ,node.available_weights[0][1] + 1):
-                queue.append(Node(count, +node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
-                queue.append(Node(count, -node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
+            for count in range(node.available_weights[0][1]):
+                queue.append(Node(count + 1, +node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
+                queue.append(Node(count + 1, -node.available_weights[0][0], node.total_weight, remove_one_weight(copy.deepcopy(node.available_weights), 0), node.index)) 
         visited.append(queue[0])
         del queue[0]
     return get_path(get_closesed_weight(visited), visited)
