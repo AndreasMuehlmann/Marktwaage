@@ -63,12 +63,13 @@ def print_path_for_weight(path):
 
 def main():
     global searched_weight
+    searched_weight = float('inf')
     weights = get_weigts()
     start = time.time() 
     visited = find_combination(weights)
     end_find_combination = time.time()
     for searched_weight in range(10, 10010, 10):
-        path = find_combination(weights)
+        path = get_path(get_closesed_weight(visited), visited)
         print_path_for_weight(path) 
     print(f'time: {time.time() - start}')
     print(f'time find_combination: {end_find_combination - start}')
