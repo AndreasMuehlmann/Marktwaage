@@ -26,7 +26,7 @@ def get_weigts():
         start_weights.append((int(doc[i]), int(doc[i + 1]))) 
     return start_weights
 
-def get_closesed_weight(visited):
+def get_closesed_weight(visited, searched_weight):
     closesed_weight = visited[0]
     for node in visited:
         if abs(closesed_weight.total_weight - searched_weight) > abs(node.total_weight - searched_weight):
@@ -39,7 +39,7 @@ def get_path(end, visited, path=[]):
         return path
     return get_path(visited[end.previous], visited, path)
 
-def find_combination(weights):
+def get_combinations(weights):
     layer = [Node(0, 0, 0)]
     visited = []
     for weight in weights:
@@ -54,25 +54,24 @@ def find_combination(weights):
     visited.extend(next_layer)
     return visited 
 
-def print_path_for_weight(path):
+def print_path_for_weight(path, searched_weight):
     print(f'weight {searched_weight}:')
     for node in path:
         for count in range(node.count):
             print(node.weight)
     print(f'reached weight{node.total_weight}')
+    return
 
 def main():
-    global searched_weight
-    searched_weight = float('inf')
     weights = get_weigts()
     start = time.time() 
-    visited = find_combination(weights)
-    end_find_combination = time.time()
+    visited = get_combinations(weights)
+    end_get_combinations = time.time()
     for searched_weight in range(10, 10010, 10):
-        path = get_path(get_closesed_weight(visited), visited)
-        print_path_for_weight(path) 
+        path = get_path(get_closesed_weight(visited, searched_weight), visited)
+        print_path_for_weight(path, searched_weight) 
     print(f'time: {time.time() - start}')
-    print(f'time find_combination: {end_find_combination - start}')
+    print(f'time get_combinations: {end_get_combinations - start}')
     return
 
 if __name__ == '__main__':
