@@ -17,8 +17,8 @@ class Node:
         self.total_weight += self.count * self.weight
 
 
-def get_weigts():
-    url = 'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke1.txt'
+def get_weigts(url):
+    
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
@@ -54,32 +54,33 @@ def get_combinations(weights):
     visited.extend(next_layer)
     return visited 
 
-def write_path_for_weight_to_file(path, searched_weight):
-    with open('Marktwage_Ergebnisee.txt', 'a') as file:
-        file.write(f'weight {searched_weight} -> reached weight {path[-1].total_weight}\n')
-        for index, node in enumerate(path):
-            for count in range(node.count):
-                file.write(f'{node.weight}  ')
-            file.write('\n')
-        for _ in range(2):
-            file.write('\n')
-        return
+def write_path_for_weight_to_file(path, searched_weight, file):
+    file.write(f'weight {searched_weight} -> reached weight {path[-1].total_weight}')
+    for index, node in enumerate(path):
+        for count in range(node.count):
+            file.write(f'{node.weight}  ')
+        file.write('\n')
+    file.write('\n')
+    return
 
 def main():
-    weights = get_weigts()
-    start = time.time() 
-    visited = get_combinations(weights)
-    end_get_combinations = time.time()
-    with open('Marktwage_Ergebnisee.txt', 'w'):
-        pass
-    for searched_weight in range(10, 510, 10):
-        path = get_path(get_closesed_weight(visited, searched_weight), visited)
-        write_path_for_weight_to_file(path, searched_weight) 
-    for searched_weight in range(9500, 10010, 10):
-        path = get_path(get_closesed_weight(visited, searched_weight), visited)
-        write_path_for_weight_to_file(path, searched_weight) 
-    print(f'time: {time.time() - start}')
-    print(f'time get_combinations: {end_get_combinations - start}')
+    with open('marktwaage_results.txt', 'w') as file:
+        file.write('Marktwaage\n\n')
+        for task in range(6):
+            file.write(f'Test {task}\n\n')
+            weights = get_weigts(f'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke{task}.txt')
+            start = time.time() 
+            visited = get_combinations(weights)
+            end_get_combinations = time.time()
+            for searched_weight in range(10, 510, 10):
+                path = get_path(get_closesed_weight(visited, searched_weight), visited)
+                write_path_for_weight_to_file(path, searched_weight, file) 
+            for searched_weight in range(9500, 10010, 10):
+                path = get_path(get_closesed_weight(visited, searched_weight), visited)
+                write_path_for_weight_to_file(path, searched_weight, file) 
+            print(f'time: {time.time() - start}')
+            print(f'time get_combinations: {end_get_combinations - start}')
+            file.write('\n\n')
     return
 
 if __name__ == '__main__':
