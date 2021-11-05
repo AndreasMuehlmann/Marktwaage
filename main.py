@@ -64,9 +64,9 @@ def write_path_for_weight_to_file(path, searched_weight, file):
     return
 
 def main():
-    with open('marktwaage_results.txt', 'w') as file:
-        file.write('Marktwaage\n\n')
-        for task in range(6):
+    for task in range(6):
+        with open(f'marktwaage_results{task}.txt', 'w') as file:
+            file.write('Marktwaage\n\n')
             file.write(f'Test {task}\n\n')
             weights = get_weigts(f'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke{task}.txt')
             start = time.time() 
