@@ -72,10 +72,7 @@ def main():
             start = time.time() 
             visited = get_combinations(weights)
             end_get_combinations = time.time()
-            for searched_weight in range(10, 510, 10):
-                path = get_path(get_closesed_weight(visited, searched_weight), visited)
-                write_path_for_weight_to_file(path, searched_weight, file) 
-            for searched_weight in range(9500, 10010, 10):
+            for searched_weight in range(10, 10010, 10):
                 path = get_path(get_closesed_weight(visited, searched_weight), visited)
                 write_path_for_weight_to_file(path, searched_weight, file) 
             print(f'time: {time.time() - start}')
