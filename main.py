@@ -80,7 +80,6 @@ def main():
                 write_path_for_weight_to_file(path, searched_weight, file) 
             print(f'time: {time.time() - start}')
             print(f'time get_combinations: {end_get_combinations - start}')
-            file.write('\n\n')
     return
 
 if __name__ == '__main__':
