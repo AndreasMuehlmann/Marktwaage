@@ -10,15 +10,14 @@ class Node:
     count : int
     weight : int 
     total_weight : int
-    previous : int = None 
-    index : int = None
+    index : int
+    previous : int = None
 
     def __post_init__(self):
         self.total_weight += self.count * self.weight
 
 
 def get_weigts(url):
-    
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
@@ -40,18 +39,14 @@ def get_path(end, visited, path=[]):
     return get_path(visited[end.previous], visited, path)
 
 def get_combinations(weights):
-    layer = [Node(0, 0, 0)]
-    visited = []
+    visited = [Node(0, 0, 0, 0)]
     for weight in weights:
-        next_layer = [Node(0, 0, 0)]
-        for node in layer:
-            node.index = len(visited)
+        visited_add_on = []
+        for node in visited:
             for count in range(weight[1]):
-                    next_layer.append(Node(count + 1, +weight[0], node.total_weight, node.index)) 
-                    next_layer.append(Node(count + 1, -weight[0], node.total_weight, node.index))
-            visited.append(node)
-        layer = copy.deepcopy(next_layer)
-    visited.extend(next_layer)
+                    visited_add_on.append(Node(count + 1, +weight[0], node.total_weight, len(visited) + len(visited_add_on), node.index)) 
+                    visited_add_on.append(Node(count + 1, -weight[0], node.total_weight, len(visited_add_on) + len(visited), node.index))
+        visited.extend(visited_add_on)
     return visited 
 
 def write_path_for_weight_to_file(path, searched_weight, file):
