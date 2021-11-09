@@ -1,6 +1,5 @@
 import time
 import requests
-import copy
 from dataclasses import dataclass
 
 
@@ -21,6 +20,7 @@ def get_weigts(url):
     result = requests.get(url)
     doc = result.content.decode("utf-8").split()
     start_weights = []
+
     for i in range(1, len(doc), 2):
         start_weights.append((int(doc[i]), int(doc[i + 1]))) 
     return start_weights
@@ -51,8 +51,8 @@ def get_combinations(weights):
 
 def write_path_for_weight_to_file(path, searched_weight, file):
     file.write(f'weight {searched_weight} -> reached weight {path[-1].total_weight}')
-    for index, node in enumerate(path):
-        for count in range(node.count):
+    for node in enumerate(path):
+        for _ in range(node.count):
             file.write(f'{node.weight}  ')
         file.write('\n')
     file.write('\n')
@@ -64,14 +64,16 @@ def main():
             file.write('Marktwaage\n\n')
             file.write(f'Test {task}\n\n')
             weights = get_weigts(f'https://bwinf.de/fileadmin/user_upload/gewichtsstuecke{task}.txt')
+
             start = time.time() 
             visited = get_combinations(weights)
-            end_get_combinations = time.time()
+            print(f'time get_combinations: {time.time() - start}')
+
             for searched_weight in range(10, 10010, 10):
                 path = get_path(get_closesed_weight(visited, searched_weight), visited)
                 write_path_for_weight_to_file(path, searched_weight, file) 
+
             print(f'time: {time.time() - start}')
-            print(f'time get_combinations: {end_get_combinations - start}')
     return
 
 if __name__ == '__main__':
