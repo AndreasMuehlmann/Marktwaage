@@ -1,0 +1,5555 @@
+Marktwaage
+
+Test 1
+
+weight 10 -> reached weight 10
+127  127  127  
+-371  
+
+weight 20 -> reached weight 19
+-42  -42  -42  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 30 -> reached weight 29
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  
+
+weight 40 -> reached weight 42
+42  
+
+weight 50 -> reached weight 51
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  
+
+weight 60 -> reached weight 60
+42  
+-127  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 70 -> reached weight 70
+42  
+127  127  
+-371  -371  -371  -371  -371  -371  
+2000  
+
+weight 80 -> reached weight 84
+42  42  
+
+weight 90 -> reached weight 93
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  
+
+weight 100 -> reached weight 100
+-42  -42  -42  
+371  371  371  371  371  371  
+-2000  
+
+weight 110 -> reached weight 110
+-42  -42  -42  
+127  127  127  
+371  371  371  371  371  
+-2000  
+
+weight 120 -> reached weight 118
+-42  -42  -42  
+-127  
+371  
+
+weight 130 -> reached weight 128
+-42  -42  -42  
+127  127  
+
+weight 140 -> reached weight 141
+42  
+-127  
+371  371  371  371  371  371  
+-2000  
+
+weight 150 -> reached weight 151
+42  
+127  127  
+371  371  371  371  371  
+-2000  
+
+weight 160 -> reached weight 160
+-42  -42  
+-127  
+371  
+
+weight 170 -> reached weight 170
+-42  -42  
+127  127  
+
+weight 180 -> reached weight 178
+-42  -42  
+-127  -127  
+-371  -371  -371  -371  
+2000  
+
+weight 190 -> reached weight 188
+-42  -42  
+127  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 200 -> reached weight 201
+42  42  
+-127  -127  
+371  
+
+weight 210 -> reached weight 211
+42  42  
+127  
+
+weight 220 -> reached weight 220
+-42  
+-127  -127  
+-371  -371  -371  -371  
+2000  
+
+weight 230 -> reached weight 230
+-42  
+127  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 240 -> reached weight 239
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  
+
+weight 250 -> reached weight 253
+42  42  42  
+127  
+
+weight 260 -> reached weight 261
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  
+
+weight 270 -> reached weight 269
+-42  -42  
+127  
+371  371  371  371  371  371  
+-2000  
+
+weight 280 -> reached weight 281
+42  42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  
+
+weight 290 -> reached weight 287
+-42  -42  
+371  
+
+weight 300 -> reached weight 297
+-42  -42  
+127  127  127  
+
+weight 310 -> reached weight 310
+42  42  
+371  371  371  371  371  371  
+-2000  
+
+weight 320 -> reached weight 320
+42  42  
+127  127  127  
+371  371  371  371  371  
+-2000  
+
+weight 330 -> reached weight 329
+-42  
+371  
+
+weight 340 -> reached weight 339
+-42  
+127  127  127  
+
+weight 350 -> reached weight 352
+42  42  42  
+371  371  371  371  371  371  
+-2000  
+
+weight 360 -> reached weight 361
+-127  -127  -127  
+371  371  
+
+weight 370 -> reached weight 370
+42  42  42  
+-127  
+371  
+
+weight 380 -> reached weight 380
+42  42  42  
+127  127  
+
+weight 390 -> reached weight 390
+-42  -42  -42  
+-371  -371  -371  -371  
+2000  
+
+weight 400 -> reached weight 400
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 410 -> reached weight 413
+42  
+371  
+
+weight 420 -> reached weight 422
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  
+2000  
+
+weight 430 -> reached weight 431
+42  
+-127  
+-371  -371  -371  -371  
+2000  
+
+weight 440 -> reached weight 441
+42  
+127  127  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 450 -> reached weight 446
+-42  
+-127  -127  
+371  371  
+
+weight 460 -> reached weight 456
+-42  
+127  
+371  
+
+weight 470 -> reached weight 473
+42  42  
+-127  
+-371  -371  -371  -371  
+2000  
+
+weight 480 -> reached weight 480
+127  127  
+371  371  371  371  371  371  
+-2000  
+
+weight 490 -> reached weight 489
+-42  -42  -42  
+-127  
+371  371  
+
+weight 500 -> reached weight 499
+-42  -42  -42  
+127  127  
+371  
+
+weight 510 -> reached weight 507
+42  42  42  
+127  127  127  
+
+weight 520 -> reached weight 522
+42  
+127  127  
+371  371  371  371  371  371  
+-2000  
+
+weight 530 -> reached weight 530
+42  
+-127  -127  
+371  371  
+
+weight 540 -> reached weight 540
+42  
+127  
+371  
+
+weight 550 -> reached weight 549
+-42  -42  
+-127  -127  
+-371  -371  -371  
+2000  
+
+weight 560 -> reached weight 559
+-42  -42  
+127  
+-371  -371  -371  -371  
+2000  
+
+weight 570 -> reached weight 568
+42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 580 -> reached weight 582
+42  42  
+127  
+371  
+
+weight 590 -> reached weight 590
+42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  
+
+weight 600 -> reached weight 600
+42  42  
+-371  -371  -371  -371  
+2000  
+
+weight 610 -> reached weight 610
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  
+
+weight 620 -> reached weight 616
+-42  -42  -42  
+371  371  
+
+weight 630 -> reached weight 632
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  
+
+weight 640 -> reached weight 642
+42  42  42  
+-371  -371  -371  -371  
+2000  
+
+weight 650 -> reached weight 649
+42  
+127  127  127  
+371  371  371  371  371  371  
+-2000  
+
+weight 660 -> reached weight 658
+-42  -42  
+371  371  
+
+weight 670 -> reached weight 668
+-42  -42  
+127  127  127  
+371  
+
+weight 680 -> reached weight 676
+-42  -42  
+-127  
+-371  -371  -371  
+2000  
+
+weight 690 -> reached weight 690
+-42  
+-127  -127  -127  
+371  371  371  
+
+weight 700 -> reached weight 700
+-42  
+371  371  
+
+weight 710 -> reached weight 710
+-42  
+127  127  127  
+371  
+
+weight 720 -> reached weight 718
+-42  
+-127  
+-371  -371  -371  
+2000  
+
+weight 730 -> reached weight 728
+-42  
+127  127  
+-371  -371  -371  -371  
+2000  
+
+weight 740 -> reached weight 741
+42  42  42  
+-127  
+371  371  
+
+weight 750 -> reached weight 751
+42  42  42  
+127  127  
+371  
+
+weight 760 -> reached weight 760
+-127  
+-371  -371  -371  
+2000  
+
+weight 770 -> reached weight 770
+127  127  
+-371  -371  -371  -371  
+2000  
+
+weight 780 -> reached weight 784
+42  
+371  371  
+
+weight 790 -> reached weight 793
+-42  -42  
+-127  -127  -127  
+-371  -371  
+2000  
+
+weight 800 -> reached weight 802
+42  
+-127  
+-371  -371  -371  
+2000  
+
+weight 810 -> reached weight 812
+42  
+127  127  
+-371  -371  -371  -371  
+2000  
+
+weight 820 -> reached weight 817
+-42  
+-127  -127  
+371  371  371  
+
+weight 830 -> reached weight 827
+-42  
+127  
+371  371  
+
+weight 840 -> reached weight 836
+42  42  
+127  127  127  
+371  
+
+weight 850 -> reached weight 854
+42  42  
+127  127  
+-371  -371  -371  -371  
+2000  
+
+weight 860 -> reached weight 860
+-42  -42  -42  
+-127  
+371  371  371  
+
+weight 870 -> reached weight 870
+-42  -42  -42  
+127  127  
+371  371  
+
+weight 880 -> reached weight 878
+42  42  42  
+127  127  127  
+371  
+
+weight 890 -> reached weight 888
+-42  -42  -42  
+127  
+-371  -371  -371  
+2000  
+
+weight 900 -> reached weight 901
+42  
+-127  -127  
+371  371  371  
+
+weight 910 -> reached weight 911
+42  
+127  
+371  371  
+
+weight 920 -> reached weight 920
+-42  -42  
+-127  -127  
+-371  -371  
+2000  
+
+weight 930 -> reached weight 930
+-42  -42  
+127  
+-371  -371  -371  
+2000  
+
+weight 940 -> reached weight 939
+42  
+127  127  127  
+-371  -371  -371  -371  
+2000  
+
+weight 950 -> reached weight 953
+42  42  
+127  
+371  371  
+
+weight 960 -> reached weight 961
+42  42  
+-127  -127  -127  
+-371  -371  
+2000  
+
+weight 970 -> reached weight 971
+42  42  
+-371  -371  -371  
+2000  
+
+weight 980 -> reached weight 981
+42  42  
+127  127  127  
+-371  -371  -371  -371  
+2000  
+
+weight 990 -> reached weight 987
+-42  -42  -42  
+371  371  371  
+
+weight 1000 -> reached weight 997
+-42  -42  -42  
+127  127  127  
+371  371  
+
+weight 1010 -> reached weight 1013
+42  42  42  
+-371  -371  -371  
+2000  
+
+weight 1020 -> reached weight 1019
+-42  -42  
+-127  -127  -127  
+371  371  371  371  
+
+weight 1030 -> reached weight 1029
+-42  -42  
+371  371  371  
+
+weight 1040 -> reached weight 1039
+-42  -42  
+127  127  127  
+371  371  
+
+weight 1050 -> reached weight 1047
+-42  -42  
+-127  
+-371  -371  
+2000  
+
+weight 1060 -> reached weight 1061
+-42  
+-127  -127  -127  
+371  371  371  371  
+
+weight 1070 -> reached weight 1070
+42  42  
+-127  
+371  371  371  
+
+weight 1080 -> reached weight 1080
+42  42  
+127  127  
+371  371  
+
+weight 1090 -> reached weight 1089
+-42  
+-127  
+-371  -371  
+2000  
+
+weight 1100 -> reached weight 1099
+-42  
+127  127  
+-371  -371  -371  
+2000  
+
+weight 1110 -> reached weight 1112
+42  42  42  
+-127  
+371  371  371  
+
+weight 1120 -> reached weight 1122
+42  42  42  
+127  127  
+371  371  
+
+weight 1130 -> reached weight 1130
+42  42  42  
+-127  -127  
+-371  -371  
+2000  
+
+weight 1140 -> reached weight 1140
+42  42  42  
+127  
+-371  -371  -371  
+2000  
+
+weight 1150 -> reached weight 1146
+-42  -42  
+-127  -127  
+371  371  371  371  
+
+weight 1160 -> reached weight 1156
+-42  -42  
+127  
+371  371  371  
+
+weight 1170 -> reached weight 1173
+42  
+-127  
+-371  -371  
+2000  
+
+weight 1180 -> reached weight 1183
+42  
+127  127  
+-371  -371  -371  
+2000  
+
+weight 1190 -> reached weight 1188
+-42  
+-127  -127  
+371  371  371  371  
+
+weight 1200 -> reached weight 1198
+-42  
+127  
+371  371  371  
+
+weight 1210 -> reached weight 1207
+42  42  
+127  127  127  
+371  371  
+
+weight 1220 -> reached weight 1216
+-42  
+-371  -371  
+2000  
+
+weight 1230 -> reached weight 1230
+-127  -127  
+371  371  371  371  
+
+weight 1240 -> reached weight 1240
+127  
+371  371  371  
+
+weight 1250 -> reached weight 1249
+42  42  42  
+127  127  127  
+371  371  
+
+weight 1260 -> reached weight 1259
+-42  -42  -42  
+127  
+-371  -371  
+2000  
+
+weight 1270 -> reached weight 1268
+127  127  127  
+-371  -371  -371  
+2000  
+
+weight 1280 -> reached weight 1282
+42  
+127  
+371  371  371  
+
+weight 1290 -> reached weight 1290
+42  
+-127  -127  -127  
+-371  
+2000  
+
+weight 1300 -> reached weight 1300
+42  
+-371  -371  
+2000  
+
+weight 1310 -> reached weight 1310
+42  
+127  127  127  
+-371  -371  -371  
+2000  
+
+weight 1320 -> reached weight 1324
+42  42  
+127  
+371  371  371  
+
+weight 1330 -> reached weight 1332
+42  42  
+-127  -127  -127  
+-371  
+2000  
+
+weight 1340 -> reached weight 1342
+42  42  
+-371  -371  
+2000  
+
+weight 1350 -> reached weight 1351
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1360 -> reached weight 1358
+-42  -42  -42  
+371  371  371  371  
+
+weight 1370 -> reached weight 1368
+-42  -42  -42  
+127  127  127  
+371  371  371  
+
+weight 1380 -> reached weight 1376
+-42  -42  -42  
+-127  
+-371  
+2000  
+
+weight 1390 -> reached weight 1390
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  
+
+weight 1400 -> reached weight 1400
+-42  -42  
+371  371  371  371  
+
+weight 1410 -> reached weight 1410
+-42  -42  
+127  127  127  
+371  371  371  
+
+weight 1420 -> reached weight 1418
+-42  -42  
+-127  
+-371  
+2000  
+
+weight 1430 -> reached weight 1428
+-42  -42  
+127  127  
+-371  -371  
+2000  
+
+weight 1440 -> reached weight 1441
+42  42  
+-127  
+371  371  371  371  
+
+weight 1450 -> reached weight 1451
+42  42  
+127  127  
+371  371  371  
+
+weight 1460 -> reached weight 1460
+-42  
+-127  
+-371  
+2000  
+
+weight 1470 -> reached weight 1470
+-42  
+127  127  
+-371  -371  
+2000  
+
+weight 1480 -> reached weight 1478
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1490 -> reached weight 1493
+42  42  42  
+127  127  
+371  371  371  
+
+weight 1500 -> reached weight 1501
+42  42  42  
+-127  -127  
+-371  
+2000  
+
+weight 1510 -> reached weight 1511
+42  42  42  
+127  
+-371  -371  
+2000  
+
+weight 1520 -> reached weight 1520
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1530 -> reached weight 1527
+-42  -42  
+127  
+371  371  371  371  
+
+weight 1540 -> reached weight 1536
+42  
+127  127  127  
+371  371  371  
+
+weight 1550 -> reached weight 1554
+42  
+127  127  
+-371  -371  
+2000  
+
+weight 1560 -> reached weight 1559
+-42  
+-127  -127  
+371  371  371  371  371  
+
+weight 1570 -> reached weight 1569
+-42  
+127  
+371  371  371  371  
+
+weight 1580 -> reached weight 1578
+42  42  
+127  127  127  
+371  371  371  
+
+weight 1590 -> reached weight 1587
+-42  
+-371  
+2000  
+
+weight 1600 -> reached weight 1600
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  
+
+weight 1610 -> reached weight 1610
+42  42  42  
+371  371  371  371  
+
+weight 1620 -> reached weight 1620
+42  42  42  
+127  127  127  
+371  371  371  
+
+weight 1630 -> reached weight 1630
+-42  -42  -42  
+127  
+-371  
+2000  
+
+weight 1640 -> reached weight 1639
+127  127  127  
+-371  -371  
+2000  
+
+weight 1650 -> reached weight 1648
+-42  -42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1660 -> reached weight 1661
+42  
+-127  -127  -127  
+2000  
+
+weight 1670 -> reached weight 1671
+42  
+-371  
+2000  
+
+weight 1680 -> reached weight 1680
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1690 -> reached weight 1690
+-42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1700 -> reached weight 1703
+42  42  
+-127  -127  -127  
+2000  
+
+weight 1710 -> reached weight 1713
+42  42  
+-371  
+2000  
+
+weight 1720 -> reached weight 1719
+-42  -42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+
+weight 1730 -> reached weight 1729
+-42  -42  -42  
+371  371  371  371  371  
+
+weight 1740 -> reached weight 1739
+-42  -42  -42  
+127  127  127  
+371  371  371  371  
+
+weight 1750 -> reached weight 1747
+-42  -42  -42  
+-127  
+2000  
+
+weight 1760 -> reached weight 1761
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+
+weight 1770 -> reached weight 1770
+42  
+-127  
+371  371  371  371  371  
+
+weight 1780 -> reached weight 1780
+42  
+127  127  
+371  371  371  371  
+
+weight 1790 -> reached weight 1789
+-42  -42  
+-127  
+2000  
+
+weight 1800 -> reached weight 1799
+-42  -42  
+127  127  
+-371  
+2000  
+
+weight 1810 -> reached weight 1812
+42  42  
+-127  
+371  371  371  371  371  
+
+weight 1820 -> reached weight 1822
+42  42  
+127  127  
+371  371  371  371  
+
+weight 1830 -> reached weight 1830
+42  42  
+-127  -127  
+2000  
+
+weight 1840 -> reached weight 1840
+42  42  
+127  
+-371  
+2000  
+
+weight 1850 -> reached weight 1849
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1860 -> reached weight 1859
+-42  
+127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1870 -> reached weight 1872
+42  42  42  
+-127  -127  
+2000  
+
+weight 1880 -> reached weight 1882
+42  42  42  
+127  
+-371  
+2000  
+
+weight 1890 -> reached weight 1890
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1900 -> reached weight 1900
+42  42  42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 1910 -> reached weight 1907
+42  
+127  127  127  
+371  371  371  371  
+
+weight 1920 -> reached weight 1916
+-42  -42  
+2000  
+
+weight 1930 -> reached weight 1930
+-42  
+-127  -127  
+371  371  371  371  371  371  
+
+weight 1940 -> reached weight 1940
+-42  
+127  
+371  371  371  371  371  
+
+weight 1950 -> reached weight 1949
+42  42  
+127  127  127  
+371  371  371  371  
+
+weight 1960 -> reached weight 1958
+-42  
+2000  
+
+weight 1970 -> reached weight 1971
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  371  
+
+weight 1980 -> reached weight 1981
+42  42  42  
+371  371  371  371  371  
+
+weight 1990 -> reached weight 1990
+-127  -127  -127  
+371  
+2000  
+
+weight 2000 -> reached weight 2000
+2000  
+
+weight 2010 -> reached weight 2010
+127  127  127  
+-371  
+2000  
+
+weight 2020 -> reached weight 2019
+-42  -42  -42  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2030 -> reached weight 2029
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2040 -> reached weight 2042
+42  
+2000  
+
+weight 2050 -> reached weight 2051
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2060 -> reached weight 2060
+42  
+-127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2070 -> reached weight 2070
+42  
+127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2080 -> reached weight 2084
+42  42  
+2000  
+
+weight 2090 -> reached weight 2093
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2100 -> reached weight 2100
+-42  -42  -42  
+371  371  371  371  371  371  
+
+weight 2110 -> reached weight 2110
+-42  -42  -42  
+127  127  127  
+371  371  371  371  371  
+
+weight 2120 -> reached weight 2118
+-42  -42  -42  
+-127  
+371  
+2000  
+
+weight 2130 -> reached weight 2128
+-42  -42  -42  
+127  127  
+2000  
+
+weight 2140 -> reached weight 2141
+42  
+-127  
+371  371  371  371  371  371  
+
+weight 2150 -> reached weight 2151
+42  
+127  127  
+371  371  371  371  371  
+
+weight 2160 -> reached weight 2160
+-42  -42  
+-127  
+371  
+2000  
+
+weight 2170 -> reached weight 2170
+-42  -42  
+127  127  
+2000  
+
+weight 2180 -> reached weight 2178
+-42  -42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2190 -> reached weight 2188
+-42  -42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2200 -> reached weight 2201
+42  42  
+-127  -127  
+371  
+2000  
+
+weight 2210 -> reached weight 2211
+42  42  
+127  
+2000  
+
+weight 2220 -> reached weight 2220
+-42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2230 -> reached weight 2230
+-42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2240 -> reached weight 2239
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2250 -> reached weight 2253
+42  42  42  
+127  
+2000  
+
+weight 2260 -> reached weight 2261
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2270 -> reached weight 2269
+-42  -42  
+127  
+371  371  371  371  371  371  
+
+weight 2280 -> reached weight 2281
+42  42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2290 -> reached weight 2287
+-42  -42  
+371  
+2000  
+
+weight 2300 -> reached weight 2297
+-42  -42  
+127  127  127  
+2000  
+
+weight 2310 -> reached weight 2310
+42  42  
+371  371  371  371  371  371  
+
+weight 2320 -> reached weight 2320
+42  42  
+127  127  127  
+371  371  371  371  371  
+
+weight 2330 -> reached weight 2329
+-42  
+371  
+2000  
+
+weight 2340 -> reached weight 2339
+-42  
+127  127  127  
+2000  
+
+weight 2350 -> reached weight 2352
+42  42  42  
+371  371  371  371  371  371  
+
+weight 2360 -> reached weight 2361
+-127  -127  -127  
+371  371  
+2000  
+
+weight 2370 -> reached weight 2370
+42  42  42  
+-127  
+371  
+2000  
+
+weight 2380 -> reached weight 2380
+42  42  42  
+127  127  
+2000  
+
+weight 2390 -> reached weight 2390
+-42  -42  -42  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2400 -> reached weight 2400
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2410 -> reached weight 2413
+42  
+371  
+2000  
+
+weight 2420 -> reached weight 2422
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  
+
+weight 2430 -> reached weight 2431
+42  
+-127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2440 -> reached weight 2441
+42  
+127  127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2450 -> reached weight 2446
+-42  
+-127  -127  
+371  371  
+2000  
+
+weight 2460 -> reached weight 2456
+-42  
+127  
+371  
+2000  
+
+weight 2470 -> reached weight 2473
+42  42  
+-127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2480 -> reached weight 2480
+127  127  
+371  371  371  371  371  371  
+
+weight 2490 -> reached weight 2489
+-42  -42  -42  
+-127  
+371  371  
+2000  
+
+weight 2500 -> reached weight 2499
+-42  -42  -42  
+127  127  
+371  
+2000  
+
+weight 2510 -> reached weight 2507
+42  42  42  
+127  127  127  
+2000  
+
+weight 2520 -> reached weight 2522
+42  
+127  127  
+371  371  371  371  371  371  
+
+weight 2530 -> reached weight 2530
+42  
+-127  -127  
+371  371  
+2000  
+
+weight 2540 -> reached weight 2540
+42  
+127  
+371  
+2000  
+
+weight 2550 -> reached weight 2549
+-42  -42  
+-127  -127  
+-371  -371  -371  
+2000  2000  
+
+weight 2560 -> reached weight 2559
+-42  -42  
+127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2570 -> reached weight 2568
+42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2580 -> reached weight 2582
+42  42  
+127  
+371  
+2000  
+
+weight 2590 -> reached weight 2590
+42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  
+
+weight 2600 -> reached weight 2600
+42  42  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2610 -> reached weight 2610
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  
+
+weight 2620 -> reached weight 2616
+-42  -42  -42  
+371  371  
+2000  
+
+weight 2630 -> reached weight 2632
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  
+
+weight 2640 -> reached weight 2642
+42  42  42  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2650 -> reached weight 2649
+42  
+127  127  127  
+371  371  371  371  371  371  
+
+weight 2660 -> reached weight 2658
+-42  -42  
+371  371  
+2000  
+
+weight 2670 -> reached weight 2668
+-42  -42  
+127  127  127  
+371  
+2000  
+
+weight 2680 -> reached weight 2676
+-42  -42  
+-127  
+-371  -371  -371  
+2000  2000  
+
+weight 2690 -> reached weight 2690
+-42  
+-127  -127  -127  
+371  371  371  
+2000  
+
+weight 2700 -> reached weight 2700
+-42  
+371  371  
+2000  
+
+weight 2710 -> reached weight 2710
+-42  
+127  127  127  
+371  
+2000  
+
+weight 2720 -> reached weight 2718
+-42  
+-127  
+-371  -371  -371  
+2000  2000  
+
+weight 2730 -> reached weight 2728
+-42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2740 -> reached weight 2741
+42  42  42  
+-127  
+371  371  
+2000  
+
+weight 2750 -> reached weight 2751
+42  42  42  
+127  127  
+371  
+2000  
+
+weight 2760 -> reached weight 2760
+-127  
+-371  -371  -371  
+2000  2000  
+
+weight 2770 -> reached weight 2770
+127  127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2780 -> reached weight 2784
+42  
+371  371  
+2000  
+
+weight 2790 -> reached weight 2793
+-42  -42  
+-127  -127  -127  
+-371  -371  
+2000  2000  
+
+weight 2800 -> reached weight 2802
+42  
+-127  
+-371  -371  -371  
+2000  2000  
+
+weight 2810 -> reached weight 2812
+42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2820 -> reached weight 2817
+-42  
+-127  -127  
+371  371  371  
+2000  
+
+weight 2830 -> reached weight 2827
+-42  
+127  
+371  371  
+2000  
+
+weight 2840 -> reached weight 2836
+42  42  
+127  127  127  
+371  
+2000  
+
+weight 2850 -> reached weight 2854
+42  42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2860 -> reached weight 2860
+-42  -42  -42  
+-127  
+371  371  371  
+2000  
+
+weight 2870 -> reached weight 2870
+-42  -42  -42  
+127  127  
+371  371  
+2000  
+
+weight 2880 -> reached weight 2878
+42  42  42  
+127  127  127  
+371  
+2000  
+
+weight 2890 -> reached weight 2888
+-42  -42  -42  
+127  
+-371  -371  -371  
+2000  2000  
+
+weight 2900 -> reached weight 2901
+42  
+-127  -127  
+371  371  371  
+2000  
+
+weight 2910 -> reached weight 2911
+42  
+127  
+371  371  
+2000  
+
+weight 2920 -> reached weight 2920
+-42  -42  
+-127  -127  
+-371  -371  
+2000  2000  
+
+weight 2930 -> reached weight 2930
+-42  -42  
+127  
+-371  -371  -371  
+2000  2000  
+
+weight 2940 -> reached weight 2939
+42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2950 -> reached weight 2953
+42  42  
+127  
+371  371  
+2000  
+
+weight 2960 -> reached weight 2961
+42  42  
+-127  -127  -127  
+-371  -371  
+2000  2000  
+
+weight 2970 -> reached weight 2971
+42  42  
+-371  -371  -371  
+2000  2000  
+
+weight 2980 -> reached weight 2981
+42  42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  
+
+weight 2990 -> reached weight 2987
+-42  -42  -42  
+371  371  371  
+2000  
+
+weight 3000 -> reached weight 2997
+-42  -42  -42  
+127  127  127  
+371  371  
+2000  
+
+weight 3010 -> reached weight 3013
+42  42  42  
+-371  -371  -371  
+2000  2000  
+
+weight 3020 -> reached weight 3019
+-42  -42  
+-127  -127  -127  
+371  371  371  371  
+2000  
+
+weight 3030 -> reached weight 3029
+-42  -42  
+371  371  371  
+2000  
+
+weight 3040 -> reached weight 3039
+-42  -42  
+127  127  127  
+371  371  
+2000  
+
+weight 3050 -> reached weight 3047
+-42  -42  
+-127  
+-371  -371  
+2000  2000  
+
+weight 3060 -> reached weight 3061
+-42  
+-127  -127  -127  
+371  371  371  371  
+2000  
+
+weight 3070 -> reached weight 3070
+42  42  
+-127  
+371  371  371  
+2000  
+
+weight 3080 -> reached weight 3080
+42  42  
+127  127  
+371  371  
+2000  
+
+weight 3090 -> reached weight 3089
+-42  
+-127  
+-371  -371  
+2000  2000  
+
+weight 3100 -> reached weight 3099
+-42  
+127  127  
+-371  -371  -371  
+2000  2000  
+
+weight 3110 -> reached weight 3112
+42  42  42  
+-127  
+371  371  371  
+2000  
+
+weight 3120 -> reached weight 3122
+42  42  42  
+127  127  
+371  371  
+2000  
+
+weight 3130 -> reached weight 3130
+42  42  42  
+-127  -127  
+-371  -371  
+2000  2000  
+
+weight 3140 -> reached weight 3140
+42  42  42  
+127  
+-371  -371  -371  
+2000  2000  
+
+weight 3150 -> reached weight 3146
+-42  -42  
+-127  -127  
+371  371  371  371  
+2000  
+
+weight 3160 -> reached weight 3156
+-42  -42  
+127  
+371  371  371  
+2000  
+
+weight 3170 -> reached weight 3173
+42  
+-127  
+-371  -371  
+2000  2000  
+
+weight 3180 -> reached weight 3183
+42  
+127  127  
+-371  -371  -371  
+2000  2000  
+
+weight 3190 -> reached weight 3188
+-42  
+-127  -127  
+371  371  371  371  
+2000  
+
+weight 3200 -> reached weight 3198
+-42  
+127  
+371  371  371  
+2000  
+
+weight 3210 -> reached weight 3207
+42  42  
+127  127  127  
+371  371  
+2000  
+
+weight 3220 -> reached weight 3216
+-42  
+-371  -371  
+2000  2000  
+
+weight 3230 -> reached weight 3230
+-127  -127  
+371  371  371  371  
+2000  
+
+weight 3240 -> reached weight 3240
+127  
+371  371  371  
+2000  
+
+weight 3250 -> reached weight 3249
+42  42  42  
+127  127  127  
+371  371  
+2000  
+
+weight 3260 -> reached weight 3259
+-42  -42  -42  
+127  
+-371  -371  
+2000  2000  
+
+weight 3270 -> reached weight 3268
+127  127  127  
+-371  -371  -371  
+2000  2000  
+
+weight 3280 -> reached weight 3282
+42  
+127  
+371  371  371  
+2000  
+
+weight 3290 -> reached weight 3290
+42  
+-127  -127  -127  
+-371  
+2000  2000  
+
+weight 3300 -> reached weight 3300
+42  
+-371  -371  
+2000  2000  
+
+weight 3310 -> reached weight 3310
+42  
+127  127  127  
+-371  -371  -371  
+2000  2000  
+
+weight 3320 -> reached weight 3324
+42  42  
+127  
+371  371  371  
+2000  
+
+weight 3330 -> reached weight 3332
+42  42  
+-127  -127  -127  
+-371  
+2000  2000  
+
+weight 3340 -> reached weight 3342
+42  42  
+-371  -371  
+2000  2000  
+
+weight 3350 -> reached weight 3351
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3360 -> reached weight 3358
+-42  -42  -42  
+371  371  371  371  
+2000  
+
+weight 3370 -> reached weight 3368
+-42  -42  -42  
+127  127  127  
+371  371  371  
+2000  
+
+weight 3380 -> reached weight 3376
+-42  -42  -42  
+-127  
+-371  
+2000  2000  
+
+weight 3390 -> reached weight 3390
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  
+
+weight 3400 -> reached weight 3400
+-42  -42  
+371  371  371  371  
+2000  
+
+weight 3410 -> reached weight 3410
+-42  -42  
+127  127  127  
+371  371  371  
+2000  
+
+weight 3420 -> reached weight 3418
+-42  -42  
+-127  
+-371  
+2000  2000  
+
+weight 3430 -> reached weight 3428
+-42  -42  
+127  127  
+-371  -371  
+2000  2000  
+
+weight 3440 -> reached weight 3441
+42  42  
+-127  
+371  371  371  371  
+2000  
+
+weight 3450 -> reached weight 3451
+42  42  
+127  127  
+371  371  371  
+2000  
+
+weight 3460 -> reached weight 3460
+-42  
+-127  
+-371  
+2000  2000  
+
+weight 3470 -> reached weight 3470
+-42  
+127  127  
+-371  -371  
+2000  2000  
+
+weight 3480 -> reached weight 3478
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3490 -> reached weight 3493
+-42  -42  -42  
+-127  -127  -127  
+2000  2000  
+
+weight 3500 -> reached weight 3501
+42  42  42  
+-127  -127  
+-371  
+2000  2000  
+
+weight 3510 -> reached weight 3511
+42  42  42  
+127  
+-371  -371  
+2000  2000  
+
+weight 3520 -> reached weight 3520
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3530 -> reached weight 3527
+-42  -42  
+127  
+371  371  371  371  
+2000  
+
+weight 3540 -> reached weight 3536
+42  
+127  127  127  
+371  371  371  
+2000  
+
+weight 3550 -> reached weight 3554
+42  
+127  127  
+-371  -371  
+2000  2000  
+
+weight 3560 -> reached weight 3559
+-42  
+-127  -127  
+371  371  371  371  371  
+2000  
+
+weight 3570 -> reached weight 3569
+-42  
+127  
+371  371  371  371  
+2000  
+
+weight 3580 -> reached weight 3578
+42  42  
+127  127  127  
+371  371  371  
+2000  
+
+weight 3590 -> reached weight 3587
+-42  
+-371  
+2000  2000  
+
+weight 3600 -> reached weight 3600
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  
+
+weight 3610 -> reached weight 3610
+42  42  42  
+371  371  371  371  
+2000  
+
+weight 3620 -> reached weight 3620
+-42  -42  -42  
+-127  -127  
+2000  2000  
+
+weight 3630 -> reached weight 3630
+-42  -42  -42  
+127  
+-371  
+2000  2000  
+
+weight 3640 -> reached weight 3639
+127  127  127  
+-371  -371  
+2000  2000  
+
+weight 3650 -> reached weight 3648
+-42  -42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3660 -> reached weight 3661
+42  
+-127  -127  -127  
+2000  2000  
+
+weight 3670 -> reached weight 3671
+42  
+-371  
+2000  2000  
+
+weight 3680 -> reached weight 3680
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3690 -> reached weight 3690
+-42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3700 -> reached weight 3703
+42  42  
+-127  -127  -127  
+2000  2000  
+
+weight 3710 -> reached weight 3713
+42  42  
+-371  
+2000  2000  
+
+weight 3720 -> reached weight 3719
+-42  -42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  
+
+weight 3730 -> reached weight 3729
+-42  -42  -42  
+371  371  371  371  371  
+2000  
+
+weight 3740 -> reached weight 3739
+-42  -42  -42  
+127  127  127  
+371  371  371  371  
+2000  
+
+weight 3750 -> reached weight 3747
+-42  -42  -42  
+-127  
+2000  2000  
+
+weight 3760 -> reached weight 3761
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  
+
+weight 3770 -> reached weight 3770
+42  
+-127  
+371  371  371  371  371  
+2000  
+
+weight 3780 -> reached weight 3780
+42  
+127  127  
+371  371  371  371  
+2000  
+
+weight 3790 -> reached weight 3789
+-42  -42  
+-127  
+2000  2000  
+
+weight 3800 -> reached weight 3799
+-42  -42  
+127  127  
+-371  
+2000  2000  
+
+weight 3810 -> reached weight 3812
+42  42  
+-127  
+371  371  371  371  371  
+2000  
+
+weight 3820 -> reached weight 3822
+42  42  
+127  127  
+371  371  371  371  
+2000  
+
+weight 3830 -> reached weight 3830
+42  42  
+-127  -127  
+2000  2000  
+
+weight 3840 -> reached weight 3840
+42  42  
+127  
+-371  
+2000  2000  
+
+weight 3850 -> reached weight 3849
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3860 -> reached weight 3859
+-42  
+127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3870 -> reached weight 3872
+42  42  42  
+-127  -127  
+2000  2000  
+
+weight 3880 -> reached weight 3882
+42  42  42  
+127  
+-371  
+2000  2000  
+
+weight 3890 -> reached weight 3890
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3900 -> reached weight 3900
+42  42  42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 3910 -> reached weight 3907
+42  
+127  127  127  
+371  371  371  371  
+2000  
+
+weight 3920 -> reached weight 3916
+-42  -42  
+2000  2000  
+
+weight 3930 -> reached weight 3930
+-42  
+-127  -127  
+371  371  371  371  371  371  
+2000  
+
+weight 3940 -> reached weight 3940
+-42  
+127  
+371  371  371  371  371  
+2000  
+
+weight 3950 -> reached weight 3949
+42  42  
+127  127  127  
+371  371  371  371  
+2000  
+
+weight 3960 -> reached weight 3958
+-42  
+2000  2000  
+
+weight 3970 -> reached weight 3971
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  
+
+weight 3980 -> reached weight 3981
+42  42  42  
+371  371  371  371  371  
+2000  
+
+weight 3990 -> reached weight 3990
+-127  -127  -127  
+371  
+2000  2000  
+
+weight 4000 -> reached weight 4000
+2000  2000  
+
+weight 4010 -> reached weight 4010
+127  127  127  
+-371  
+2000  2000  
+
+weight 4020 -> reached weight 4019
+-42  -42  -42  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4030 -> reached weight 4029
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4040 -> reached weight 4042
+42  
+2000  2000  
+
+weight 4050 -> reached weight 4051
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4060 -> reached weight 4060
+42  
+-127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4070 -> reached weight 4070
+42  
+127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4080 -> reached weight 4084
+42  42  
+2000  2000  
+
+weight 4090 -> reached weight 4093
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4100 -> reached weight 4100
+-42  -42  -42  
+371  371  371  371  371  371  
+2000  
+
+weight 4110 -> reached weight 4110
+-42  -42  -42  
+127  127  127  
+371  371  371  371  371  
+2000  
+
+weight 4120 -> reached weight 4118
+-42  -42  -42  
+-127  
+371  
+2000  2000  
+
+weight 4130 -> reached weight 4128
+-42  -42  -42  
+127  127  
+2000  2000  
+
+weight 4140 -> reached weight 4141
+42  
+-127  
+371  371  371  371  371  371  
+2000  
+
+weight 4150 -> reached weight 4151
+42  
+127  127  
+371  371  371  371  371  
+2000  
+
+weight 4160 -> reached weight 4160
+-42  -42  
+-127  
+371  
+2000  2000  
+
+weight 4170 -> reached weight 4170
+-42  -42  
+127  127  
+2000  2000  
+
+weight 4180 -> reached weight 4178
+-42  -42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4190 -> reached weight 4188
+-42  -42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4200 -> reached weight 4201
+42  42  
+-127  -127  
+371  
+2000  2000  
+
+weight 4210 -> reached weight 4211
+42  42  
+127  
+2000  2000  
+
+weight 4220 -> reached weight 4220
+-42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4230 -> reached weight 4230
+-42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4240 -> reached weight 4239
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4250 -> reached weight 4253
+42  42  42  
+127  
+2000  2000  
+
+weight 4260 -> reached weight 4261
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4270 -> reached weight 4269
+-42  -42  
+127  
+371  371  371  371  371  371  
+2000  
+
+weight 4280 -> reached weight 4281
+42  42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4290 -> reached weight 4287
+-42  -42  
+371  
+2000  2000  
+
+weight 4300 -> reached weight 4297
+-42  -42  
+127  127  127  
+2000  2000  
+
+weight 4310 -> reached weight 4310
+42  42  
+371  371  371  371  371  371  
+2000  
+
+weight 4320 -> reached weight 4320
+42  42  
+127  127  127  
+371  371  371  371  371  
+2000  
+
+weight 4330 -> reached weight 4329
+-42  
+371  
+2000  2000  
+
+weight 4340 -> reached weight 4339
+-42  
+127  127  127  
+2000  2000  
+
+weight 4350 -> reached weight 4352
+42  42  42  
+371  371  371  371  371  371  
+2000  
+
+weight 4360 -> reached weight 4361
+-127  -127  -127  
+371  371  
+2000  2000  
+
+weight 4370 -> reached weight 4370
+42  42  42  
+-127  
+371  
+2000  2000  
+
+weight 4380 -> reached weight 4380
+42  42  42  
+127  127  
+2000  2000  
+
+weight 4390 -> reached weight 4390
+-42  -42  -42  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4400 -> reached weight 4400
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4410 -> reached weight 4413
+42  
+371  
+2000  2000  
+
+weight 4420 -> reached weight 4422
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4430 -> reached weight 4431
+42  
+-127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4440 -> reached weight 4441
+42  
+127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4450 -> reached weight 4446
+-42  
+-127  -127  
+371  371  
+2000  2000  
+
+weight 4460 -> reached weight 4456
+-42  
+127  
+371  
+2000  2000  
+
+weight 4470 -> reached weight 4473
+42  42  
+-127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4480 -> reached weight 4480
+127  127  
+371  371  371  371  371  371  
+2000  
+
+weight 4490 -> reached weight 4489
+-42  -42  -42  
+-127  
+371  371  
+2000  2000  
+
+weight 4500 -> reached weight 4499
+-42  -42  -42  
+127  127  
+371  
+2000  2000  
+
+weight 4510 -> reached weight 4507
+42  42  42  
+127  127  127  
+2000  2000  
+
+weight 4520 -> reached weight 4522
+42  
+127  127  
+371  371  371  371  371  371  
+2000  
+
+weight 4530 -> reached weight 4530
+42  
+-127  -127  
+371  371  
+2000  2000  
+
+weight 4540 -> reached weight 4540
+42  
+127  
+371  
+2000  2000  
+
+weight 4550 -> reached weight 4549
+-42  -42  
+-127  -127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4560 -> reached weight 4559
+-42  -42  
+127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4570 -> reached weight 4568
+42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4580 -> reached weight 4582
+42  42  
+127  
+371  
+2000  2000  
+
+weight 4590 -> reached weight 4590
+42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4600 -> reached weight 4600
+42  42  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4610 -> reached weight 4610
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4620 -> reached weight 4616
+-42  -42  -42  
+371  371  
+2000  2000  
+
+weight 4630 -> reached weight 4632
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4640 -> reached weight 4642
+42  42  42  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4650 -> reached weight 4649
+42  
+127  127  127  
+371  371  371  371  371  371  
+2000  
+
+weight 4660 -> reached weight 4658
+-42  -42  
+371  371  
+2000  2000  
+
+weight 4670 -> reached weight 4668
+-42  -42  
+127  127  127  
+371  
+2000  2000  
+
+weight 4680 -> reached weight 4676
+-42  -42  
+-127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4690 -> reached weight 4690
+-42  
+-127  -127  -127  
+371  371  371  
+2000  2000  
+
+weight 4700 -> reached weight 4700
+-42  
+371  371  
+2000  2000  
+
+weight 4710 -> reached weight 4710
+-42  
+127  127  127  
+371  
+2000  2000  
+
+weight 4720 -> reached weight 4718
+-42  
+-127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4730 -> reached weight 4728
+-42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4740 -> reached weight 4741
+42  42  42  
+-127  
+371  371  
+2000  2000  
+
+weight 4750 -> reached weight 4751
+42  42  42  
+127  127  
+371  
+2000  2000  
+
+weight 4760 -> reached weight 4760
+-127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4770 -> reached weight 4770
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4780 -> reached weight 4784
+42  
+371  371  
+2000  2000  
+
+weight 4790 -> reached weight 4793
+-42  -42  
+-127  -127  -127  
+-371  -371  
+2000  2000  2000  
+
+weight 4800 -> reached weight 4802
+42  
+-127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4810 -> reached weight 4812
+42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4820 -> reached weight 4817
+-42  
+-127  -127  
+371  371  371  
+2000  2000  
+
+weight 4830 -> reached weight 4827
+-42  
+127  
+371  371  
+2000  2000  
+
+weight 4840 -> reached weight 4836
+42  42  
+127  127  127  
+371  
+2000  2000  
+
+weight 4850 -> reached weight 4854
+42  42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4860 -> reached weight 4860
+-42  -42  -42  
+-127  
+371  371  371  
+2000  2000  
+
+weight 4870 -> reached weight 4870
+-42  -42  -42  
+127  127  
+371  371  
+2000  2000  
+
+weight 4880 -> reached weight 4878
+42  42  42  
+127  127  127  
+371  
+2000  2000  
+
+weight 4890 -> reached weight 4888
+-42  -42  -42  
+127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4900 -> reached weight 4901
+42  
+-127  -127  
+371  371  371  
+2000  2000  
+
+weight 4910 -> reached weight 4911
+42  
+127  
+371  371  
+2000  2000  
+
+weight 4920 -> reached weight 4920
+-42  -42  
+-127  -127  
+-371  -371  
+2000  2000  2000  
+
+weight 4930 -> reached weight 4930
+-42  -42  
+127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4940 -> reached weight 4939
+42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4950 -> reached weight 4953
+42  42  
+127  
+371  371  
+2000  2000  
+
+weight 4960 -> reached weight 4961
+42  42  
+-127  -127  -127  
+-371  -371  
+2000  2000  2000  
+
+weight 4970 -> reached weight 4971
+42  42  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 4980 -> reached weight 4981
+42  42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  2000  
+
+weight 4990 -> reached weight 4987
+-42  -42  -42  
+371  371  371  
+2000  2000  
+
+weight 5000 -> reached weight 4997
+-42  -42  -42  
+127  127  127  
+371  371  
+2000  2000  
+
+weight 5010 -> reached weight 5013
+42  42  42  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 5020 -> reached weight 5019
+-42  -42  
+-127  -127  -127  
+371  371  371  371  
+2000  2000  
+
+weight 5030 -> reached weight 5029
+-42  -42  
+371  371  371  
+2000  2000  
+
+weight 5040 -> reached weight 5039
+-42  -42  
+127  127  127  
+371  371  
+2000  2000  
+
+weight 5050 -> reached weight 5047
+-42  -42  
+-127  
+-371  -371  
+2000  2000  2000  
+
+weight 5060 -> reached weight 5061
+-42  
+-127  -127  -127  
+371  371  371  371  
+2000  2000  
+
+weight 5070 -> reached weight 5070
+42  42  
+-127  
+371  371  371  
+2000  2000  
+
+weight 5080 -> reached weight 5080
+42  42  
+127  127  
+371  371  
+2000  2000  
+
+weight 5090 -> reached weight 5089
+-42  
+-127  
+-371  -371  
+2000  2000  2000  
+
+weight 5100 -> reached weight 5099
+-42  
+127  127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 5110 -> reached weight 5112
+42  42  42  
+-127  
+371  371  371  
+2000  2000  
+
+weight 5120 -> reached weight 5122
+42  42  42  
+127  127  
+371  371  
+2000  2000  
+
+weight 5130 -> reached weight 5130
+42  42  42  
+-127  -127  
+-371  -371  
+2000  2000  2000  
+
+weight 5140 -> reached weight 5140
+42  42  42  
+127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 5150 -> reached weight 5146
+-42  -42  
+-127  -127  
+371  371  371  371  
+2000  2000  
+
+weight 5160 -> reached weight 5156
+-42  -42  
+127  
+371  371  371  
+2000  2000  
+
+weight 5170 -> reached weight 5173
+42  
+-127  
+-371  -371  
+2000  2000  2000  
+
+weight 5180 -> reached weight 5183
+42  
+127  127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 5190 -> reached weight 5188
+-42  
+-127  -127  
+371  371  371  371  
+2000  2000  
+
+weight 5200 -> reached weight 5198
+-42  
+127  
+371  371  371  
+2000  2000  
+
+weight 5210 -> reached weight 5207
+42  42  
+127  127  127  
+371  371  
+2000  2000  
+
+weight 5220 -> reached weight 5216
+-42  
+-371  -371  
+2000  2000  2000  
+
+weight 5230 -> reached weight 5230
+-127  -127  
+371  371  371  371  
+2000  2000  
+
+weight 5240 -> reached weight 5240
+127  
+371  371  371  
+2000  2000  
+
+weight 5250 -> reached weight 5249
+42  42  42  
+127  127  127  
+371  371  
+2000  2000  
+
+weight 5260 -> reached weight 5259
+-42  -42  -42  
+127  
+-371  -371  
+2000  2000  2000  
+
+weight 5270 -> reached weight 5268
+127  127  127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 5280 -> reached weight 5282
+42  
+127  
+371  371  371  
+2000  2000  
+
+weight 5290 -> reached weight 5290
+42  
+-127  -127  -127  
+-371  
+2000  2000  2000  
+
+weight 5300 -> reached weight 5300
+42  
+-371  -371  
+2000  2000  2000  
+
+weight 5310 -> reached weight 5310
+42  
+127  127  127  
+-371  -371  -371  
+2000  2000  2000  
+
+weight 5320 -> reached weight 5324
+42  42  
+127  
+371  371  371  
+2000  2000  
+
+weight 5330 -> reached weight 5332
+42  42  
+-127  -127  -127  
+-371  
+2000  2000  2000  
+
+weight 5340 -> reached weight 5342
+42  42  
+-371  -371  
+2000  2000  2000  
+
+weight 5350 -> reached weight 5351
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5360 -> reached weight 5358
+-42  -42  -42  
+371  371  371  371  
+2000  2000  
+
+weight 5370 -> reached weight 5368
+-42  -42  -42  
+127  127  127  
+371  371  371  
+2000  2000  
+
+weight 5380 -> reached weight 5376
+-42  -42  -42  
+-127  
+-371  
+2000  2000  2000  
+
+weight 5390 -> reached weight 5390
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  2000  
+
+weight 5400 -> reached weight 5400
+-42  -42  
+371  371  371  371  
+2000  2000  
+
+weight 5410 -> reached weight 5410
+-42  -42  
+127  127  127  
+371  371  371  
+2000  2000  
+
+weight 5420 -> reached weight 5418
+-42  -42  
+-127  
+-371  
+2000  2000  2000  
+
+weight 5430 -> reached weight 5428
+-42  -42  
+127  127  
+-371  -371  
+2000  2000  2000  
+
+weight 5440 -> reached weight 5441
+42  42  
+-127  
+371  371  371  371  
+2000  2000  
+
+weight 5450 -> reached weight 5451
+42  42  
+127  127  
+371  371  371  
+2000  2000  
+
+weight 5460 -> reached weight 5460
+-42  
+-127  
+-371  
+2000  2000  2000  
+
+weight 5470 -> reached weight 5470
+-42  
+127  127  
+-371  -371  
+2000  2000  2000  
+
+weight 5480 -> reached weight 5478
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5490 -> reached weight 5493
+-42  -42  -42  
+-127  -127  -127  
+2000  2000  2000  
+
+weight 5500 -> reached weight 5501
+42  42  42  
+-127  -127  
+-371  
+2000  2000  2000  
+
+weight 5510 -> reached weight 5511
+42  42  42  
+127  
+-371  -371  
+2000  2000  2000  
+
+weight 5520 -> reached weight 5520
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5530 -> reached weight 5527
+-42  -42  
+127  
+371  371  371  371  
+2000  2000  
+
+weight 5540 -> reached weight 5536
+42  
+127  127  127  
+371  371  371  
+2000  2000  
+
+weight 5550 -> reached weight 5554
+42  
+127  127  
+-371  -371  
+2000  2000  2000  
+
+weight 5560 -> reached weight 5559
+-42  
+-127  -127  
+371  371  371  371  371  
+2000  2000  
+
+weight 5570 -> reached weight 5569
+-42  
+127  
+371  371  371  371  
+2000  2000  
+
+weight 5580 -> reached weight 5578
+42  42  
+127  127  127  
+371  371  371  
+2000  2000  
+
+weight 5590 -> reached weight 5587
+-42  
+-371  
+2000  2000  2000  
+
+weight 5600 -> reached weight 5600
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  2000  
+
+weight 5610 -> reached weight 5610
+42  42  42  
+371  371  371  371  
+2000  2000  
+
+weight 5620 -> reached weight 5620
+-42  -42  -42  
+-127  -127  
+2000  2000  2000  
+
+weight 5630 -> reached weight 5630
+-42  -42  -42  
+127  
+-371  
+2000  2000  2000  
+
+weight 5640 -> reached weight 5639
+127  127  127  
+-371  -371  
+2000  2000  2000  
+
+weight 5650 -> reached weight 5648
+-42  -42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5660 -> reached weight 5661
+42  
+-127  -127  -127  
+2000  2000  2000  
+
+weight 5670 -> reached weight 5671
+42  
+-371  
+2000  2000  2000  
+
+weight 5680 -> reached weight 5680
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5690 -> reached weight 5690
+-42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5700 -> reached weight 5703
+42  42  
+-127  -127  -127  
+2000  2000  2000  
+
+weight 5710 -> reached weight 5713
+42  42  
+-371  
+2000  2000  2000  
+
+weight 5720 -> reached weight 5719
+-42  -42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 5730 -> reached weight 5729
+-42  -42  -42  
+371  371  371  371  371  
+2000  2000  
+
+weight 5740 -> reached weight 5739
+-42  -42  -42  
+127  127  127  
+371  371  371  371  
+2000  2000  
+
+weight 5750 -> reached weight 5747
+-42  -42  -42  
+-127  
+2000  2000  2000  
+
+weight 5760 -> reached weight 5761
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 5770 -> reached weight 5770
+42  
+-127  
+371  371  371  371  371  
+2000  2000  
+
+weight 5780 -> reached weight 5780
+42  
+127  127  
+371  371  371  371  
+2000  2000  
+
+weight 5790 -> reached weight 5789
+-42  -42  
+-127  
+2000  2000  2000  
+
+weight 5800 -> reached weight 5799
+-42  -42  
+127  127  
+-371  
+2000  2000  2000  
+
+weight 5810 -> reached weight 5812
+42  42  
+-127  
+371  371  371  371  371  
+2000  2000  
+
+weight 5820 -> reached weight 5822
+42  42  
+127  127  
+371  371  371  371  
+2000  2000  
+
+weight 5830 -> reached weight 5830
+42  42  
+-127  -127  
+2000  2000  2000  
+
+weight 5840 -> reached weight 5840
+42  42  
+127  
+-371  
+2000  2000  2000  
+
+weight 5850 -> reached weight 5849
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5860 -> reached weight 5859
+-42  
+127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5870 -> reached weight 5872
+42  42  42  
+-127  -127  
+2000  2000  2000  
+
+weight 5880 -> reached weight 5882
+42  42  42  
+127  
+-371  
+2000  2000  2000  
+
+weight 5890 -> reached weight 5890
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5900 -> reached weight 5900
+42  42  42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 5910 -> reached weight 5907
+42  
+127  127  127  
+371  371  371  371  
+2000  2000  
+
+weight 5920 -> reached weight 5916
+-42  -42  
+2000  2000  2000  
+
+weight 5930 -> reached weight 5930
+-42  
+-127  -127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 5940 -> reached weight 5940
+-42  
+127  
+371  371  371  371  371  
+2000  2000  
+
+weight 5950 -> reached weight 5949
+42  42  
+127  127  127  
+371  371  371  371  
+2000  2000  
+
+weight 5960 -> reached weight 5958
+-42  
+2000  2000  2000  
+
+weight 5970 -> reached weight 5971
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 5980 -> reached weight 5981
+42  42  42  
+371  371  371  371  371  
+2000  2000  
+
+weight 5990 -> reached weight 5990
+-127  -127  -127  
+371  
+2000  2000  2000  
+
+weight 6000 -> reached weight 6000
+2000  2000  2000  
+
+weight 6010 -> reached weight 6010
+127  127  127  
+-371  
+2000  2000  2000  
+
+weight 6020 -> reached weight 6019
+-42  -42  -42  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6030 -> reached weight 6029
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6040 -> reached weight 6042
+42  
+2000  2000  2000  
+
+weight 6050 -> reached weight 6051
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6060 -> reached weight 6060
+42  
+-127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6070 -> reached weight 6070
+42  
+127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6080 -> reached weight 6084
+42  42  
+2000  2000  2000  
+
+weight 6090 -> reached weight 6093
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6100 -> reached weight 6100
+-42  -42  -42  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6110 -> reached weight 6110
+-42  -42  -42  
+127  127  127  
+371  371  371  371  371  
+2000  2000  
+
+weight 6120 -> reached weight 6118
+-42  -42  -42  
+-127  
+371  
+2000  2000  2000  
+
+weight 6130 -> reached weight 6128
+-42  -42  -42  
+127  127  
+2000  2000  2000  
+
+weight 6140 -> reached weight 6141
+42  
+-127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6150 -> reached weight 6151
+42  
+127  127  
+371  371  371  371  371  
+2000  2000  
+
+weight 6160 -> reached weight 6160
+-42  -42  
+-127  
+371  
+2000  2000  2000  
+
+weight 6170 -> reached weight 6170
+-42  -42  
+127  127  
+2000  2000  2000  
+
+weight 6180 -> reached weight 6178
+-42  -42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6190 -> reached weight 6188
+-42  -42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6200 -> reached weight 6201
+42  42  
+-127  -127  
+371  
+2000  2000  2000  
+
+weight 6210 -> reached weight 6211
+42  42  
+127  
+2000  2000  2000  
+
+weight 6220 -> reached weight 6220
+-42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6230 -> reached weight 6230
+-42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6240 -> reached weight 6239
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6250 -> reached weight 6253
+42  42  42  
+127  
+2000  2000  2000  
+
+weight 6260 -> reached weight 6261
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6270 -> reached weight 6269
+-42  -42  
+127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6280 -> reached weight 6281
+42  42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6290 -> reached weight 6287
+-42  -42  
+371  
+2000  2000  2000  
+
+weight 6300 -> reached weight 6297
+-42  -42  
+127  127  127  
+2000  2000  2000  
+
+weight 6310 -> reached weight 6310
+42  42  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6320 -> reached weight 6320
+42  42  
+127  127  127  
+371  371  371  371  371  
+2000  2000  
+
+weight 6330 -> reached weight 6329
+-42  
+371  
+2000  2000  2000  
+
+weight 6340 -> reached weight 6339
+-42  
+127  127  127  
+2000  2000  2000  
+
+weight 6350 -> reached weight 6352
+42  42  42  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6360 -> reached weight 6361
+-127  -127  -127  
+371  371  
+2000  2000  2000  
+
+weight 6370 -> reached weight 6370
+42  42  42  
+-127  
+371  
+2000  2000  2000  
+
+weight 6380 -> reached weight 6380
+42  42  42  
+127  127  
+2000  2000  2000  
+
+weight 6390 -> reached weight 6390
+-42  -42  -42  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6400 -> reached weight 6400
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6410 -> reached weight 6413
+42  
+371  
+2000  2000  2000  
+
+weight 6420 -> reached weight 6422
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6430 -> reached weight 6431
+42  
+-127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6440 -> reached weight 6441
+42  
+127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6450 -> reached weight 6446
+-42  
+-127  -127  
+371  371  
+2000  2000  2000  
+
+weight 6460 -> reached weight 6456
+-42  
+127  
+371  
+2000  2000  2000  
+
+weight 6470 -> reached weight 6473
+42  42  
+-127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6480 -> reached weight 6480
+127  127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6490 -> reached weight 6489
+-42  -42  -42  
+-127  
+371  371  
+2000  2000  2000  
+
+weight 6500 -> reached weight 6499
+-42  -42  -42  
+127  127  
+371  
+2000  2000  2000  
+
+weight 6510 -> reached weight 6507
+42  42  42  
+127  127  127  
+2000  2000  2000  
+
+weight 6520 -> reached weight 6522
+42  
+127  127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6530 -> reached weight 6530
+42  
+-127  -127  
+371  371  
+2000  2000  2000  
+
+weight 6540 -> reached weight 6540
+42  
+127  
+371  
+2000  2000  2000  
+
+weight 6550 -> reached weight 6549
+-42  -42  
+-127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6560 -> reached weight 6559
+-42  -42  
+127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6570 -> reached weight 6568
+42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6580 -> reached weight 6582
+42  42  
+127  
+371  
+2000  2000  2000  
+
+weight 6590 -> reached weight 6590
+42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6600 -> reached weight 6600
+42  42  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6610 -> reached weight 6610
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6620 -> reached weight 6616
+-42  -42  -42  
+371  371  
+2000  2000  2000  
+
+weight 6630 -> reached weight 6632
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6640 -> reached weight 6642
+42  42  42  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6650 -> reached weight 6649
+42  
+127  127  127  
+371  371  371  371  371  371  
+2000  2000  
+
+weight 6660 -> reached weight 6658
+-42  -42  
+371  371  
+2000  2000  2000  
+
+weight 6670 -> reached weight 6668
+-42  -42  
+127  127  127  
+371  
+2000  2000  2000  
+
+weight 6680 -> reached weight 6676
+-42  -42  
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6690 -> reached weight 6690
+-42  
+-127  -127  -127  
+371  371  371  
+2000  2000  2000  
+
+weight 6700 -> reached weight 6700
+-42  
+371  371  
+2000  2000  2000  
+
+weight 6710 -> reached weight 6710
+-42  
+127  127  127  
+371  
+2000  2000  2000  
+
+weight 6720 -> reached weight 6718
+-42  
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6730 -> reached weight 6728
+-42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6740 -> reached weight 6741
+42  42  42  
+-127  
+371  371  
+2000  2000  2000  
+
+weight 6750 -> reached weight 6751
+42  42  42  
+127  127  
+371  
+2000  2000  2000  
+
+weight 6760 -> reached weight 6760
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6770 -> reached weight 6770
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6780 -> reached weight 6784
+42  
+371  371  
+2000  2000  2000  
+
+weight 6790 -> reached weight 6793
+-42  -42  
+-127  -127  -127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 6800 -> reached weight 6802
+42  
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6810 -> reached weight 6812
+42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6820 -> reached weight 6817
+-42  
+-127  -127  
+371  371  371  
+2000  2000  2000  
+
+weight 6830 -> reached weight 6827
+-42  
+127  
+371  371  
+2000  2000  2000  
+
+weight 6840 -> reached weight 6836
+42  42  
+127  127  127  
+371  
+2000  2000  2000  
+
+weight 6850 -> reached weight 6854
+42  42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6860 -> reached weight 6860
+-42  -42  -42  
+-127  
+371  371  371  
+2000  2000  2000  
+
+weight 6870 -> reached weight 6870
+-42  -42  -42  
+127  127  
+371  371  
+2000  2000  2000  
+
+weight 6880 -> reached weight 6878
+42  42  42  
+127  127  127  
+371  
+2000  2000  2000  
+
+weight 6890 -> reached weight 6888
+-42  -42  -42  
+127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6900 -> reached weight 6901
+42  
+-127  -127  
+371  371  371  
+2000  2000  2000  
+
+weight 6910 -> reached weight 6911
+42  
+127  
+371  371  
+2000  2000  2000  
+
+weight 6920 -> reached weight 6920
+-42  -42  
+-127  -127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 6930 -> reached weight 6930
+-42  -42  
+127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6940 -> reached weight 6939
+42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6950 -> reached weight 6953
+42  42  
+127  
+371  371  
+2000  2000  2000  
+
+weight 6960 -> reached weight 6961
+42  42  
+-127  -127  -127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 6970 -> reached weight 6971
+42  42  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6980 -> reached weight 6981
+42  42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  
+
+weight 6990 -> reached weight 6987
+-42  -42  -42  
+371  371  371  
+2000  2000  2000  
+
+weight 7000 -> reached weight 6997
+-42  -42  -42  
+127  127  127  
+371  371  
+2000  2000  2000  
+
+weight 7010 -> reached weight 7013
+42  42  42  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 7020 -> reached weight 7019
+-42  -42  
+-127  -127  -127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7030 -> reached weight 7029
+-42  -42  
+371  371  371  
+2000  2000  2000  
+
+weight 7040 -> reached weight 7039
+-42  -42  
+127  127  127  
+371  371  
+2000  2000  2000  
+
+weight 7050 -> reached weight 7047
+-42  -42  
+-127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7060 -> reached weight 7061
+-42  
+-127  -127  -127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7070 -> reached weight 7070
+42  42  
+-127  
+371  371  371  
+2000  2000  2000  
+
+weight 7080 -> reached weight 7080
+42  42  
+127  127  
+371  371  
+2000  2000  2000  
+
+weight 7090 -> reached weight 7089
+-42  
+-127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7100 -> reached weight 7099
+-42  
+127  127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 7110 -> reached weight 7112
+42  42  42  
+-127  
+371  371  371  
+2000  2000  2000  
+
+weight 7120 -> reached weight 7122
+42  42  42  
+127  127  
+371  371  
+2000  2000  2000  
+
+weight 7130 -> reached weight 7130
+42  42  42  
+-127  -127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7140 -> reached weight 7140
+42  42  42  
+127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 7150 -> reached weight 7146
+-42  -42  
+-127  -127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7160 -> reached weight 7156
+-42  -42  
+127  
+371  371  371  
+2000  2000  2000  
+
+weight 7170 -> reached weight 7173
+42  
+-127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7180 -> reached weight 7183
+42  
+127  127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 7190 -> reached weight 7188
+-42  
+-127  -127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7200 -> reached weight 7198
+-42  
+127  
+371  371  371  
+2000  2000  2000  
+
+weight 7210 -> reached weight 7207
+42  42  
+127  127  127  
+371  371  
+2000  2000  2000  
+
+weight 7220 -> reached weight 7216
+-42  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7230 -> reached weight 7230
+-127  -127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7240 -> reached weight 7240
+127  
+371  371  371  
+2000  2000  2000  
+
+weight 7250 -> reached weight 7249
+42  42  42  
+127  127  127  
+371  371  
+2000  2000  2000  
+
+weight 7260 -> reached weight 7259
+-42  -42  -42  
+127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7270 -> reached weight 7268
+127  127  127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 7280 -> reached weight 7282
+42  
+127  
+371  371  371  
+2000  2000  2000  
+
+weight 7290 -> reached weight 7290
+42  
+-127  -127  -127  
+-371  
+2000  2000  2000  2000  
+
+weight 7300 -> reached weight 7300
+42  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7310 -> reached weight 7310
+42  
+127  127  127  
+-371  -371  -371  
+2000  2000  2000  2000  
+
+weight 7320 -> reached weight 7324
+42  42  
+127  
+371  371  371  
+2000  2000  2000  
+
+weight 7330 -> reached weight 7332
+42  42  
+-127  -127  -127  
+-371  
+2000  2000  2000  2000  
+
+weight 7340 -> reached weight 7342
+42  42  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7350 -> reached weight 7351
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7360 -> reached weight 7358
+-42  -42  -42  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7370 -> reached weight 7368
+-42  -42  -42  
+127  127  127  
+371  371  371  
+2000  2000  2000  
+
+weight 7380 -> reached weight 7376
+-42  -42  -42  
+-127  
+-371  
+2000  2000  2000  2000  
+
+weight 7390 -> reached weight 7390
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7400 -> reached weight 7400
+-42  -42  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7410 -> reached weight 7410
+-42  -42  
+127  127  127  
+371  371  371  
+2000  2000  2000  
+
+weight 7420 -> reached weight 7418
+-42  -42  
+-127  
+-371  
+2000  2000  2000  2000  
+
+weight 7430 -> reached weight 7428
+-42  -42  
+127  127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7440 -> reached weight 7441
+42  42  
+-127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7450 -> reached weight 7451
+42  42  
+127  127  
+371  371  371  
+2000  2000  2000  
+
+weight 7460 -> reached weight 7460
+-42  
+-127  
+-371  
+2000  2000  2000  2000  
+
+weight 7470 -> reached weight 7470
+-42  
+127  127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7480 -> reached weight 7478
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7490 -> reached weight 7493
+-42  -42  -42  
+-127  -127  -127  
+2000  2000  2000  2000  
+
+weight 7500 -> reached weight 7501
+42  42  42  
+-127  -127  
+-371  
+2000  2000  2000  2000  
+
+weight 7510 -> reached weight 7511
+42  42  42  
+127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7520 -> reached weight 7520
+-127  -127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7530 -> reached weight 7527
+-42  -42  
+127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7540 -> reached weight 7536
+42  
+127  127  127  
+371  371  371  
+2000  2000  2000  
+
+weight 7550 -> reached weight 7554
+42  
+127  127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7560 -> reached weight 7559
+-42  
+-127  -127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7570 -> reached weight 7569
+-42  
+127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7580 -> reached weight 7578
+42  42  
+127  127  127  
+371  371  371  
+2000  2000  2000  
+
+weight 7590 -> reached weight 7587
+-42  
+-371  
+2000  2000  2000  2000  
+
+weight 7600 -> reached weight 7600
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7610 -> reached weight 7610
+42  42  42  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7620 -> reached weight 7620
+-42  -42  -42  
+-127  -127  
+2000  2000  2000  2000  
+
+weight 7630 -> reached weight 7630
+-42  -42  -42  
+127  
+-371  
+2000  2000  2000  2000  
+
+weight 7640 -> reached weight 7639
+127  127  127  
+-371  -371  
+2000  2000  2000  2000  
+
+weight 7650 -> reached weight 7648
+-42  -42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7660 -> reached weight 7661
+42  
+-127  -127  -127  
+2000  2000  2000  2000  
+
+weight 7670 -> reached weight 7671
+42  
+-371  
+2000  2000  2000  2000  
+
+weight 7680 -> reached weight 7680
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7690 -> reached weight 7690
+-42  -42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7700 -> reached weight 7703
+42  42  
+-127  -127  -127  
+2000  2000  2000  2000  
+
+weight 7710 -> reached weight 7713
+42  42  
+-371  
+2000  2000  2000  2000  
+
+weight 7720 -> reached weight 7719
+-42  -42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 7730 -> reached weight 7729
+-42  -42  -42  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7740 -> reached weight 7739
+-42  -42  -42  
+127  127  127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7750 -> reached weight 7747
+-42  -42  -42  
+-127  
+2000  2000  2000  2000  
+
+weight 7760 -> reached weight 7761
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 7770 -> reached weight 7770
+42  
+-127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7780 -> reached weight 7780
+42  
+127  127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7790 -> reached weight 7789
+-42  -42  
+-127  
+2000  2000  2000  2000  
+
+weight 7800 -> reached weight 7799
+-42  -42  
+127  127  
+-371  
+2000  2000  2000  2000  
+
+weight 7810 -> reached weight 7812
+42  42  
+-127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7820 -> reached weight 7822
+42  42  
+127  127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7830 -> reached weight 7830
+42  42  
+-127  -127  
+2000  2000  2000  2000  
+
+weight 7840 -> reached weight 7840
+42  42  
+127  
+-371  
+2000  2000  2000  2000  
+
+weight 7850 -> reached weight 7849
+-42  
+-127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7860 -> reached weight 7859
+-42  
+127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7870 -> reached weight 7872
+42  42  42  
+-127  -127  
+2000  2000  2000  2000  
+
+weight 7880 -> reached weight 7882
+42  42  42  
+127  
+-371  
+2000  2000  2000  2000  
+
+weight 7890 -> reached weight 7890
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7900 -> reached weight 7900
+42  42  42  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 7910 -> reached weight 7907
+42  
+127  127  127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7920 -> reached weight 7916
+-42  -42  
+2000  2000  2000  2000  
+
+weight 7930 -> reached weight 7930
+-42  
+-127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 7940 -> reached weight 7940
+-42  
+127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7950 -> reached weight 7949
+42  42  
+127  127  127  
+371  371  371  371  
+2000  2000  2000  
+
+weight 7960 -> reached weight 7958
+-42  
+2000  2000  2000  2000  
+
+weight 7970 -> reached weight 7971
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 7980 -> reached weight 7981
+42  42  42  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 7990 -> reached weight 7990
+-127  -127  -127  
+371  
+2000  2000  2000  2000  
+
+weight 8000 -> reached weight 8000
+2000  2000  2000  2000  
+
+weight 8010 -> reached weight 8010
+127  127  127  
+-371  
+2000  2000  2000  2000  
+
+weight 8020 -> reached weight 8019
+-42  -42  -42  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8030 -> reached weight 8029
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8040 -> reached weight 8042
+42  
+2000  2000  2000  2000  
+
+weight 8050 -> reached weight 8051
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8060 -> reached weight 8060
+42  
+-127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8070 -> reached weight 8070
+42  
+127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8080 -> reached weight 8084
+42  42  
+2000  2000  2000  2000  
+
+weight 8090 -> reached weight 8093
+-42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8100 -> reached weight 8100
+-42  -42  -42  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8110 -> reached weight 8110
+-42  -42  -42  
+127  127  127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 8120 -> reached weight 8118
+-42  -42  -42  
+-127  
+371  
+2000  2000  2000  2000  
+
+weight 8130 -> reached weight 8128
+-42  -42  -42  
+127  127  
+2000  2000  2000  2000  
+
+weight 8140 -> reached weight 8141
+42  
+-127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8150 -> reached weight 8151
+42  
+127  127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 8160 -> reached weight 8160
+-42  -42  
+-127  
+371  
+2000  2000  2000  2000  
+
+weight 8170 -> reached weight 8170
+-42  -42  
+127  127  
+2000  2000  2000  2000  
+
+weight 8180 -> reached weight 8178
+-42  -42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8190 -> reached weight 8188
+-42  -42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8200 -> reached weight 8201
+42  42  
+-127  -127  
+371  
+2000  2000  2000  2000  
+
+weight 8210 -> reached weight 8211
+42  42  
+127  
+2000  2000  2000  2000  
+
+weight 8220 -> reached weight 8220
+-42  
+-127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8230 -> reached weight 8230
+-42  
+127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8240 -> reached weight 8239
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8250 -> reached weight 8253
+42  42  42  
+127  
+2000  2000  2000  2000  
+
+weight 8260 -> reached weight 8261
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8270 -> reached weight 8269
+-42  -42  
+127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8280 -> reached weight 8281
+42  42  42  
+127  127  127  
+-371  -371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8290 -> reached weight 8287
+-42  -42  
+371  
+2000  2000  2000  2000  
+
+weight 8300 -> reached weight 8297
+-42  -42  
+127  127  127  
+2000  2000  2000  2000  
+
+weight 8310 -> reached weight 8310
+42  42  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8320 -> reached weight 8320
+42  42  
+127  127  127  
+371  371  371  371  371  
+2000  2000  2000  
+
+weight 8330 -> reached weight 8329
+-42  
+371  
+2000  2000  2000  2000  
+
+weight 8340 -> reached weight 8339
+-42  
+127  127  127  
+2000  2000  2000  2000  
+
+weight 8350 -> reached weight 8352
+42  42  42  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8360 -> reached weight 8361
+-127  -127  -127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8370 -> reached weight 8370
+42  42  42  
+-127  
+371  
+2000  2000  2000  2000  
+
+weight 8380 -> reached weight 8380
+42  42  42  
+127  127  
+2000  2000  2000  2000  
+
+weight 8390 -> reached weight 8390
+-42  -42  -42  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8400 -> reached weight 8400
+-42  -42  -42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8410 -> reached weight 8413
+42  
+371  
+2000  2000  2000  2000  
+
+weight 8420 -> reached weight 8422
+-42  -42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8430 -> reached weight 8431
+42  
+-127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8440 -> reached weight 8441
+42  
+127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8450 -> reached weight 8446
+-42  
+-127  -127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8460 -> reached weight 8456
+-42  
+127  
+371  
+2000  2000  2000  2000  
+
+weight 8470 -> reached weight 8473
+42  42  
+-127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8480 -> reached weight 8480
+127  127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8490 -> reached weight 8489
+-42  -42  -42  
+-127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8500 -> reached weight 8499
+-42  -42  -42  
+127  127  
+371  
+2000  2000  2000  2000  
+
+weight 8510 -> reached weight 8507
+42  42  42  
+127  127  127  
+2000  2000  2000  2000  
+
+weight 8520 -> reached weight 8522
+42  
+127  127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8530 -> reached weight 8530
+42  
+-127  -127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8540 -> reached weight 8540
+42  
+127  
+371  
+2000  2000  2000  2000  
+
+weight 8550 -> reached weight 8549
+-42  -42  
+-127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8560 -> reached weight 8559
+-42  -42  
+127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8570 -> reached weight 8568
+42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8580 -> reached weight 8582
+42  42  
+127  
+371  
+2000  2000  2000  2000  
+
+weight 8590 -> reached weight 8590
+42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8600 -> reached weight 8600
+42  42  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8610 -> reached weight 8610
+42  42  
+127  127  127  
+-371  -371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8620 -> reached weight 8616
+-42  -42  -42  
+371  371  
+2000  2000  2000  2000  
+
+weight 8630 -> reached weight 8632
+42  42  42  
+-127  -127  -127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8640 -> reached weight 8642
+42  42  42  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8650 -> reached weight 8649
+42  
+127  127  127  
+371  371  371  371  371  371  
+2000  2000  2000  
+
+weight 8660 -> reached weight 8658
+-42  -42  
+371  371  
+2000  2000  2000  2000  
+
+weight 8670 -> reached weight 8668
+-42  -42  
+127  127  127  
+371  
+2000  2000  2000  2000  
+
+weight 8680 -> reached weight 8676
+-42  -42  
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8690 -> reached weight 8690
+-42  
+-127  -127  -127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 8700 -> reached weight 8700
+-42  
+371  371  
+2000  2000  2000  2000  
+
+weight 8710 -> reached weight 8710
+-42  
+127  127  127  
+371  
+2000  2000  2000  2000  
+
+weight 8720 -> reached weight 8718
+-42  
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8730 -> reached weight 8728
+-42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8740 -> reached weight 8741
+42  42  42  
+-127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8750 -> reached weight 8751
+42  42  42  
+127  127  
+371  
+2000  2000  2000  2000  
+
+weight 8760 -> reached weight 8760
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8770 -> reached weight 8770
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8780 -> reached weight 8784
+42  
+371  371  
+2000  2000  2000  2000  
+
+weight 8790 -> reached weight 8793
+-42  -42  
+-127  -127  -127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8800 -> reached weight 8802
+42  
+-127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8810 -> reached weight 8812
+42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8820 -> reached weight 8817
+-42  
+-127  -127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 8830 -> reached weight 8827
+-42  
+127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8840 -> reached weight 8836
+42  42  
+127  127  127  
+371  
+2000  2000  2000  2000  
+
+weight 8850 -> reached weight 8854
+42  42  
+127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8860 -> reached weight 8860
+-42  -42  -42  
+-127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 8870 -> reached weight 8870
+-42  -42  -42  
+127  127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8880 -> reached weight 8878
+42  42  42  
+127  127  127  
+371  
+2000  2000  2000  2000  
+
+weight 8890 -> reached weight 8888
+-42  -42  -42  
+127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8900 -> reached weight 8901
+42  
+-127  -127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 8910 -> reached weight 8911
+42  
+127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8920 -> reached weight 8920
+-42  -42  
+-127  -127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8930 -> reached weight 8930
+-42  -42  
+127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8940 -> reached weight 8939
+42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8950 -> reached weight 8953
+42  42  
+127  
+371  371  
+2000  2000  2000  2000  
+
+weight 8960 -> reached weight 8961
+42  42  
+-127  -127  -127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8970 -> reached weight 8971
+42  42  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8980 -> reached weight 8981
+42  42  
+127  127  127  
+-371  -371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 8990 -> reached weight 8987
+-42  -42  -42  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9000 -> reached weight 8997
+-42  -42  -42  
+127  127  127  
+371  371  
+2000  2000  2000  2000  
+
+weight 9010 -> reached weight 9013
+42  42  42  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9020 -> reached weight 9019
+-42  -42  
+-127  -127  -127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9030 -> reached weight 9029
+-42  -42  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9040 -> reached weight 9039
+-42  -42  
+127  127  127  
+371  371  
+2000  2000  2000  2000  
+
+weight 9050 -> reached weight 9047
+-42  -42  
+-127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9060 -> reached weight 9061
+-42  
+-127  -127  -127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9070 -> reached weight 9070
+42  42  
+-127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9080 -> reached weight 9080
+42  42  
+127  127  
+371  371  
+2000  2000  2000  2000  
+
+weight 9090 -> reached weight 9089
+-42  
+-127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9100 -> reached weight 9099
+-42  
+127  127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9110 -> reached weight 9112
+42  42  42  
+-127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9120 -> reached weight 9122
+42  42  42  
+127  127  
+371  371  
+2000  2000  2000  2000  
+
+weight 9130 -> reached weight 9130
+42  42  42  
+-127  -127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9140 -> reached weight 9140
+42  42  42  
+127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9150 -> reached weight 9146
+-42  -42  
+-127  -127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9160 -> reached weight 9156
+-42  -42  
+127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9170 -> reached weight 9173
+42  
+-127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9180 -> reached weight 9183
+42  
+127  127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9190 -> reached weight 9188
+-42  
+-127  -127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9200 -> reached weight 9198
+-42  
+127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9210 -> reached weight 9207
+42  42  
+127  127  127  
+371  371  
+2000  2000  2000  2000  
+
+weight 9220 -> reached weight 9216
+-42  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9230 -> reached weight 9230
+-127  -127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9240 -> reached weight 9240
+127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9250 -> reached weight 9249
+42  42  42  
+127  127  127  
+371  371  
+2000  2000  2000  2000  
+
+weight 9260 -> reached weight 9259
+-42  -42  -42  
+127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9270 -> reached weight 9268
+127  127  127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9280 -> reached weight 9282
+42  
+127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9290 -> reached weight 9290
+42  
+-127  -127  -127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9300 -> reached weight 9300
+42  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9310 -> reached weight 9310
+42  
+127  127  127  
+-371  -371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9320 -> reached weight 9324
+42  42  
+127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9330 -> reached weight 9332
+42  42  
+-127  -127  -127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9340 -> reached weight 9342
+42  42  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9350 -> reached weight 9348
+-42  -42  -42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9360 -> reached weight 9358
+-42  -42  -42  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9370 -> reached weight 9368
+-42  -42  -42  
+127  127  127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9380 -> reached weight 9376
+-42  -42  -42  
+-127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9390 -> reached weight 9390
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9400 -> reached weight 9400
+-42  -42  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9410 -> reached weight 9410
+-42  -42  
+127  127  127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9420 -> reached weight 9418
+-42  -42  
+-127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9430 -> reached weight 9428
+-42  -42  
+127  127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9440 -> reached weight 9441
+42  42  
+-127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9450 -> reached weight 9451
+42  42  
+127  127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9460 -> reached weight 9460
+-42  
+-127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9470 -> reached weight 9470
+-42  
+127  127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9480 -> reached weight 9483
+42  42  42  
+-127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9490 -> reached weight 9493
+-42  -42  -42  
+-127  -127  -127  
+2000  2000  2000  2000  2000  
+
+weight 9500 -> reached weight 9501
+42  42  42  
+-127  -127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9510 -> reached weight 9511
+42  42  42  
+127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9520 -> reached weight 9517
+-42  -42  
+-127  -127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9530 -> reached weight 9527
+-42  -42  
+127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9540 -> reached weight 9536
+42  
+127  127  127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9550 -> reached weight 9554
+42  
+127  127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9560 -> reached weight 9559
+-42  
+-127  -127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9570 -> reached weight 9569
+-42  
+127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9580 -> reached weight 9578
+42  42  
+127  127  127  
+371  371  371  
+2000  2000  2000  2000  
+
+weight 9590 -> reached weight 9587
+-42  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9600 -> reached weight 9600
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9610 -> reached weight 9610
+42  42  42  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9620 -> reached weight 9620
+-42  -42  -42  
+-127  -127  
+2000  2000  2000  2000  2000  
+
+weight 9630 -> reached weight 9630
+-42  -42  -42  
+127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9640 -> reached weight 9639
+127  127  127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9650 -> reached weight 9653
+42  
+127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9660 -> reached weight 9661
+42  
+-127  -127  -127  
+2000  2000  2000  2000  2000  
+
+weight 9670 -> reached weight 9671
+42  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9680 -> reached weight 9681
+42  
+127  127  127  
+-371  -371  
+2000  2000  2000  2000  2000  
+
+weight 9690 -> reached weight 9686
+-42  
+-127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9700 -> reached weight 9703
+42  42  
+-127  -127  -127  
+2000  2000  2000  2000  2000  
+
+weight 9710 -> reached weight 9713
+42  42  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9720 -> reached weight 9719
+-42  -42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9730 -> reached weight 9729
+-42  -42  -42  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9740 -> reached weight 9739
+-42  -42  -42  
+127  127  127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9750 -> reached weight 9747
+-42  -42  -42  
+-127  
+2000  2000  2000  2000  2000  
+
+weight 9760 -> reached weight 9761
+-42  -42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9770 -> reached weight 9770
+42  
+-127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9780 -> reached weight 9780
+42  
+127  127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9790 -> reached weight 9789
+-42  -42  
+-127  
+2000  2000  2000  2000  2000  
+
+weight 9800 -> reached weight 9799
+-42  -42  
+127  127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9810 -> reached weight 9812
+42  42  
+-127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9820 -> reached weight 9822
+42  42  
+127  127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9830 -> reached weight 9830
+42  42  
+-127  -127  
+2000  2000  2000  2000  2000  
+
+weight 9840 -> reached weight 9840
+42  42  
+127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9850 -> reached weight 9846
+-42  -42  -42  
+-127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9860 -> reached weight 9856
+-42  -42  -42  
+127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9870 -> reached weight 9872
+42  42  42  
+-127  -127  
+2000  2000  2000  2000  2000  
+
+weight 9880 -> reached weight 9882
+42  42  42  
+127  
+-371  
+2000  2000  2000  2000  2000  
+
+weight 9890 -> reached weight 9888
+-42  -42  
+-127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9900 -> reached weight 9898
+-42  -42  
+127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9910 -> reached weight 9907
+42  
+127  127  127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9920 -> reached weight 9916
+-42  -42  
+2000  2000  2000  2000  2000  
+
+weight 9930 -> reached weight 9930
+-42  
+-127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9940 -> reached weight 9940
+-42  
+127  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9950 -> reached weight 9949
+42  42  
+127  127  127  
+371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9960 -> reached weight 9958
+-42  
+2000  2000  2000  2000  2000  
+
+weight 9970 -> reached weight 9971
+42  42  42  
+-127  -127  -127  
+371  371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9980 -> reached weight 9981
+42  42  42  
+371  371  371  371  371  
+2000  2000  2000  2000  
+
+weight 9990 -> reached weight 9990
+-127  -127  -127  
+371  
+2000  2000  2000  2000  2000  
+
+weight 10000 -> reached weight 10000
+2000  2000  2000  2000  2000  
+
