@@ -1,0 +1,6942 @@
+Marktwaage
+
+Test 2
+
+weight 10 -> reached weight 10
+10  
+
+weight 20 -> reached weight 20
+20  
+
+weight 30 -> reached weight 30
+10  
+20  
+
+weight 40 -> reached weight 40
+40  
+
+weight 50 -> reached weight 50
+10  
+40  
+
+weight 60 -> reached weight 60
+20  
+40  
+
+weight 70 -> reached weight 70
+10  
+20  
+40  
+
+weight 80 -> reached weight 80
+80  
+
+weight 90 -> reached weight 90
+10  
+80  
+
+weight 100 -> reached weight 100
+20  
+80  
+
+weight 110 -> reached weight 110
+10  
+20  
+80  
+
+weight 120 -> reached weight 120
+40  
+80  
+
+weight 130 -> reached weight 130
+10  
+40  
+80  
+
+weight 140 -> reached weight 140
+20  
+40  
+80  
+
+weight 150 -> reached weight 150
+10  
+20  
+40  
+80  
+
+weight 160 -> reached weight 160
+160  
+
+weight 170 -> reached weight 170
+10  
+160  
+
+weight 180 -> reached weight 180
+20  
+160  
+
+weight 190 -> reached weight 190
+10  
+20  
+160  
+
+weight 200 -> reached weight 200
+40  
+160  
+
+weight 210 -> reached weight 210
+10  
+40  
+160  
+
+weight 220 -> reached weight 220
+20  
+40  
+160  
+
+weight 230 -> reached weight 230
+10  
+20  
+40  
+160  
+
+weight 240 -> reached weight 240
+80  
+160  
+
+weight 250 -> reached weight 250
+10  
+80  
+160  
+
+weight 260 -> reached weight 260
+20  
+80  
+160  
+
+weight 270 -> reached weight 270
+10  
+20  
+80  
+160  
+
+weight 280 -> reached weight 280
+40  
+80  
+160  
+
+weight 290 -> reached weight 290
+10  
+40  
+80  
+160  
+
+weight 300 -> reached weight 300
+20  
+40  
+80  
+160  
+
+weight 310 -> reached weight 310
+10  
+20  
+40  
+80  
+160  
+
+weight 320 -> reached weight 320
+320  
+
+weight 330 -> reached weight 330
+10  
+320  
+
+weight 340 -> reached weight 340
+20  
+320  
+
+weight 350 -> reached weight 350
+10  
+20  
+320  
+
+weight 360 -> reached weight 360
+40  
+320  
+
+weight 370 -> reached weight 370
+10  
+40  
+320  
+
+weight 380 -> reached weight 380
+20  
+40  
+320  
+
+weight 390 -> reached weight 390
+10  
+20  
+40  
+320  
+
+weight 400 -> reached weight 400
+80  
+320  
+
+weight 410 -> reached weight 410
+10  
+80  
+320  
+
+weight 420 -> reached weight 420
+20  
+80  
+320  
+
+weight 430 -> reached weight 430
+10  
+20  
+80  
+320  
+
+weight 440 -> reached weight 440
+40  
+80  
+320  
+
+weight 450 -> reached weight 450
+10  
+40  
+80  
+320  
+
+weight 460 -> reached weight 460
+20  
+40  
+80  
+320  
+
+weight 470 -> reached weight 470
+10  
+20  
+40  
+80  
+320  
+
+weight 480 -> reached weight 480
+160  
+320  
+
+weight 490 -> reached weight 490
+10  
+160  
+320  
+
+weight 500 -> reached weight 500
+20  
+160  
+320  
+
+weight 510 -> reached weight 510
+10  
+20  
+160  
+320  
+
+weight 520 -> reached weight 520
+40  
+160  
+320  
+
+weight 530 -> reached weight 530
+10  
+40  
+160  
+320  
+
+weight 540 -> reached weight 540
+20  
+40  
+160  
+320  
+
+weight 550 -> reached weight 550
+10  
+20  
+40  
+160  
+320  
+
+weight 560 -> reached weight 560
+80  
+160  
+320  
+
+weight 570 -> reached weight 570
+10  
+80  
+160  
+320  
+
+weight 580 -> reached weight 580
+20  
+80  
+160  
+320  
+
+weight 590 -> reached weight 590
+10  
+20  
+80  
+160  
+320  
+
+weight 600 -> reached weight 600
+40  
+80  
+160  
+320  
+
+weight 610 -> reached weight 610
+10  
+40  
+80  
+160  
+320  
+
+weight 620 -> reached weight 620
+20  
+40  
+80  
+160  
+320  
+
+weight 630 -> reached weight 630
+10  
+20  
+40  
+80  
+160  
+320  
+
+weight 640 -> reached weight 640
+640  
+
+weight 650 -> reached weight 650
+10  
+640  
+
+weight 660 -> reached weight 660
+20  
+640  
+
+weight 670 -> reached weight 670
+10  
+20  
+640  
+
+weight 680 -> reached weight 680
+40  
+640  
+
+weight 690 -> reached weight 690
+10  
+40  
+640  
+
+weight 700 -> reached weight 700
+20  
+40  
+640  
+
+weight 710 -> reached weight 710
+10  
+20  
+40  
+640  
+
+weight 720 -> reached weight 720
+80  
+640  
+
+weight 730 -> reached weight 730
+10  
+80  
+640  
+
+weight 740 -> reached weight 740
+20  
+80  
+640  
+
+weight 750 -> reached weight 750
+10  
+20  
+80  
+640  
+
+weight 760 -> reached weight 760
+40  
+80  
+640  
+
+weight 770 -> reached weight 770
+10  
+40  
+80  
+640  
+
+weight 780 -> reached weight 780
+20  
+40  
+80  
+640  
+
+weight 790 -> reached weight 790
+10  
+20  
+40  
+80  
+640  
+
+weight 800 -> reached weight 800
+160  
+640  
+
+weight 810 -> reached weight 810
+10  
+160  
+640  
+
+weight 820 -> reached weight 820
+20  
+160  
+640  
+
+weight 830 -> reached weight 830
+10  
+20  
+160  
+640  
+
+weight 840 -> reached weight 840
+40  
+160  
+640  
+
+weight 850 -> reached weight 850
+10  
+40  
+160  
+640  
+
+weight 860 -> reached weight 860
+20  
+40  
+160  
+640  
+
+weight 870 -> reached weight 870
+10  
+20  
+40  
+160  
+640  
+
+weight 880 -> reached weight 880
+80  
+160  
+640  
+
+weight 890 -> reached weight 890
+10  
+80  
+160  
+640  
+
+weight 900 -> reached weight 900
+20  
+80  
+160  
+640  
+
+weight 910 -> reached weight 910
+10  
+20  
+80  
+160  
+640  
+
+weight 920 -> reached weight 920
+40  
+80  
+160  
+640  
+
+weight 930 -> reached weight 930
+10  
+40  
+80  
+160  
+640  
+
+weight 940 -> reached weight 940
+20  
+40  
+80  
+160  
+640  
+
+weight 950 -> reached weight 950
+10  
+20  
+40  
+80  
+160  
+640  
+
+weight 960 -> reached weight 960
+320  
+640  
+
+weight 970 -> reached weight 970
+10  
+320  
+640  
+
+weight 980 -> reached weight 980
+20  
+320  
+640  
+
+weight 990 -> reached weight 990
+10  
+20  
+320  
+640  
+
+weight 1000 -> reached weight 1000
+40  
+320  
+640  
+
+weight 1010 -> reached weight 1010
+10  
+40  
+320  
+640  
+
+weight 1020 -> reached weight 1020
+20  
+40  
+320  
+640  
+
+weight 1030 -> reached weight 1030
+10  
+20  
+40  
+320  
+640  
+
+weight 1040 -> reached weight 1040
+80  
+320  
+640  
+
+weight 1050 -> reached weight 1050
+10  
+80  
+320  
+640  
+
+weight 1060 -> reached weight 1060
+20  
+80  
+320  
+640  
+
+weight 1070 -> reached weight 1070
+10  
+20  
+80  
+320  
+640  
+
+weight 1080 -> reached weight 1080
+40  
+80  
+320  
+640  
+
+weight 1090 -> reached weight 1090
+10  
+40  
+80  
+320  
+640  
+
+weight 1100 -> reached weight 1100
+20  
+40  
+80  
+320  
+640  
+
+weight 1110 -> reached weight 1110
+10  
+20  
+40  
+80  
+320  
+640  
+
+weight 1120 -> reached weight 1120
+160  
+320  
+640  
+
+weight 1130 -> reached weight 1130
+10  
+160  
+320  
+640  
+
+weight 1140 -> reached weight 1140
+20  
+160  
+320  
+640  
+
+weight 1150 -> reached weight 1150
+10  
+20  
+160  
+320  
+640  
+
+weight 1160 -> reached weight 1160
+40  
+160  
+320  
+640  
+
+weight 1170 -> reached weight 1170
+10  
+40  
+160  
+320  
+640  
+
+weight 1180 -> reached weight 1180
+20  
+40  
+160  
+320  
+640  
+
+weight 1190 -> reached weight 1190
+10  
+20  
+40  
+160  
+320  
+640  
+
+weight 1200 -> reached weight 1200
+80  
+160  
+320  
+640  
+
+weight 1210 -> reached weight 1210
+10  
+80  
+160  
+320  
+640  
+
+weight 1220 -> reached weight 1220
+20  
+80  
+160  
+320  
+640  
+
+weight 1230 -> reached weight 1230
+10  
+20  
+80  
+160  
+320  
+640  
+
+weight 1240 -> reached weight 1240
+40  
+80  
+160  
+320  
+640  
+
+weight 1250 -> reached weight 1250
+10  
+40  
+80  
+160  
+320  
+640  
+
+weight 1260 -> reached weight 1260
+20  
+40  
+80  
+160  
+320  
+640  
+
+weight 1270 -> reached weight 1270
+10  
+20  
+40  
+80  
+160  
+320  
+640  
+
+weight 1280 -> reached weight 1280
+1280  
+
+weight 1290 -> reached weight 1290
+10  
+1280  
+
+weight 1300 -> reached weight 1300
+20  
+1280  
+
+weight 1310 -> reached weight 1310
+10  
+20  
+1280  
+
+weight 1320 -> reached weight 1320
+40  
+1280  
+
+weight 1330 -> reached weight 1330
+10  
+40  
+1280  
+
+weight 1340 -> reached weight 1340
+20  
+40  
+1280  
+
+weight 1350 -> reached weight 1350
+10  
+20  
+40  
+1280  
+
+weight 1360 -> reached weight 1360
+80  
+1280  
+
+weight 1370 -> reached weight 1370
+10  
+80  
+1280  
+
+weight 1380 -> reached weight 1380
+20  
+80  
+1280  
+
+weight 1390 -> reached weight 1390
+10  
+20  
+80  
+1280  
+
+weight 1400 -> reached weight 1400
+40  
+80  
+1280  
+
+weight 1410 -> reached weight 1410
+10  
+40  
+80  
+1280  
+
+weight 1420 -> reached weight 1420
+20  
+40  
+80  
+1280  
+
+weight 1430 -> reached weight 1430
+10  
+20  
+40  
+80  
+1280  
+
+weight 1440 -> reached weight 1440
+160  
+1280  
+
+weight 1450 -> reached weight 1450
+10  
+160  
+1280  
+
+weight 1460 -> reached weight 1460
+20  
+160  
+1280  
+
+weight 1470 -> reached weight 1470
+10  
+20  
+160  
+1280  
+
+weight 1480 -> reached weight 1480
+40  
+160  
+1280  
+
+weight 1490 -> reached weight 1490
+10  
+40  
+160  
+1280  
+
+weight 1500 -> reached weight 1500
+20  
+40  
+160  
+1280  
+
+weight 1510 -> reached weight 1510
+10  
+20  
+40  
+160  
+1280  
+
+weight 1520 -> reached weight 1520
+80  
+160  
+1280  
+
+weight 1530 -> reached weight 1530
+10  
+80  
+160  
+1280  
+
+weight 1540 -> reached weight 1540
+20  
+80  
+160  
+1280  
+
+weight 1550 -> reached weight 1550
+10  
+20  
+80  
+160  
+1280  
+
+weight 1560 -> reached weight 1560
+40  
+80  
+160  
+1280  
+
+weight 1570 -> reached weight 1570
+10  
+40  
+80  
+160  
+1280  
+
+weight 1580 -> reached weight 1580
+20  
+40  
+80  
+160  
+1280  
+
+weight 1590 -> reached weight 1590
+10  
+20  
+40  
+80  
+160  
+1280  
+
+weight 1600 -> reached weight 1600
+320  
+1280  
+
+weight 1610 -> reached weight 1610
+10  
+320  
+1280  
+
+weight 1620 -> reached weight 1620
+20  
+320  
+1280  
+
+weight 1630 -> reached weight 1630
+10  
+20  
+320  
+1280  
+
+weight 1640 -> reached weight 1640
+40  
+320  
+1280  
+
+weight 1650 -> reached weight 1650
+10  
+40  
+320  
+1280  
+
+weight 1660 -> reached weight 1660
+20  
+40  
+320  
+1280  
+
+weight 1670 -> reached weight 1670
+10  
+20  
+40  
+320  
+1280  
+
+weight 1680 -> reached weight 1680
+80  
+320  
+1280  
+
+weight 1690 -> reached weight 1690
+10  
+80  
+320  
+1280  
+
+weight 1700 -> reached weight 1700
+20  
+80  
+320  
+1280  
+
+weight 1710 -> reached weight 1710
+10  
+20  
+80  
+320  
+1280  
+
+weight 1720 -> reached weight 1720
+40  
+80  
+320  
+1280  
+
+weight 1730 -> reached weight 1730
+10  
+40  
+80  
+320  
+1280  
+
+weight 1740 -> reached weight 1740
+20  
+40  
+80  
+320  
+1280  
+
+weight 1750 -> reached weight 1750
+10  
+20  
+40  
+80  
+320  
+1280  
+
+weight 1760 -> reached weight 1760
+160  
+320  
+1280  
+
+weight 1770 -> reached weight 1770
+10  
+160  
+320  
+1280  
+
+weight 1780 -> reached weight 1780
+20  
+160  
+320  
+1280  
+
+weight 1790 -> reached weight 1790
+10  
+20  
+160  
+320  
+1280  
+
+weight 1800 -> reached weight 1800
+40  
+160  
+320  
+1280  
+
+weight 1810 -> reached weight 1810
+10  
+40  
+160  
+320  
+1280  
+
+weight 1820 -> reached weight 1820
+20  
+40  
+160  
+320  
+1280  
+
+weight 1830 -> reached weight 1830
+10  
+20  
+40  
+160  
+320  
+1280  
+
+weight 1840 -> reached weight 1840
+80  
+160  
+320  
+1280  
+
+weight 1850 -> reached weight 1850
+10  
+80  
+160  
+320  
+1280  
+
+weight 1860 -> reached weight 1860
+20  
+80  
+160  
+320  
+1280  
+
+weight 1870 -> reached weight 1870
+10  
+20  
+80  
+160  
+320  
+1280  
+
+weight 1880 -> reached weight 1880
+40  
+80  
+160  
+320  
+1280  
+
+weight 1890 -> reached weight 1890
+10  
+40  
+80  
+160  
+320  
+1280  
+
+weight 1900 -> reached weight 1900
+20  
+40  
+80  
+160  
+320  
+1280  
+
+weight 1910 -> reached weight 1910
+10  
+20  
+40  
+80  
+160  
+320  
+1280  
+
+weight 1920 -> reached weight 1920
+640  
+1280  
+
+weight 1930 -> reached weight 1930
+10  
+640  
+1280  
+
+weight 1940 -> reached weight 1940
+20  
+640  
+1280  
+
+weight 1950 -> reached weight 1950
+10  
+20  
+640  
+1280  
+
+weight 1960 -> reached weight 1960
+40  
+640  
+1280  
+
+weight 1970 -> reached weight 1970
+10  
+40  
+640  
+1280  
+
+weight 1980 -> reached weight 1980
+20  
+40  
+640  
+1280  
+
+weight 1990 -> reached weight 1990
+10  
+20  
+40  
+640  
+1280  
+
+weight 2000 -> reached weight 2000
+80  
+640  
+1280  
+
+weight 2010 -> reached weight 2010
+10  
+80  
+640  
+1280  
+
+weight 2020 -> reached weight 2020
+20  
+80  
+640  
+1280  
+
+weight 2030 -> reached weight 2030
+10  
+20  
+80  
+640  
+1280  
+
+weight 2040 -> reached weight 2040
+40  
+80  
+640  
+1280  
+
+weight 2050 -> reached weight 2050
+10  
+40  
+80  
+640  
+1280  
+
+weight 2060 -> reached weight 2060
+20  
+40  
+80  
+640  
+1280  
+
+weight 2070 -> reached weight 2070
+10  
+20  
+40  
+80  
+640  
+1280  
+
+weight 2080 -> reached weight 2080
+160  
+640  
+1280  
+
+weight 2090 -> reached weight 2090
+10  
+160  
+640  
+1280  
+
+weight 2100 -> reached weight 2100
+20  
+160  
+640  
+1280  
+
+weight 2110 -> reached weight 2110
+10  
+20  
+160  
+640  
+1280  
+
+weight 2120 -> reached weight 2120
+40  
+160  
+640  
+1280  
+
+weight 2130 -> reached weight 2130
+10  
+40  
+160  
+640  
+1280  
+
+weight 2140 -> reached weight 2140
+20  
+40  
+160  
+640  
+1280  
+
+weight 2150 -> reached weight 2150
+10  
+20  
+40  
+160  
+640  
+1280  
+
+weight 2160 -> reached weight 2160
+80  
+160  
+640  
+1280  
+
+weight 2170 -> reached weight 2170
+10  
+80  
+160  
+640  
+1280  
+
+weight 2180 -> reached weight 2180
+20  
+80  
+160  
+640  
+1280  
+
+weight 2190 -> reached weight 2190
+10  
+20  
+80  
+160  
+640  
+1280  
+
+weight 2200 -> reached weight 2200
+40  
+80  
+160  
+640  
+1280  
+
+weight 2210 -> reached weight 2210
+10  
+40  
+80  
+160  
+640  
+1280  
+
+weight 2220 -> reached weight 2220
+20  
+40  
+80  
+160  
+640  
+1280  
+
+weight 2230 -> reached weight 2230
+10  
+20  
+40  
+80  
+160  
+640  
+1280  
+
+weight 2240 -> reached weight 2240
+320  
+640  
+1280  
+
+weight 2250 -> reached weight 2250
+10  
+320  
+640  
+1280  
+
+weight 2260 -> reached weight 2260
+20  
+320  
+640  
+1280  
+
+weight 2270 -> reached weight 2270
+10  
+20  
+320  
+640  
+1280  
+
+weight 2280 -> reached weight 2280
+40  
+320  
+640  
+1280  
+
+weight 2290 -> reached weight 2290
+10  
+40  
+320  
+640  
+1280  
+
+weight 2300 -> reached weight 2300
+20  
+40  
+320  
+640  
+1280  
+
+weight 2310 -> reached weight 2310
+10  
+20  
+40  
+320  
+640  
+1280  
+
+weight 2320 -> reached weight 2320
+80  
+320  
+640  
+1280  
+
+weight 2330 -> reached weight 2330
+10  
+80  
+320  
+640  
+1280  
+
+weight 2340 -> reached weight 2340
+20  
+80  
+320  
+640  
+1280  
+
+weight 2350 -> reached weight 2350
+10  
+20  
+80  
+320  
+640  
+1280  
+
+weight 2360 -> reached weight 2360
+40  
+80  
+320  
+640  
+1280  
+
+weight 2370 -> reached weight 2370
+10  
+40  
+80  
+320  
+640  
+1280  
+
+weight 2380 -> reached weight 2380
+20  
+40  
+80  
+320  
+640  
+1280  
+
+weight 2390 -> reached weight 2390
+10  
+20  
+40  
+80  
+320  
+640  
+1280  
+
+weight 2400 -> reached weight 2400
+160  
+320  
+640  
+1280  
+
+weight 2410 -> reached weight 2410
+10  
+160  
+320  
+640  
+1280  
+
+weight 2420 -> reached weight 2420
+20  
+160  
+320  
+640  
+1280  
+
+weight 2430 -> reached weight 2430
+10  
+20  
+160  
+320  
+640  
+1280  
+
+weight 2440 -> reached weight 2440
+40  
+160  
+320  
+640  
+1280  
+
+weight 2450 -> reached weight 2450
+10  
+40  
+160  
+320  
+640  
+1280  
+
+weight 2460 -> reached weight 2460
+20  
+40  
+160  
+320  
+640  
+1280  
+
+weight 2470 -> reached weight 2470
+10  
+20  
+40  
+160  
+320  
+640  
+1280  
+
+weight 2480 -> reached weight 2480
+80  
+160  
+320  
+640  
+1280  
+
+weight 2490 -> reached weight 2490
+10  
+80  
+160  
+320  
+640  
+1280  
+
+weight 2500 -> reached weight 2500
+20  
+80  
+160  
+320  
+640  
+1280  
+
+weight 2510 -> reached weight 2510
+10  
+20  
+80  
+160  
+320  
+640  
+1280  
+
+weight 2520 -> reached weight 2520
+40  
+80  
+160  
+320  
+640  
+1280  
+
+weight 2530 -> reached weight 2530
+10  
+40  
+80  
+160  
+320  
+640  
+1280  
+
+weight 2540 -> reached weight 2540
+20  
+40  
+80  
+160  
+320  
+640  
+1280  
+
+weight 2550 -> reached weight 2550
+10  
+20  
+40  
+80  
+160  
+320  
+640  
+1280  
+
+weight 2560 -> reached weight 2560
+2560  
+
+weight 2570 -> reached weight 2570
+10  
+2560  
+
+weight 2580 -> reached weight 2580
+20  
+2560  
+
+weight 2590 -> reached weight 2590
+10  
+20  
+2560  
+
+weight 2600 -> reached weight 2600
+40  
+2560  
+
+weight 2610 -> reached weight 2610
+10  
+40  
+2560  
+
+weight 2620 -> reached weight 2620
+20  
+40  
+2560  
+
+weight 2630 -> reached weight 2630
+10  
+20  
+40  
+2560  
+
+weight 2640 -> reached weight 2640
+80  
+2560  
+
+weight 2650 -> reached weight 2650
+10  
+80  
+2560  
+
+weight 2660 -> reached weight 2660
+20  
+80  
+2560  
+
+weight 2670 -> reached weight 2670
+10  
+20  
+80  
+2560  
+
+weight 2680 -> reached weight 2680
+40  
+80  
+2560  
+
+weight 2690 -> reached weight 2690
+10  
+40  
+80  
+2560  
+
+weight 2700 -> reached weight 2700
+20  
+40  
+80  
+2560  
+
+weight 2710 -> reached weight 2710
+10  
+20  
+40  
+80  
+2560  
+
+weight 2720 -> reached weight 2720
+160  
+2560  
+
+weight 2730 -> reached weight 2730
+10  
+160  
+2560  
+
+weight 2740 -> reached weight 2740
+20  
+160  
+2560  
+
+weight 2750 -> reached weight 2750
+10  
+20  
+160  
+2560  
+
+weight 2760 -> reached weight 2760
+40  
+160  
+2560  
+
+weight 2770 -> reached weight 2770
+10  
+40  
+160  
+2560  
+
+weight 2780 -> reached weight 2780
+20  
+40  
+160  
+2560  
+
+weight 2790 -> reached weight 2790
+10  
+20  
+40  
+160  
+2560  
+
+weight 2800 -> reached weight 2800
+80  
+160  
+2560  
+
+weight 2810 -> reached weight 2810
+10  
+80  
+160  
+2560  
+
+weight 2820 -> reached weight 2820
+20  
+80  
+160  
+2560  
+
+weight 2830 -> reached weight 2830
+10  
+20  
+80  
+160  
+2560  
+
+weight 2840 -> reached weight 2840
+40  
+80  
+160  
+2560  
+
+weight 2850 -> reached weight 2850
+10  
+40  
+80  
+160  
+2560  
+
+weight 2860 -> reached weight 2860
+20  
+40  
+80  
+160  
+2560  
+
+weight 2870 -> reached weight 2870
+10  
+20  
+40  
+80  
+160  
+2560  
+
+weight 2880 -> reached weight 2880
+320  
+2560  
+
+weight 2890 -> reached weight 2890
+10  
+320  
+2560  
+
+weight 2900 -> reached weight 2900
+20  
+320  
+2560  
+
+weight 2910 -> reached weight 2910
+10  
+20  
+320  
+2560  
+
+weight 2920 -> reached weight 2920
+40  
+320  
+2560  
+
+weight 2930 -> reached weight 2930
+10  
+40  
+320  
+2560  
+
+weight 2940 -> reached weight 2940
+20  
+40  
+320  
+2560  
+
+weight 2950 -> reached weight 2950
+10  
+20  
+40  
+320  
+2560  
+
+weight 2960 -> reached weight 2960
+80  
+320  
+2560  
+
+weight 2970 -> reached weight 2970
+10  
+80  
+320  
+2560  
+
+weight 2980 -> reached weight 2980
+20  
+80  
+320  
+2560  
+
+weight 2990 -> reached weight 2990
+10  
+20  
+80  
+320  
+2560  
+
+weight 3000 -> reached weight 3000
+40  
+80  
+320  
+2560  
+
+weight 3010 -> reached weight 3010
+10  
+40  
+80  
+320  
+2560  
+
+weight 3020 -> reached weight 3020
+20  
+40  
+80  
+320  
+2560  
+
+weight 3030 -> reached weight 3030
+10  
+20  
+40  
+80  
+320  
+2560  
+
+weight 3040 -> reached weight 3040
+160  
+320  
+2560  
+
+weight 3050 -> reached weight 3050
+10  
+160  
+320  
+2560  
+
+weight 3060 -> reached weight 3060
+20  
+160  
+320  
+2560  
+
+weight 3070 -> reached weight 3070
+10  
+20  
+160  
+320  
+2560  
+
+weight 3080 -> reached weight 3080
+40  
+160  
+320  
+2560  
+
+weight 3090 -> reached weight 3090
+10  
+40  
+160  
+320  
+2560  
+
+weight 3100 -> reached weight 3100
+20  
+40  
+160  
+320  
+2560  
+
+weight 3110 -> reached weight 3110
+10  
+20  
+40  
+160  
+320  
+2560  
+
+weight 3120 -> reached weight 3120
+80  
+160  
+320  
+2560  
+
+weight 3130 -> reached weight 3130
+10  
+80  
+160  
+320  
+2560  
+
+weight 3140 -> reached weight 3140
+20  
+80  
+160  
+320  
+2560  
+
+weight 3150 -> reached weight 3150
+10  
+20  
+80  
+160  
+320  
+2560  
+
+weight 3160 -> reached weight 3160
+40  
+80  
+160  
+320  
+2560  
+
+weight 3170 -> reached weight 3170
+10  
+40  
+80  
+160  
+320  
+2560  
+
+weight 3180 -> reached weight 3180
+20  
+40  
+80  
+160  
+320  
+2560  
+
+weight 3190 -> reached weight 3190
+10  
+20  
+40  
+80  
+160  
+320  
+2560  
+
+weight 3200 -> reached weight 3200
+640  
+2560  
+
+weight 3210 -> reached weight 3210
+10  
+640  
+2560  
+
+weight 3220 -> reached weight 3220
+20  
+640  
+2560  
+
+weight 3230 -> reached weight 3230
+10  
+20  
+640  
+2560  
+
+weight 3240 -> reached weight 3240
+40  
+640  
+2560  
+
+weight 3250 -> reached weight 3250
+10  
+40  
+640  
+2560  
+
+weight 3260 -> reached weight 3260
+20  
+40  
+640  
+2560  
+
+weight 3270 -> reached weight 3270
+10  
+20  
+40  
+640  
+2560  
+
+weight 3280 -> reached weight 3280
+80  
+640  
+2560  
+
+weight 3290 -> reached weight 3290
+10  
+80  
+640  
+2560  
+
+weight 3300 -> reached weight 3300
+20  
+80  
+640  
+2560  
+
+weight 3310 -> reached weight 3310
+10  
+20  
+80  
+640  
+2560  
+
+weight 3320 -> reached weight 3320
+40  
+80  
+640  
+2560  
+
+weight 3330 -> reached weight 3330
+10  
+40  
+80  
+640  
+2560  
+
+weight 3340 -> reached weight 3340
+20  
+40  
+80  
+640  
+2560  
+
+weight 3350 -> reached weight 3350
+10  
+20  
+40  
+80  
+640  
+2560  
+
+weight 3360 -> reached weight 3360
+160  
+640  
+2560  
+
+weight 3370 -> reached weight 3370
+10  
+160  
+640  
+2560  
+
+weight 3380 -> reached weight 3380
+20  
+160  
+640  
+2560  
+
+weight 3390 -> reached weight 3390
+10  
+20  
+160  
+640  
+2560  
+
+weight 3400 -> reached weight 3400
+40  
+160  
+640  
+2560  
+
+weight 3410 -> reached weight 3410
+10  
+40  
+160  
+640  
+2560  
+
+weight 3420 -> reached weight 3420
+20  
+40  
+160  
+640  
+2560  
+
+weight 3430 -> reached weight 3430
+10  
+20  
+40  
+160  
+640  
+2560  
+
+weight 3440 -> reached weight 3440
+80  
+160  
+640  
+2560  
+
+weight 3450 -> reached weight 3450
+10  
+80  
+160  
+640  
+2560  
+
+weight 3460 -> reached weight 3460
+20  
+80  
+160  
+640  
+2560  
+
+weight 3470 -> reached weight 3470
+10  
+20  
+80  
+160  
+640  
+2560  
+
+weight 3480 -> reached weight 3480
+40  
+80  
+160  
+640  
+2560  
+
+weight 3490 -> reached weight 3490
+10  
+40  
+80  
+160  
+640  
+2560  
+
+weight 3500 -> reached weight 3500
+20  
+40  
+80  
+160  
+640  
+2560  
+
+weight 3510 -> reached weight 3510
+10  
+20  
+40  
+80  
+160  
+640  
+2560  
+
+weight 3520 -> reached weight 3520
+320  
+640  
+2560  
+
+weight 3530 -> reached weight 3530
+10  
+320  
+640  
+2560  
+
+weight 3540 -> reached weight 3540
+20  
+320  
+640  
+2560  
+
+weight 3550 -> reached weight 3550
+10  
+20  
+320  
+640  
+2560  
+
+weight 3560 -> reached weight 3560
+40  
+320  
+640  
+2560  
+
+weight 3570 -> reached weight 3570
+10  
+40  
+320  
+640  
+2560  
+
+weight 3580 -> reached weight 3580
+20  
+40  
+320  
+640  
+2560  
+
+weight 3590 -> reached weight 3590
+10  
+20  
+40  
+320  
+640  
+2560  
+
+weight 3600 -> reached weight 3600
+80  
+320  
+640  
+2560  
+
+weight 3610 -> reached weight 3610
+10  
+80  
+320  
+640  
+2560  
+
+weight 3620 -> reached weight 3620
+20  
+80  
+320  
+640  
+2560  
+
+weight 3630 -> reached weight 3630
+10  
+20  
+80  
+320  
+640  
+2560  
+
+weight 3640 -> reached weight 3640
+40  
+80  
+320  
+640  
+2560  
+
+weight 3650 -> reached weight 3650
+10  
+40  
+80  
+320  
+640  
+2560  
+
+weight 3660 -> reached weight 3660
+20  
+40  
+80  
+320  
+640  
+2560  
+
+weight 3670 -> reached weight 3670
+10  
+20  
+40  
+80  
+320  
+640  
+2560  
+
+weight 3680 -> reached weight 3680
+160  
+320  
+640  
+2560  
+
+weight 3690 -> reached weight 3690
+10  
+160  
+320  
+640  
+2560  
+
+weight 3700 -> reached weight 3700
+20  
+160  
+320  
+640  
+2560  
+
+weight 3710 -> reached weight 3710
+10  
+20  
+160  
+320  
+640  
+2560  
+
+weight 3720 -> reached weight 3720
+40  
+160  
+320  
+640  
+2560  
+
+weight 3730 -> reached weight 3730
+10  
+40  
+160  
+320  
+640  
+2560  
+
+weight 3740 -> reached weight 3740
+20  
+40  
+160  
+320  
+640  
+2560  
+
+weight 3750 -> reached weight 3750
+10  
+20  
+40  
+160  
+320  
+640  
+2560  
+
+weight 3760 -> reached weight 3760
+80  
+160  
+320  
+640  
+2560  
+
+weight 3770 -> reached weight 3770
+10  
+80  
+160  
+320  
+640  
+2560  
+
+weight 3780 -> reached weight 3780
+20  
+80  
+160  
+320  
+640  
+2560  
+
+weight 3790 -> reached weight 3790
+10  
+20  
+80  
+160  
+320  
+640  
+2560  
+
+weight 3800 -> reached weight 3800
+40  
+80  
+160  
+320  
+640  
+2560  
+
+weight 3810 -> reached weight 3810
+10  
+40  
+80  
+160  
+320  
+640  
+2560  
+
+weight 3820 -> reached weight 3820
+20  
+40  
+80  
+160  
+320  
+640  
+2560  
+
+weight 3830 -> reached weight 3830
+10  
+20  
+40  
+80  
+160  
+320  
+640  
+2560  
+
+weight 3840 -> reached weight 3840
+1280  
+2560  
+
+weight 3850 -> reached weight 3850
+10  
+1280  
+2560  
+
+weight 3860 -> reached weight 3860
+20  
+1280  
+2560  
+
+weight 3870 -> reached weight 3870
+10  
+20  
+1280  
+2560  
+
+weight 3880 -> reached weight 3880
+40  
+1280  
+2560  
+
+weight 3890 -> reached weight 3890
+10  
+40  
+1280  
+2560  
+
+weight 3900 -> reached weight 3900
+20  
+40  
+1280  
+2560  
+
+weight 3910 -> reached weight 3910
+10  
+20  
+40  
+1280  
+2560  
+
+weight 3920 -> reached weight 3920
+80  
+1280  
+2560  
+
+weight 3930 -> reached weight 3930
+10  
+80  
+1280  
+2560  
+
+weight 3940 -> reached weight 3940
+20  
+80  
+1280  
+2560  
+
+weight 3950 -> reached weight 3950
+10  
+20  
+80  
+1280  
+2560  
+
+weight 3960 -> reached weight 3960
+40  
+80  
+1280  
+2560  
+
+weight 3970 -> reached weight 3970
+10  
+40  
+80  
+1280  
+2560  
+
+weight 3980 -> reached weight 3980
+20  
+40  
+80  
+1280  
+2560  
+
+weight 3990 -> reached weight 3990
+10  
+20  
+40  
+80  
+1280  
+2560  
+
+weight 4000 -> reached weight 4000
+160  
+1280  
+2560  
+
+weight 4010 -> reached weight 4010
+10  
+160  
+1280  
+2560  
+
+weight 4020 -> reached weight 4020
+20  
+160  
+1280  
+2560  
+
+weight 4030 -> reached weight 4030
+10  
+20  
+160  
+1280  
+2560  
+
+weight 4040 -> reached weight 4040
+40  
+160  
+1280  
+2560  
+
+weight 4050 -> reached weight 4050
+10  
+40  
+160  
+1280  
+2560  
+
+weight 4060 -> reached weight 4060
+20  
+40  
+160  
+1280  
+2560  
+
+weight 4070 -> reached weight 4070
+10  
+20  
+40  
+160  
+1280  
+2560  
+
+weight 4080 -> reached weight 4080
+80  
+160  
+1280  
+2560  
+
+weight 4090 -> reached weight 4090
+10  
+80  
+160  
+1280  
+2560  
+
+weight 4100 -> reached weight 4100
+20  
+80  
+160  
+1280  
+2560  
+
+weight 4110 -> reached weight 4110
+10  
+20  
+80  
+160  
+1280  
+2560  
+
+weight 4120 -> reached weight 4120
+40  
+80  
+160  
+1280  
+2560  
+
+weight 4130 -> reached weight 4130
+10  
+40  
+80  
+160  
+1280  
+2560  
+
+weight 4140 -> reached weight 4140
+20  
+40  
+80  
+160  
+1280  
+2560  
+
+weight 4150 -> reached weight 4150
+10  
+20  
+40  
+80  
+160  
+1280  
+2560  
+
+weight 4160 -> reached weight 4160
+320  
+1280  
+2560  
+
+weight 4170 -> reached weight 4170
+10  
+320  
+1280  
+2560  
+
+weight 4180 -> reached weight 4180
+20  
+320  
+1280  
+2560  
+
+weight 4190 -> reached weight 4190
+10  
+20  
+320  
+1280  
+2560  
+
+weight 4200 -> reached weight 4200
+40  
+320  
+1280  
+2560  
+
+weight 4210 -> reached weight 4210
+10  
+40  
+320  
+1280  
+2560  
+
+weight 4220 -> reached weight 4220
+20  
+40  
+320  
+1280  
+2560  
+
+weight 4230 -> reached weight 4230
+10  
+20  
+40  
+320  
+1280  
+2560  
+
+weight 4240 -> reached weight 4240
+80  
+320  
+1280  
+2560  
+
+weight 4250 -> reached weight 4250
+10  
+80  
+320  
+1280  
+2560  
+
+weight 4260 -> reached weight 4260
+20  
+80  
+320  
+1280  
+2560  
+
+weight 4270 -> reached weight 4270
+10  
+20  
+80  
+320  
+1280  
+2560  
+
+weight 4280 -> reached weight 4280
+40  
+80  
+320  
+1280  
+2560  
+
+weight 4290 -> reached weight 4290
+10  
+40  
+80  
+320  
+1280  
+2560  
+
+weight 4300 -> reached weight 4300
+20  
+40  
+80  
+320  
+1280  
+2560  
+
+weight 4310 -> reached weight 4310
+10  
+20  
+40  
+80  
+320  
+1280  
+2560  
+
+weight 4320 -> reached weight 4320
+160  
+320  
+1280  
+2560  
+
+weight 4330 -> reached weight 4330
+10  
+160  
+320  
+1280  
+2560  
+
+weight 4340 -> reached weight 4340
+20  
+160  
+320  
+1280  
+2560  
+
+weight 4350 -> reached weight 4350
+10  
+20  
+160  
+320  
+1280  
+2560  
+
+weight 4360 -> reached weight 4360
+40  
+160  
+320  
+1280  
+2560  
+
+weight 4370 -> reached weight 4370
+10  
+40  
+160  
+320  
+1280  
+2560  
+
+weight 4380 -> reached weight 4380
+20  
+40  
+160  
+320  
+1280  
+2560  
+
+weight 4390 -> reached weight 4390
+10  
+20  
+40  
+160  
+320  
+1280  
+2560  
+
+weight 4400 -> reached weight 4400
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4410 -> reached weight 4410
+10  
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4420 -> reached weight 4420
+20  
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4430 -> reached weight 4430
+10  
+20  
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4440 -> reached weight 4440
+40  
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4450 -> reached weight 4450
+10  
+40  
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4460 -> reached weight 4460
+20  
+40  
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4470 -> reached weight 4470
+10  
+20  
+40  
+80  
+160  
+320  
+1280  
+2560  
+
+weight 4480 -> reached weight 4480
+640  
+1280  
+2560  
+
+weight 4490 -> reached weight 4490
+10  
+640  
+1280  
+2560  
+
+weight 4500 -> reached weight 4500
+20  
+640  
+1280  
+2560  
+
+weight 4510 -> reached weight 4510
+10  
+20  
+640  
+1280  
+2560  
+
+weight 4520 -> reached weight 4520
+40  
+640  
+1280  
+2560  
+
+weight 4530 -> reached weight 4530
+10  
+40  
+640  
+1280  
+2560  
+
+weight 4540 -> reached weight 4540
+20  
+40  
+640  
+1280  
+2560  
+
+weight 4550 -> reached weight 4550
+10  
+20  
+40  
+640  
+1280  
+2560  
+
+weight 4560 -> reached weight 4560
+80  
+640  
+1280  
+2560  
+
+weight 4570 -> reached weight 4570
+10  
+80  
+640  
+1280  
+2560  
+
+weight 4580 -> reached weight 4580
+20  
+80  
+640  
+1280  
+2560  
+
+weight 4590 -> reached weight 4590
+10  
+20  
+80  
+640  
+1280  
+2560  
+
+weight 4600 -> reached weight 4600
+40  
+80  
+640  
+1280  
+2560  
+
+weight 4610 -> reached weight 4610
+10  
+40  
+80  
+640  
+1280  
+2560  
+
+weight 4620 -> reached weight 4620
+20  
+40  
+80  
+640  
+1280  
+2560  
+
+weight 4630 -> reached weight 4630
+10  
+20  
+40  
+80  
+640  
+1280  
+2560  
+
+weight 4640 -> reached weight 4640
+160  
+640  
+1280  
+2560  
+
+weight 4650 -> reached weight 4650
+10  
+160  
+640  
+1280  
+2560  
+
+weight 4660 -> reached weight 4660
+20  
+160  
+640  
+1280  
+2560  
+
+weight 4670 -> reached weight 4670
+10  
+20  
+160  
+640  
+1280  
+2560  
+
+weight 4680 -> reached weight 4680
+40  
+160  
+640  
+1280  
+2560  
+
+weight 4690 -> reached weight 4690
+10  
+40  
+160  
+640  
+1280  
+2560  
+
+weight 4700 -> reached weight 4700
+20  
+40  
+160  
+640  
+1280  
+2560  
+
+weight 4710 -> reached weight 4710
+10  
+20  
+40  
+160  
+640  
+1280  
+2560  
+
+weight 4720 -> reached weight 4720
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4730 -> reached weight 4730
+10  
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4740 -> reached weight 4740
+20  
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4750 -> reached weight 4750
+10  
+20  
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4760 -> reached weight 4760
+40  
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4770 -> reached weight 4770
+10  
+40  
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4780 -> reached weight 4780
+20  
+40  
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4790 -> reached weight 4790
+10  
+20  
+40  
+80  
+160  
+640  
+1280  
+2560  
+
+weight 4800 -> reached weight 4800
+320  
+640  
+1280  
+2560  
+
+weight 4810 -> reached weight 4810
+10  
+320  
+640  
+1280  
+2560  
+
+weight 4820 -> reached weight 4820
+20  
+320  
+640  
+1280  
+2560  
+
+weight 4830 -> reached weight 4830
+10  
+20  
+320  
+640  
+1280  
+2560  
+
+weight 4840 -> reached weight 4840
+40  
+320  
+640  
+1280  
+2560  
+
+weight 4850 -> reached weight 4850
+10  
+40  
+320  
+640  
+1280  
+2560  
+
+weight 4860 -> reached weight 4860
+20  
+40  
+320  
+640  
+1280  
+2560  
+
+weight 4870 -> reached weight 4870
+10  
+20  
+40  
+320  
+640  
+1280  
+2560  
+
+weight 4880 -> reached weight 4880
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4890 -> reached weight 4890
+10  
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4900 -> reached weight 4900
+20  
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4910 -> reached weight 4910
+10  
+20  
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4920 -> reached weight 4920
+40  
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4930 -> reached weight 4930
+10  
+40  
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4940 -> reached weight 4940
+20  
+40  
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4950 -> reached weight 4950
+10  
+20  
+40  
+80  
+320  
+640  
+1280  
+2560  
+
+weight 4960 -> reached weight 4960
+160  
+320  
+640  
+1280  
+2560  
+
+weight 4970 -> reached weight 4970
+10  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 4980 -> reached weight 4980
+20  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 4990 -> reached weight 4990
+10  
+20  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5000 -> reached weight 5000
+40  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5010 -> reached weight 5010
+10  
+40  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5020 -> reached weight 5020
+20  
+40  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5030 -> reached weight 5030
+10  
+20  
+40  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5040 -> reached weight 5040
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5050 -> reached weight 5050
+10  
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5060 -> reached weight 5060
+20  
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5070 -> reached weight 5070
+10  
+20  
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5080 -> reached weight 5080
+40  
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5090 -> reached weight 5090
+10  
+40  
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5100 -> reached weight 5100
+20  
+40  
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5110 -> reached weight 5110
+10  
+20  
+40  
+80  
+160  
+320  
+640  
+1280  
+2560  
+
+weight 5120 -> reached weight 5120
+5120  
+
+weight 5130 -> reached weight 5130
+10  
+5120  
+
+weight 5140 -> reached weight 5140
+20  
+5120  
+
+weight 5150 -> reached weight 5150
+10  
+20  
+5120  
+
+weight 5160 -> reached weight 5160
+40  
+5120  
+
+weight 5170 -> reached weight 5170
+10  
+40  
+5120  
+
+weight 5180 -> reached weight 5180
+20  
+40  
+5120  
+
+weight 5190 -> reached weight 5190
+10  
+20  
+40  
+5120  
+
+weight 5200 -> reached weight 5200
+80  
+5120  
+
+weight 5210 -> reached weight 5210
+10  
+80  
+5120  
+
+weight 5220 -> reached weight 5220
+20  
+80  
+5120  
+
+weight 5230 -> reached weight 5230
+10  
+20  
+80  
+5120  
+
+weight 5240 -> reached weight 5240
+40  
+80  
+5120  
+
+weight 5250 -> reached weight 5250
+10  
+40  
+80  
+5120  
+
+weight 5260 -> reached weight 5260
+20  
+40  
+80  
+5120  
+
+weight 5270 -> reached weight 5270
+10  
+20  
+40  
+80  
+5120  
+
+weight 5280 -> reached weight 5280
+160  
+5120  
+
+weight 5290 -> reached weight 5290
+10  
+160  
+5120  
+
+weight 5300 -> reached weight 5300
+20  
+160  
+5120  
+
+weight 5310 -> reached weight 5310
+10  
+20  
+160  
+5120  
+
+weight 5320 -> reached weight 5320
+40  
+160  
+5120  
+
+weight 5330 -> reached weight 5330
+10  
+40  
+160  
+5120  
+
+weight 5340 -> reached weight 5340
+20  
+40  
+160  
+5120  
+
+weight 5350 -> reached weight 5350
+10  
+20  
+40  
+160  
+5120  
+
+weight 5360 -> reached weight 5360
+80  
+160  
+5120  
+
+weight 5370 -> reached weight 5370
+10  
+80  
+160  
+5120  
+
+weight 5380 -> reached weight 5380
+20  
+80  
+160  
+5120  
+
+weight 5390 -> reached weight 5390
+10  
+20  
+80  
+160  
+5120  
+
+weight 5400 -> reached weight 5400
+40  
+80  
+160  
+5120  
+
+weight 5410 -> reached weight 5410
+10  
+40  
+80  
+160  
+5120  
+
+weight 5420 -> reached weight 5420
+20  
+40  
+80  
+160  
+5120  
+
+weight 5430 -> reached weight 5430
+10  
+20  
+40  
+80  
+160  
+5120  
+
+weight 5440 -> reached weight 5440
+320  
+5120  
+
+weight 5450 -> reached weight 5450
+10  
+320  
+5120  
+
+weight 5460 -> reached weight 5460
+20  
+320  
+5120  
+
+weight 5470 -> reached weight 5470
+10  
+20  
+320  
+5120  
+
+weight 5480 -> reached weight 5480
+40  
+320  
+5120  
+
+weight 5490 -> reached weight 5490
+10  
+40  
+320  
+5120  
+
+weight 5500 -> reached weight 5500
+20  
+40  
+320  
+5120  
+
+weight 5510 -> reached weight 5510
+10  
+20  
+40  
+320  
+5120  
+
+weight 5520 -> reached weight 5520
+80  
+320  
+5120  
+
+weight 5530 -> reached weight 5530
+10  
+80  
+320  
+5120  
+
+weight 5540 -> reached weight 5540
+20  
+80  
+320  
+5120  
+
+weight 5550 -> reached weight 5550
+10  
+20  
+80  
+320  
+5120  
+
+weight 5560 -> reached weight 5560
+40  
+80  
+320  
+5120  
+
+weight 5570 -> reached weight 5570
+10  
+40  
+80  
+320  
+5120  
+
+weight 5580 -> reached weight 5580
+20  
+40  
+80  
+320  
+5120  
+
+weight 5590 -> reached weight 5590
+10  
+20  
+40  
+80  
+320  
+5120  
+
+weight 5600 -> reached weight 5600
+160  
+320  
+5120  
+
+weight 5610 -> reached weight 5610
+10  
+160  
+320  
+5120  
+
+weight 5620 -> reached weight 5620
+20  
+160  
+320  
+5120  
+
+weight 5630 -> reached weight 5630
+10  
+20  
+160  
+320  
+5120  
+
+weight 5640 -> reached weight 5640
+40  
+160  
+320  
+5120  
+
+weight 5650 -> reached weight 5650
+10  
+40  
+160  
+320  
+5120  
+
+weight 5660 -> reached weight 5660
+20  
+40  
+160  
+320  
+5120  
+
+weight 5670 -> reached weight 5670
+10  
+20  
+40  
+160  
+320  
+5120  
+
+weight 5680 -> reached weight 5680
+80  
+160  
+320  
+5120  
+
+weight 5690 -> reached weight 5690
+10  
+80  
+160  
+320  
+5120  
+
+weight 5700 -> reached weight 5700
+20  
+80  
+160  
+320  
+5120  
+
+weight 5710 -> reached weight 5710
+10  
+20  
+80  
+160  
+320  
+5120  
+
+weight 5720 -> reached weight 5720
+40  
+80  
+160  
+320  
+5120  
+
+weight 5730 -> reached weight 5730
+10  
+40  
+80  
+160  
+320  
+5120  
+
+weight 5740 -> reached weight 5740
+20  
+40  
+80  
+160  
+320  
+5120  
+
+weight 5750 -> reached weight 5750
+10  
+20  
+40  
+80  
+160  
+320  
+5120  
+
+weight 5760 -> reached weight 5760
+640  
+5120  
+
+weight 5770 -> reached weight 5770
+10  
+640  
+5120  
+
+weight 5780 -> reached weight 5780
+20  
+640  
+5120  
+
+weight 5790 -> reached weight 5790
+10  
+20  
+640  
+5120  
+
+weight 5800 -> reached weight 5800
+40  
+640  
+5120  
+
+weight 5810 -> reached weight 5810
+10  
+40  
+640  
+5120  
+
+weight 5820 -> reached weight 5820
+20  
+40  
+640  
+5120  
+
+weight 5830 -> reached weight 5830
+10  
+20  
+40  
+640  
+5120  
+
+weight 5840 -> reached weight 5840
+80  
+640  
+5120  
+
+weight 5850 -> reached weight 5850
+10  
+80  
+640  
+5120  
+
+weight 5860 -> reached weight 5860
+20  
+80  
+640  
+5120  
+
+weight 5870 -> reached weight 5870
+10  
+20  
+80  
+640  
+5120  
+
+weight 5880 -> reached weight 5880
+40  
+80  
+640  
+5120  
+
+weight 5890 -> reached weight 5890
+10  
+40  
+80  
+640  
+5120  
+
+weight 5900 -> reached weight 5900
+20  
+40  
+80  
+640  
+5120  
+
+weight 5910 -> reached weight 5910
+10  
+20  
+40  
+80  
+640  
+5120  
+
+weight 5920 -> reached weight 5920
+160  
+640  
+5120  
+
+weight 5930 -> reached weight 5930
+10  
+160  
+640  
+5120  
+
+weight 5940 -> reached weight 5940
+20  
+160  
+640  
+5120  
+
+weight 5950 -> reached weight 5950
+10  
+20  
+160  
+640  
+5120  
+
+weight 5960 -> reached weight 5960
+40  
+160  
+640  
+5120  
+
+weight 5970 -> reached weight 5970
+10  
+40  
+160  
+640  
+5120  
+
+weight 5980 -> reached weight 5980
+20  
+40  
+160  
+640  
+5120  
+
+weight 5990 -> reached weight 5990
+10  
+20  
+40  
+160  
+640  
+5120  
+
+weight 6000 -> reached weight 6000
+80  
+160  
+640  
+5120  
+
+weight 6010 -> reached weight 6010
+10  
+80  
+160  
+640  
+5120  
+
+weight 6020 -> reached weight 6020
+20  
+80  
+160  
+640  
+5120  
+
+weight 6030 -> reached weight 6030
+10  
+20  
+80  
+160  
+640  
+5120  
+
+weight 6040 -> reached weight 6040
+40  
+80  
+160  
+640  
+5120  
+
+weight 6050 -> reached weight 6050
+10  
+40  
+80  
+160  
+640  
+5120  
+
+weight 6060 -> reached weight 6060
+20  
+40  
+80  
+160  
+640  
+5120  
+
+weight 6070 -> reached weight 6070
+10  
+20  
+40  
+80  
+160  
+640  
+5120  
+
+weight 6080 -> reached weight 6080
+320  
+640  
+5120  
+
+weight 6090 -> reached weight 6090
+10  
+320  
+640  
+5120  
+
+weight 6100 -> reached weight 6100
+20  
+320  
+640  
+5120  
+
+weight 6110 -> reached weight 6110
+10  
+20  
+320  
+640  
+5120  
+
+weight 6120 -> reached weight 6120
+40  
+320  
+640  
+5120  
+
+weight 6130 -> reached weight 6130
+10  
+40  
+320  
+640  
+5120  
+
+weight 6140 -> reached weight 6140
+20  
+40  
+320  
+640  
+5120  
+
+weight 6150 -> reached weight 6150
+10  
+20  
+40  
+320  
+640  
+5120  
+
+weight 6160 -> reached weight 6160
+80  
+320  
+640  
+5120  
+
+weight 6170 -> reached weight 6170
+10  
+80  
+320  
+640  
+5120  
+
+weight 6180 -> reached weight 6180
+20  
+80  
+320  
+640  
+5120  
+
+weight 6190 -> reached weight 6190
+10  
+20  
+80  
+320  
+640  
+5120  
+
+weight 6200 -> reached weight 6200
+40  
+80  
+320  
+640  
+5120  
+
+weight 6210 -> reached weight 6210
+10  
+40  
+80  
+320  
+640  
+5120  
+
+weight 6220 -> reached weight 6220
+20  
+40  
+80  
+320  
+640  
+5120  
+
+weight 6230 -> reached weight 6230
+10  
+20  
+40  
+80  
+320  
+640  
+5120  
+
+weight 6240 -> reached weight 6240
+160  
+320  
+640  
+5120  
+
+weight 6250 -> reached weight 6250
+10  
+160  
+320  
+640  
+5120  
+
+weight 6260 -> reached weight 6260
+20  
+160  
+320  
+640  
+5120  
+
+weight 6270 -> reached weight 6270
+10  
+20  
+160  
+320  
+640  
+5120  
+
+weight 6280 -> reached weight 6280
+40  
+160  
+320  
+640  
+5120  
+
+weight 6290 -> reached weight 6290
+10  
+40  
+160  
+320  
+640  
+5120  
+
+weight 6300 -> reached weight 6300
+20  
+40  
+160  
+320  
+640  
+5120  
+
+weight 6310 -> reached weight 6310
+10  
+20  
+40  
+160  
+320  
+640  
+5120  
+
+weight 6320 -> reached weight 6320
+80  
+160  
+320  
+640  
+5120  
+
+weight 6330 -> reached weight 6330
+10  
+80  
+160  
+320  
+640  
+5120  
+
+weight 6340 -> reached weight 6340
+20  
+80  
+160  
+320  
+640  
+5120  
+
+weight 6350 -> reached weight 6350
+10  
+20  
+80  
+160  
+320  
+640  
+5120  
+
+weight 6360 -> reached weight 6360
+40  
+80  
+160  
+320  
+640  
+5120  
+
+weight 6370 -> reached weight 6370
+10  
+40  
+80  
+160  
+320  
+640  
+5120  
+
+weight 6380 -> reached weight 6380
+20  
+40  
+80  
+160  
+320  
+640  
+5120  
+
+weight 6390 -> reached weight 6390
+10  
+20  
+40  
+80  
+160  
+320  
+640  
+5120  
+
+weight 6400 -> reached weight 6400
+1280  
+5120  
+
+weight 6410 -> reached weight 6410
+10  
+1280  
+5120  
+
+weight 6420 -> reached weight 6420
+20  
+1280  
+5120  
+
+weight 6430 -> reached weight 6430
+10  
+20  
+1280  
+5120  
+
+weight 6440 -> reached weight 6440
+40  
+1280  
+5120  
+
+weight 6450 -> reached weight 6450
+10  
+40  
+1280  
+5120  
+
+weight 6460 -> reached weight 6460
+20  
+40  
+1280  
+5120  
+
+weight 6470 -> reached weight 6470
+10  
+20  
+40  
+1280  
+5120  
+
+weight 6480 -> reached weight 6480
+80  
+1280  
+5120  
+
+weight 6490 -> reached weight 6490
+10  
+80  
+1280  
+5120  
+
+weight 6500 -> reached weight 6500
+20  
+80  
+1280  
+5120  
+
+weight 6510 -> reached weight 6510
+10  
+20  
+80  
+1280  
+5120  
+
+weight 6520 -> reached weight 6520
+40  
+80  
+1280  
+5120  
+
+weight 6530 -> reached weight 6530
+10  
+40  
+80  
+1280  
+5120  
+
+weight 6540 -> reached weight 6540
+20  
+40  
+80  
+1280  
+5120  
+
+weight 6550 -> reached weight 6550
+10  
+20  
+40  
+80  
+1280  
+5120  
+
+weight 6560 -> reached weight 6560
+160  
+1280  
+5120  
+
+weight 6570 -> reached weight 6570
+10  
+160  
+1280  
+5120  
+
+weight 6580 -> reached weight 6580
+20  
+160  
+1280  
+5120  
+
+weight 6590 -> reached weight 6590
+10  
+20  
+160  
+1280  
+5120  
+
+weight 6600 -> reached weight 6600
+40  
+160  
+1280  
+5120  
+
+weight 6610 -> reached weight 6610
+10  
+40  
+160  
+1280  
+5120  
+
+weight 6620 -> reached weight 6620
+20  
+40  
+160  
+1280  
+5120  
+
+weight 6630 -> reached weight 6630
+10  
+20  
+40  
+160  
+1280  
+5120  
+
+weight 6640 -> reached weight 6640
+80  
+160  
+1280  
+5120  
+
+weight 6650 -> reached weight 6650
+10  
+80  
+160  
+1280  
+5120  
+
+weight 6660 -> reached weight 6660
+20  
+80  
+160  
+1280  
+5120  
+
+weight 6670 -> reached weight 6670
+10  
+20  
+80  
+160  
+1280  
+5120  
+
+weight 6680 -> reached weight 6680
+40  
+80  
+160  
+1280  
+5120  
+
+weight 6690 -> reached weight 6690
+10  
+40  
+80  
+160  
+1280  
+5120  
+
+weight 6700 -> reached weight 6700
+20  
+40  
+80  
+160  
+1280  
+5120  
+
+weight 6710 -> reached weight 6710
+10  
+20  
+40  
+80  
+160  
+1280  
+5120  
+
+weight 6720 -> reached weight 6720
+320  
+1280  
+5120  
+
+weight 6730 -> reached weight 6730
+10  
+320  
+1280  
+5120  
+
+weight 6740 -> reached weight 6740
+20  
+320  
+1280  
+5120  
+
+weight 6750 -> reached weight 6750
+10  
+20  
+320  
+1280  
+5120  
+
+weight 6760 -> reached weight 6760
+40  
+320  
+1280  
+5120  
+
+weight 6770 -> reached weight 6770
+10  
+40  
+320  
+1280  
+5120  
+
+weight 6780 -> reached weight 6780
+20  
+40  
+320  
+1280  
+5120  
+
+weight 6790 -> reached weight 6790
+10  
+20  
+40  
+320  
+1280  
+5120  
+
+weight 6800 -> reached weight 6800
+80  
+320  
+1280  
+5120  
+
+weight 6810 -> reached weight 6810
+10  
+80  
+320  
+1280  
+5120  
+
+weight 6820 -> reached weight 6820
+20  
+80  
+320  
+1280  
+5120  
+
+weight 6830 -> reached weight 6830
+10  
+20  
+80  
+320  
+1280  
+5120  
+
+weight 6840 -> reached weight 6840
+40  
+80  
+320  
+1280  
+5120  
+
+weight 6850 -> reached weight 6850
+10  
+40  
+80  
+320  
+1280  
+5120  
+
+weight 6860 -> reached weight 6860
+20  
+40  
+80  
+320  
+1280  
+5120  
+
+weight 6870 -> reached weight 6870
+10  
+20  
+40  
+80  
+320  
+1280  
+5120  
+
+weight 6880 -> reached weight 6880
+160  
+320  
+1280  
+5120  
+
+weight 6890 -> reached weight 6890
+10  
+160  
+320  
+1280  
+5120  
+
+weight 6900 -> reached weight 6900
+20  
+160  
+320  
+1280  
+5120  
+
+weight 6910 -> reached weight 6910
+10  
+20  
+160  
+320  
+1280  
+5120  
+
+weight 6920 -> reached weight 6920
+40  
+160  
+320  
+1280  
+5120  
+
+weight 6930 -> reached weight 6930
+10  
+40  
+160  
+320  
+1280  
+5120  
+
+weight 6940 -> reached weight 6940
+20  
+40  
+160  
+320  
+1280  
+5120  
+
+weight 6950 -> reached weight 6950
+10  
+20  
+40  
+160  
+320  
+1280  
+5120  
+
+weight 6960 -> reached weight 6960
+80  
+160  
+320  
+1280  
+5120  
+
+weight 6970 -> reached weight 6970
+10  
+80  
+160  
+320  
+1280  
+5120  
+
+weight 6980 -> reached weight 6980
+20  
+80  
+160  
+320  
+1280  
+5120  
+
+weight 6990 -> reached weight 6990
+10  
+20  
+80  
+160  
+320  
+1280  
+5120  
+
+weight 7000 -> reached weight 7000
+40  
+80  
+160  
+320  
+1280  
+5120  
+
+weight 7010 -> reached weight 7010
+10  
+40  
+80  
+160  
+320  
+1280  
+5120  
+
+weight 7020 -> reached weight 7020
+20  
+40  
+80  
+160  
+320  
+1280  
+5120  
+
+weight 7030 -> reached weight 7030
+10  
+20  
+40  
+80  
+160  
+320  
+1280  
+5120  
+
+weight 7040 -> reached weight 7040
+640  
+1280  
+5120  
+
+weight 7050 -> reached weight 7050
+10  
+640  
+1280  
+5120  
+
+weight 7060 -> reached weight 7060
+20  
+640  
+1280  
+5120  
+
+weight 7070 -> reached weight 7070
+10  
+20  
+640  
+1280  
+5120  
+
+weight 7080 -> reached weight 7080
+40  
+640  
+1280  
+5120  
+
+weight 7090 -> reached weight 7090
+10  
+40  
+640  
+1280  
+5120  
+
+weight 7100 -> reached weight 7100
+20  
+40  
+640  
+1280  
+5120  
+
+weight 7110 -> reached weight 7110
+10  
+20  
+40  
+640  
+1280  
+5120  
+
+weight 7120 -> reached weight 7120
+80  
+640  
+1280  
+5120  
+
+weight 7130 -> reached weight 7130
+10  
+80  
+640  
+1280  
+5120  
+
+weight 7140 -> reached weight 7140
+20  
+80  
+640  
+1280  
+5120  
+
+weight 7150 -> reached weight 7150
+10  
+20  
+80  
+640  
+1280  
+5120  
+
+weight 7160 -> reached weight 7160
+40  
+80  
+640  
+1280  
+5120  
+
+weight 7170 -> reached weight 7170
+10  
+40  
+80  
+640  
+1280  
+5120  
+
+weight 7180 -> reached weight 7180
+20  
+40  
+80  
+640  
+1280  
+5120  
+
+weight 7190 -> reached weight 7190
+10  
+20  
+40  
+80  
+640  
+1280  
+5120  
+
+weight 7200 -> reached weight 7200
+160  
+640  
+1280  
+5120  
+
+weight 7210 -> reached weight 7210
+10  
+160  
+640  
+1280  
+5120  
+
+weight 7220 -> reached weight 7220
+20  
+160  
+640  
+1280  
+5120  
+
+weight 7230 -> reached weight 7230
+10  
+20  
+160  
+640  
+1280  
+5120  
+
+weight 7240 -> reached weight 7240
+40  
+160  
+640  
+1280  
+5120  
+
+weight 7250 -> reached weight 7250
+10  
+40  
+160  
+640  
+1280  
+5120  
+
+weight 7260 -> reached weight 7260
+20  
+40  
+160  
+640  
+1280  
+5120  
+
+weight 7270 -> reached weight 7270
+10  
+20  
+40  
+160  
+640  
+1280  
+5120  
+
+weight 7280 -> reached weight 7280
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7290 -> reached weight 7290
+10  
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7300 -> reached weight 7300
+20  
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7310 -> reached weight 7310
+10  
+20  
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7320 -> reached weight 7320
+40  
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7330 -> reached weight 7330
+10  
+40  
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7340 -> reached weight 7340
+20  
+40  
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7350 -> reached weight 7350
+10  
+20  
+40  
+80  
+160  
+640  
+1280  
+5120  
+
+weight 7360 -> reached weight 7360
+320  
+640  
+1280  
+5120  
+
+weight 7370 -> reached weight 7370
+10  
+320  
+640  
+1280  
+5120  
+
+weight 7380 -> reached weight 7380
+20  
+320  
+640  
+1280  
+5120  
+
+weight 7390 -> reached weight 7390
+10  
+20  
+320  
+640  
+1280  
+5120  
+
+weight 7400 -> reached weight 7400
+40  
+320  
+640  
+1280  
+5120  
+
+weight 7410 -> reached weight 7410
+10  
+40  
+320  
+640  
+1280  
+5120  
+
+weight 7420 -> reached weight 7420
+20  
+40  
+320  
+640  
+1280  
+5120  
+
+weight 7430 -> reached weight 7430
+10  
+20  
+40  
+320  
+640  
+1280  
+5120  
+
+weight 7440 -> reached weight 7440
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7450 -> reached weight 7450
+10  
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7460 -> reached weight 7460
+20  
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7470 -> reached weight 7470
+10  
+20  
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7480 -> reached weight 7480
+40  
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7490 -> reached weight 7490
+10  
+40  
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7500 -> reached weight 7500
+20  
+40  
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7510 -> reached weight 7510
+10  
+20  
+40  
+80  
+320  
+640  
+1280  
+5120  
+
+weight 7520 -> reached weight 7520
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7530 -> reached weight 7530
+10  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7540 -> reached weight 7540
+20  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7550 -> reached weight 7550
+10  
+20  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7560 -> reached weight 7560
+40  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7570 -> reached weight 7570
+10  
+40  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7580 -> reached weight 7580
+20  
+40  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7590 -> reached weight 7590
+10  
+20  
+40  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7600 -> reached weight 7600
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7610 -> reached weight 7610
+10  
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7620 -> reached weight 7620
+20  
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7630 -> reached weight 7630
+10  
+20  
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7640 -> reached weight 7640
+40  
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7650 -> reached weight 7650
+10  
+40  
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7660 -> reached weight 7660
+20  
+40  
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7670 -> reached weight 7670
+10  
+20  
+40  
+80  
+160  
+320  
+640  
+1280  
+5120  
+
+weight 7680 -> reached weight 7680
+2560  
+5120  
+
+weight 7690 -> reached weight 7690
+10  
+2560  
+5120  
+
+weight 7700 -> reached weight 7700
+20  
+2560  
+5120  
+
+weight 7710 -> reached weight 7710
+10  
+20  
+2560  
+5120  
+
+weight 7720 -> reached weight 7720
+40  
+2560  
+5120  
+
+weight 7730 -> reached weight 7730
+10  
+40  
+2560  
+5120  
+
+weight 7740 -> reached weight 7740
+20  
+40  
+2560  
+5120  
+
+weight 7750 -> reached weight 7750
+10  
+20  
+40  
+2560  
+5120  
+
+weight 7760 -> reached weight 7760
+80  
+2560  
+5120  
+
+weight 7770 -> reached weight 7770
+10  
+80  
+2560  
+5120  
+
+weight 7780 -> reached weight 7780
+20  
+80  
+2560  
+5120  
+
+weight 7790 -> reached weight 7790
+10  
+20  
+80  
+2560  
+5120  
+
+weight 7800 -> reached weight 7800
+40  
+80  
+2560  
+5120  
+
+weight 7810 -> reached weight 7810
+10  
+40  
+80  
+2560  
+5120  
+
+weight 7820 -> reached weight 7820
+20  
+40  
+80  
+2560  
+5120  
+
+weight 7830 -> reached weight 7830
+10  
+20  
+40  
+80  
+2560  
+5120  
+
+weight 7840 -> reached weight 7840
+160  
+2560  
+5120  
+
+weight 7850 -> reached weight 7850
+10  
+160  
+2560  
+5120  
+
+weight 7860 -> reached weight 7860
+20  
+160  
+2560  
+5120  
+
+weight 7870 -> reached weight 7870
+10  
+20  
+160  
+2560  
+5120  
+
+weight 7880 -> reached weight 7880
+40  
+160  
+2560  
+5120  
+
+weight 7890 -> reached weight 7890
+10  
+40  
+160  
+2560  
+5120  
+
+weight 7900 -> reached weight 7900
+20  
+40  
+160  
+2560  
+5120  
+
+weight 7910 -> reached weight 7910
+10  
+20  
+40  
+160  
+2560  
+5120  
+
+weight 7920 -> reached weight 7920
+80  
+160  
+2560  
+5120  
+
+weight 7930 -> reached weight 7930
+10  
+80  
+160  
+2560  
+5120  
+
+weight 7940 -> reached weight 7940
+20  
+80  
+160  
+2560  
+5120  
+
+weight 7950 -> reached weight 7950
+10  
+20  
+80  
+160  
+2560  
+5120  
+
+weight 7960 -> reached weight 7960
+40  
+80  
+160  
+2560  
+5120  
+
+weight 7970 -> reached weight 7970
+10  
+40  
+80  
+160  
+2560  
+5120  
+
+weight 7980 -> reached weight 7980
+20  
+40  
+80  
+160  
+2560  
+5120  
+
+weight 7990 -> reached weight 7990
+10  
+20  
+40  
+80  
+160  
+2560  
+5120  
+
+weight 8000 -> reached weight 8000
+320  
+2560  
+5120  
+
+weight 8010 -> reached weight 8010
+10  
+320  
+2560  
+5120  
+
+weight 8020 -> reached weight 8020
+20  
+320  
+2560  
+5120  
+
+weight 8030 -> reached weight 8030
+10  
+20  
+320  
+2560  
+5120  
+
+weight 8040 -> reached weight 8040
+40  
+320  
+2560  
+5120  
+
+weight 8050 -> reached weight 8050
+10  
+40  
+320  
+2560  
+5120  
+
+weight 8060 -> reached weight 8060
+20  
+40  
+320  
+2560  
+5120  
+
+weight 8070 -> reached weight 8070
+10  
+20  
+40  
+320  
+2560  
+5120  
+
+weight 8080 -> reached weight 8080
+80  
+320  
+2560  
+5120  
+
+weight 8090 -> reached weight 8090
+10  
+80  
+320  
+2560  
+5120  
+
+weight 8100 -> reached weight 8100
+20  
+80  
+320  
+2560  
+5120  
+
+weight 8110 -> reached weight 8110
+10  
+20  
+80  
+320  
+2560  
+5120  
+
+weight 8120 -> reached weight 8120
+40  
+80  
+320  
+2560  
+5120  
+
+weight 8130 -> reached weight 8130
+10  
+40  
+80  
+320  
+2560  
+5120  
+
+weight 8140 -> reached weight 8140
+20  
+40  
+80  
+320  
+2560  
+5120  
+
+weight 8150 -> reached weight 8150
+10  
+20  
+40  
+80  
+320  
+2560  
+5120  
+
+weight 8160 -> reached weight 8160
+160  
+320  
+2560  
+5120  
+
+weight 8170 -> reached weight 8170
+10  
+160  
+320  
+2560  
+5120  
+
+weight 8180 -> reached weight 8180
+20  
+160  
+320  
+2560  
+5120  
+
+weight 8190 -> reached weight 8190
+10  
+20  
+160  
+320  
+2560  
+5120  
+
+weight 8200 -> reached weight 8200
+40  
+160  
+320  
+2560  
+5120  
+
+weight 8210 -> reached weight 8210
+10  
+40  
+160  
+320  
+2560  
+5120  
+
+weight 8220 -> reached weight 8220
+20  
+40  
+160  
+320  
+2560  
+5120  
+
+weight 8230 -> reached weight 8230
+10  
+20  
+40  
+160  
+320  
+2560  
+5120  
+
+weight 8240 -> reached weight 8240
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8250 -> reached weight 8250
+10  
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8260 -> reached weight 8260
+20  
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8270 -> reached weight 8270
+10  
+20  
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8280 -> reached weight 8280
+40  
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8290 -> reached weight 8290
+10  
+40  
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8300 -> reached weight 8300
+20  
+40  
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8310 -> reached weight 8310
+10  
+20  
+40  
+80  
+160  
+320  
+2560  
+5120  
+
+weight 8320 -> reached weight 8320
+640  
+2560  
+5120  
+
+weight 8330 -> reached weight 8330
+10  
+640  
+2560  
+5120  
+
+weight 8340 -> reached weight 8340
+20  
+640  
+2560  
+5120  
+
+weight 8350 -> reached weight 8350
+10  
+20  
+640  
+2560  
+5120  
+
+weight 8360 -> reached weight 8360
+40  
+640  
+2560  
+5120  
+
+weight 8370 -> reached weight 8370
+10  
+40  
+640  
+2560  
+5120  
+
+weight 8380 -> reached weight 8380
+20  
+40  
+640  
+2560  
+5120  
+
+weight 8390 -> reached weight 8390
+10  
+20  
+40  
+640  
+2560  
+5120  
+
+weight 8400 -> reached weight 8400
+80  
+640  
+2560  
+5120  
+
+weight 8410 -> reached weight 8410
+10  
+80  
+640  
+2560  
+5120  
+
+weight 8420 -> reached weight 8420
+20  
+80  
+640  
+2560  
+5120  
+
+weight 8430 -> reached weight 8430
+10  
+20  
+80  
+640  
+2560  
+5120  
+
+weight 8440 -> reached weight 8440
+40  
+80  
+640  
+2560  
+5120  
+
+weight 8450 -> reached weight 8450
+10  
+40  
+80  
+640  
+2560  
+5120  
+
+weight 8460 -> reached weight 8460
+20  
+40  
+80  
+640  
+2560  
+5120  
+
+weight 8470 -> reached weight 8470
+10  
+20  
+40  
+80  
+640  
+2560  
+5120  
+
+weight 8480 -> reached weight 8480
+160  
+640  
+2560  
+5120  
+
+weight 8490 -> reached weight 8490
+10  
+160  
+640  
+2560  
+5120  
+
+weight 8500 -> reached weight 8500
+20  
+160  
+640  
+2560  
+5120  
+
+weight 8510 -> reached weight 8510
+10  
+20  
+160  
+640  
+2560  
+5120  
+
+weight 8520 -> reached weight 8520
+40  
+160  
+640  
+2560  
+5120  
+
+weight 8530 -> reached weight 8530
+10  
+40  
+160  
+640  
+2560  
+5120  
+
+weight 8540 -> reached weight 8540
+20  
+40  
+160  
+640  
+2560  
+5120  
+
+weight 8550 -> reached weight 8550
+10  
+20  
+40  
+160  
+640  
+2560  
+5120  
+
+weight 8560 -> reached weight 8560
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8570 -> reached weight 8570
+10  
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8580 -> reached weight 8580
+20  
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8590 -> reached weight 8590
+10  
+20  
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8600 -> reached weight 8600
+40  
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8610 -> reached weight 8610
+10  
+40  
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8620 -> reached weight 8620
+20  
+40  
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8630 -> reached weight 8630
+10  
+20  
+40  
+80  
+160  
+640  
+2560  
+5120  
+
+weight 8640 -> reached weight 8640
+320  
+640  
+2560  
+5120  
+
+weight 8650 -> reached weight 8650
+10  
+320  
+640  
+2560  
+5120  
+
+weight 8660 -> reached weight 8660
+20  
+320  
+640  
+2560  
+5120  
+
+weight 8670 -> reached weight 8670
+10  
+20  
+320  
+640  
+2560  
+5120  
+
+weight 8680 -> reached weight 8680
+40  
+320  
+640  
+2560  
+5120  
+
+weight 8690 -> reached weight 8690
+10  
+40  
+320  
+640  
+2560  
+5120  
+
+weight 8700 -> reached weight 8700
+20  
+40  
+320  
+640  
+2560  
+5120  
+
+weight 8710 -> reached weight 8710
+10  
+20  
+40  
+320  
+640  
+2560  
+5120  
+
+weight 8720 -> reached weight 8720
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8730 -> reached weight 8730
+10  
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8740 -> reached weight 8740
+20  
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8750 -> reached weight 8750
+10  
+20  
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8760 -> reached weight 8760
+40  
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8770 -> reached weight 8770
+10  
+40  
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8780 -> reached weight 8780
+20  
+40  
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8790 -> reached weight 8790
+10  
+20  
+40  
+80  
+320  
+640  
+2560  
+5120  
+
+weight 8800 -> reached weight 8800
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8810 -> reached weight 8810
+10  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8820 -> reached weight 8820
+20  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8830 -> reached weight 8830
+10  
+20  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8840 -> reached weight 8840
+40  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8850 -> reached weight 8850
+10  
+40  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8860 -> reached weight 8860
+20  
+40  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8870 -> reached weight 8870
+10  
+20  
+40  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8880 -> reached weight 8880
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8890 -> reached weight 8890
+10  
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8900 -> reached weight 8900
+20  
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8910 -> reached weight 8910
+10  
+20  
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8920 -> reached weight 8920
+40  
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8930 -> reached weight 8930
+10  
+40  
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8940 -> reached weight 8940
+20  
+40  
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8950 -> reached weight 8950
+10  
+20  
+40  
+80  
+160  
+320  
+640  
+2560  
+5120  
+
+weight 8960 -> reached weight 8960
+1280  
+2560  
+5120  
+
+weight 8970 -> reached weight 8970
+10  
+1280  
+2560  
+5120  
+
+weight 8980 -> reached weight 8980
+20  
+1280  
+2560  
+5120  
+
+weight 8990 -> reached weight 8990
+10  
+20  
+1280  
+2560  
+5120  
+
+weight 9000 -> reached weight 9000
+40  
+1280  
+2560  
+5120  
+
+weight 9010 -> reached weight 9010
+10  
+40  
+1280  
+2560  
+5120  
+
+weight 9020 -> reached weight 9020
+20  
+40  
+1280  
+2560  
+5120  
+
+weight 9030 -> reached weight 9030
+10  
+20  
+40  
+1280  
+2560  
+5120  
+
+weight 9040 -> reached weight 9040
+80  
+1280  
+2560  
+5120  
+
+weight 9050 -> reached weight 9050
+10  
+80  
+1280  
+2560  
+5120  
+
+weight 9060 -> reached weight 9060
+20  
+80  
+1280  
+2560  
+5120  
+
+weight 9070 -> reached weight 9070
+10  
+20  
+80  
+1280  
+2560  
+5120  
+
+weight 9080 -> reached weight 9080
+40  
+80  
+1280  
+2560  
+5120  
+
+weight 9090 -> reached weight 9090
+10  
+40  
+80  
+1280  
+2560  
+5120  
+
+weight 9100 -> reached weight 9100
+20  
+40  
+80  
+1280  
+2560  
+5120  
+
+weight 9110 -> reached weight 9110
+10  
+20  
+40  
+80  
+1280  
+2560  
+5120  
+
+weight 9120 -> reached weight 9120
+160  
+1280  
+2560  
+5120  
+
+weight 9130 -> reached weight 9130
+10  
+160  
+1280  
+2560  
+5120  
+
+weight 9140 -> reached weight 9140
+20  
+160  
+1280  
+2560  
+5120  
+
+weight 9150 -> reached weight 9150
+10  
+20  
+160  
+1280  
+2560  
+5120  
+
+weight 9160 -> reached weight 9160
+40  
+160  
+1280  
+2560  
+5120  
+
+weight 9170 -> reached weight 9170
+10  
+40  
+160  
+1280  
+2560  
+5120  
+
+weight 9180 -> reached weight 9180
+20  
+40  
+160  
+1280  
+2560  
+5120  
+
+weight 9190 -> reached weight 9190
+10  
+20  
+40  
+160  
+1280  
+2560  
+5120  
+
+weight 9200 -> reached weight 9200
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9210 -> reached weight 9210
+10  
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9220 -> reached weight 9220
+20  
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9230 -> reached weight 9230
+10  
+20  
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9240 -> reached weight 9240
+40  
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9250 -> reached weight 9250
+10  
+40  
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9260 -> reached weight 9260
+20  
+40  
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9270 -> reached weight 9270
+10  
+20  
+40  
+80  
+160  
+1280  
+2560  
+5120  
+
+weight 9280 -> reached weight 9280
+320  
+1280  
+2560  
+5120  
+
+weight 9290 -> reached weight 9290
+10  
+320  
+1280  
+2560  
+5120  
+
+weight 9300 -> reached weight 9300
+20  
+320  
+1280  
+2560  
+5120  
+
+weight 9310 -> reached weight 9310
+10  
+20  
+320  
+1280  
+2560  
+5120  
+
+weight 9320 -> reached weight 9320
+40  
+320  
+1280  
+2560  
+5120  
+
+weight 9330 -> reached weight 9330
+10  
+40  
+320  
+1280  
+2560  
+5120  
+
+weight 9340 -> reached weight 9340
+20  
+40  
+320  
+1280  
+2560  
+5120  
+
+weight 9350 -> reached weight 9350
+10  
+20  
+40  
+320  
+1280  
+2560  
+5120  
+
+weight 9360 -> reached weight 9360
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9370 -> reached weight 9370
+10  
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9380 -> reached weight 9380
+20  
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9390 -> reached weight 9390
+10  
+20  
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9400 -> reached weight 9400
+40  
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9410 -> reached weight 9410
+10  
+40  
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9420 -> reached weight 9420
+20  
+40  
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9430 -> reached weight 9430
+10  
+20  
+40  
+80  
+320  
+1280  
+2560  
+5120  
+
+weight 9440 -> reached weight 9440
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9450 -> reached weight 9450
+10  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9460 -> reached weight 9460
+20  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9470 -> reached weight 9470
+10  
+20  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9480 -> reached weight 9480
+40  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9490 -> reached weight 9490
+10  
+40  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9500 -> reached weight 9500
+20  
+40  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9510 -> reached weight 9510
+10  
+20  
+40  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9520 -> reached weight 9520
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9530 -> reached weight 9530
+10  
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9540 -> reached weight 9540
+20  
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9550 -> reached weight 9550
+10  
+20  
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9560 -> reached weight 9560
+40  
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9570 -> reached weight 9570
+10  
+40  
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9580 -> reached weight 9580
+20  
+40  
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9590 -> reached weight 9590
+10  
+20  
+40  
+80  
+160  
+320  
+1280  
+2560  
+5120  
+
+weight 9600 -> reached weight 9600
+640  
+1280  
+2560  
+5120  
+
+weight 9610 -> reached weight 9610
+10  
+640  
+1280  
+2560  
+5120  
+
+weight 9620 -> reached weight 9620
+20  
+640  
+1280  
+2560  
+5120  
+
+weight 9630 -> reached weight 9630
+10  
+20  
+640  
+1280  
+2560  
+5120  
+
+weight 9640 -> reached weight 9640
+40  
+640  
+1280  
+2560  
+5120  
+
+weight 9650 -> reached weight 9650
+10  
+40  
+640  
+1280  
+2560  
+5120  
+
+weight 9660 -> reached weight 9660
+20  
+40  
+640  
+1280  
+2560  
+5120  
+
+weight 9670 -> reached weight 9670
+10  
+20  
+40  
+640  
+1280  
+2560  
+5120  
+
+weight 9680 -> reached weight 9680
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9690 -> reached weight 9690
+10  
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9700 -> reached weight 9700
+20  
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9710 -> reached weight 9710
+10  
+20  
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9720 -> reached weight 9720
+40  
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9730 -> reached weight 9730
+10  
+40  
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9740 -> reached weight 9740
+20  
+40  
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9750 -> reached weight 9750
+10  
+20  
+40  
+80  
+640  
+1280  
+2560  
+5120  
+
+weight 9760 -> reached weight 9760
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9770 -> reached weight 9770
+10  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9780 -> reached weight 9780
+20  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9790 -> reached weight 9790
+10  
+20  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9800 -> reached weight 9800
+40  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9810 -> reached weight 9810
+10  
+40  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9820 -> reached weight 9820
+20  
+40  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9830 -> reached weight 9830
+10  
+20  
+40  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9840 -> reached weight 9840
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9850 -> reached weight 9850
+10  
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9860 -> reached weight 9860
+20  
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9870 -> reached weight 9870
+10  
+20  
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9880 -> reached weight 9880
+40  
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9890 -> reached weight 9890
+10  
+40  
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9900 -> reached weight 9900
+20  
+40  
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9910 -> reached weight 9910
+10  
+20  
+40  
+80  
+160  
+640  
+1280  
+2560  
+5120  
+
+weight 9920 -> reached weight 9920
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 9930 -> reached weight 9930
+10  
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 9940 -> reached weight 9940
+20  
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 9950 -> reached weight 9950
+10  
+20  
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 9960 -> reached weight 9960
+40  
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 9970 -> reached weight 9970
+10  
+40  
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 9980 -> reached weight 9980
+20  
+40  
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 9990 -> reached weight 9990
+10  
+20  
+40  
+320  
+640  
+1280  
+2560  
+5120  
+
+weight 10000 -> reached weight 10000
+80  
+320  
+640  
+1280  
+2560  
+5120  
+

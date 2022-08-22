@@ -1,0 +1,7520 @@
+Marktwaage
+
+Test 4
+
+weight 10 -> reached weight 10
+5  
+21  21  21  
+-29  -29  
+
+weight 20 -> reached weight 20
+21  
+-29  
+-259  
+287  
+
+weight 30 -> reached weight 30
+-5  
+21  21  21  
+259  
+-287  
+
+weight 40 -> reached weight 40
+-5  
+-21  -21  
+29  29  29  
+
+weight 50 -> reached weight 50
+21  
+29  
+
+weight 60 -> reached weight 60
+-5  
+-21  
+29  29  
+-259  
+287  
+
+weight 70 -> reached weight 70
+21  21  
+-259  
+287  
+
+weight 80 -> reached weight 80
+21  
+29  29  29  
+259  
+-287  
+
+weight 90 -> reached weight 90
+-21  
+-29  
+-259  
+399  
+
+weight 100 -> reached weight 100
+21  21  
+29  29  
+
+weight 110 -> reached weight 110
+-5  
+29  29  29  
+-259  
+287  
+
+weight 120 -> reached weight 120
+5  
+29  29  29  
+-259  
+287  
+
+weight 130 -> reached weight 130
+-21  -21  
+-29  -29  -29  
+259  
+
+weight 140 -> reached weight 140
+-259  
+399  
+
+weight 150 -> reached weight 150
+21  21  21  
+29  29  29  
+
+weight 160 -> reached weight 160
+21  21  
+-29  
+259  
+287  
+-399  
+
+weight 170 -> reached weight 170
+-5  
+21  21  21  
+-287  
+399  
+
+weight 180 -> reached weight 180
+-21  
+-29  -29  
+259  
+
+weight 190 -> reached weight 190
+-5  
+-21  -21  -21  
+-29  
+287  
+
+weight 200 -> reached weight 200
+-29  -29  -29  
+287  
+
+weight 210 -> reached weight 210
+21  21  21  
+259  
+287  
+-399  
+
+weight 220 -> reached weight 220
+-5  
+-21  -21  -21  
+29  
+259  
+
+weight 230 -> reached weight 230
+-29  
+259  
+
+weight 240 -> reached weight 240
+5  
+21  21  21  
+-29  -29  -29  
+259  
+
+weight 250 -> reached weight 250
+5  
+-21  -21  
+287  
+
+weight 260 -> reached weight 260
+5  
+21  
+29  29  29  
+259  
+287  
+-399  
+
+weight 270 -> reached weight 270
+-5  
+-21  -21  
+29  29  
+259  
+
+weight 280 -> reached weight 280
+21  
+259  
+
+weight 290 -> reached weight 290
+-5  
+-21  
+29  
+287  
+
+weight 300 -> reached weight 300
+21  21  
+-29  
+287  
+
+weight 310 -> reached weight 310
+5  
+21  
+-29  -29  -29  
+259  
+-287  
+399  
+
+weight 320 -> reached weight 320
+-5  
+-21  
+29  29  29  
+259  
+
+weight 330 -> reached weight 330
+21  21  
+29  
+259  
+
+weight 340 -> reached weight 340
+-5  
+29  29  
+287  
+
+weight 350 -> reached weight 350
+21  21  21  
+287  
+
+weight 360 -> reached weight 360
+-5  
+-21  -21  -21  
+29  
+399  
+
+weight 370 -> reached weight 370
+-29  
+399  
+
+weight 380 -> reached weight 380
+21  21  21  
+29  29  
+259  
+
+weight 390 -> reached weight 390
+-5  
+21  
+29  29  29  
+287  
+
+weight 400 -> reached weight 400
+5  
+21  
+29  29  29  
+287  
+
+weight 410 -> reached weight 410
+-5  
+-21  -21  
+29  29  
+399  
+
+weight 420 -> reached weight 420
+-5  
+-21  -21  -21  
+-29  -29  
+259  
+287  
+
+weight 430 -> reached weight 430
+5  
+-21  -21  -21  
+-29  -29  
+259  
+287  
+
+weight 440 -> reached weight 440
+21  21  
+-29  
+-259  
+287  
+399  
+
+weight 450 -> reached weight 450
+21  
+29  29  
+259  
+-287  
+399  
+
+weight 460 -> reached weight 460
+-5  
+-21  
+29  29  29  
+399  
+
+weight 470 -> reached weight 470
+-5  
+-21  -21  
+-29  
+259  
+287  
+
+weight 480 -> reached weight 480
+21  
+-29  -29  -29  
+259  
+287  
+
+weight 490 -> reached weight 490
+21  21  21  
+-259  
+287  
+399  
+
+weight 500 -> reached weight 500
+21  21  
+29  29  29  
+259  
+-287  
+399  
+
+weight 510 -> reached weight 509
+5  
+-21  -21  
+259  
+287  
+
+weight 520 -> reached weight 520
+-5  
+-21  
+259  
+287  
+
+weight 530 -> reached weight 530
+5  
+-21  
+259  
+287  
+
+weight 540 -> reached weight 540
+5  
+21  
+29  29  29  
+-259  
+287  
+399  
+
+weight 550 -> reached weight 550
+-21  
+-29  -29  -29  
+259  
+399  
+
+weight 560 -> reached weight 560
+-5  
+-21  -21  -21  
+-29  -29  
+287  
+399  
+
+weight 570 -> reached weight 570
+-5  
+29  
+259  
+287  
+
+weight 580 -> reached weight 580
+5  
+29  
+259  
+287  
+
+weight 590 -> reached weight 590
+-5  
+-21  -21  -21  
+259  
+399  
+
+weight 600 -> reached weight 600
+5  
+-21  -21  -21  
+259  
+399  
+
+weight 610 -> reached weight 610
+-5  
+-21  -21  
+-29  
+287  
+399  
+
+weight 620 -> reached weight 620
+-5  
+21  
+29  29  
+259  
+287  
+
+weight 630 -> reached weight 630
+5  
+21  
+29  29  
+259  
+287  
+
+weight 640 -> reached weight 640
+-5  
+-21  -21  
+29  
+259  
+399  
+
+weight 650 -> reached weight 650
+21  
+-29  
+259  
+399  
+
+weight 660 -> reached weight 660
+-5  
+-21  
+287  
+399  
+
+weight 670 -> reached weight 670
+-5  
+21  21  
+29  29  29  
+259  
+287  
+
+weight 680 -> reached weight 680
+5  
+21  21  
+29  29  29  
+259  
+287  
+
+weight 690 -> reached weight 690
+-5  
+-21  
+29  29  
+259  
+399  
+
+weight 700 -> reached weight 700
+21  21  
+259  
+399  
+
+weight 710 -> reached weight 710
+-5  
+29  
+287  
+399  
+
+weight 720 -> reached weight 720
+5  
+29  
+287  
+399  
+
+weight 730 -> reached weight 729
+21  21  
+29  
+259  
+399  
+
+weight 740 -> reached weight 740
+-5  
+29  29  29  
+259  
+399  
+
+weight 750 -> reached weight 750
+5  
+29  29  29  
+259  
+399  
+
+weight 760 -> reached weight 760
+-5  
+21  
+29  29  
+287  
+399  
+
+weight 770 -> reached weight 770
+5  
+21  
+29  29  
+287  
+399  
+
+weight 780 -> reached weight 779
+21  21  21  
+29  29  
+259  
+399  
+
+weight 790 -> reached weight 790
+-5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+287  
+399  
+
+weight 800 -> reached weight 800
+5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+287  
+399  
+
+weight 810 -> reached weight 810
+-5  
+21  21  
+29  29  29  
+287  
+399  
+
+weight 820 -> reached weight 820
+5  
+21  21  
+29  29  29  
+287  
+399  
+
+weight 830 -> reached weight 829
+5  
+-21  -21  -21  
+-29  -29  
+259  
+287  
+399  
+
+weight 840 -> reached weight 840
+-5  
+-21  -21  
+-29  -29  
+259  
+287  
+399  
+
+weight 850 -> reached weight 850
+5  
+-21  -21  
+-29  -29  
+259  
+287  
+399  
+
+weight 860 -> reached weight 861
+-5  
+-21  
+-29  -29  
+259  
+287  
+399  
+
+weight 870 -> reached weight 869
+-5  
+-21  -21  
+-29  
+259  
+287  
+399  
+
+weight 880 -> reached weight 879
+21  
+-29  -29  -29  
+259  
+287  
+399  
+
+weight 890 -> reached weight 890
+-5  
+-21  
+-29  
+259  
+287  
+399  
+
+weight 900 -> reached weight 900
+21  21  
+-29  -29  -29  
+259  
+287  
+399  
+
+weight 910 -> reached weight 911
+-5  
+-29  
+259  
+287  
+399  
+
+weight 920 -> reached weight 919
+-5  
+-21  
+259  
+287  
+399  
+
+weight 930 -> reached weight 929
+5  
+-21  
+259  
+287  
+399  
+
+weight 940 -> reached weight 940
+-5  
+259  
+287  
+399  
+
+weight 950 -> reached weight 950
+5  
+259  
+287  
+399  
+
+weight 960 -> reached weight 961
+-5  
+21  
+259  
+287  
+399  
+
+weight 970 -> reached weight 969
+-5  
+29  
+259  
+287  
+399  
+
+weight 980 -> reached weight 979
+5  
+29  
+259  
+287  
+399  
+
+weight 990 -> reached weight 990
+-21  -21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1000 -> reached weight 1000
+5  
+21  
+29  
+259  
+287  
+399  
+
+weight 1010 -> reached weight 1011
+-21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1020 -> reached weight 1019
+-5  
+21  
+29  29  
+259  
+287  
+399  
+
+weight 1030 -> reached weight 1029
+5  
+21  
+29  29  
+259  
+287  
+399  
+
+weight 1040 -> reached weight 1040
+-5  
+21  21  
+29  29  
+259  
+287  
+399  
+
+weight 1050 -> reached weight 1050
+5  
+21  21  
+29  29  
+259  
+287  
+399  
+
+weight 1060 -> reached weight 1061
+-5  
+21  21  21  
+29  29  
+259  
+287  
+399  
+
+weight 1070 -> reached weight 1069
+-5  
+21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1080 -> reached weight 1079
+5  
+21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1090 -> reached weight 1090
+-5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1100 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1110 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1120 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1130 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1140 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1150 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1160 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1170 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1180 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1190 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1200 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1210 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1220 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1230 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1240 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1250 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1260 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1270 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1280 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1290 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1300 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1310 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1320 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1330 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1340 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1350 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1360 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1370 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1380 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1390 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1400 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1410 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1420 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1430 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1440 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1450 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1460 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1470 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1480 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1490 -> reached weight 1100
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+
+weight 1500 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1510 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1520 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1530 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1540 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1550 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1560 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1570 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1580 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1590 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1600 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1610 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1620 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1630 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1640 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1650 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1660 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1670 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1680 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1690 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1700 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1710 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1720 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1730 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1740 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1750 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1760 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1770 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1780 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1790 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1800 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1810 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1820 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1830 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1840 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1850 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1860 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1870 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1880 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1890 -> reached weight 1893
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1900 -> reached weight 1898
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1910 -> reached weight 1914
+-5  
+-21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1920 -> reached weight 1919
+-21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1930 -> reached weight 1932
+5  
+-21  -21  -21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1940 -> reached weight 1940
+-21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1950 -> reached weight 1951
+-5  
+-21  -21  -21  
+-29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1960 -> reached weight 1961
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1970 -> reached weight 1969
+-21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  
+
+weight 1980 -> reached weight 1980
+-5  
+-21  -21  -21  
+-259  
+-287  
+-399  
+2993  
+
+weight 1990 -> reached weight 1990
+5  
+-21  -21  -21  
+-259  
+-287  
+-399  
+2993  
+
+weight 2000 -> reached weight 2001
+-5  
+-21  -21  
+-259  
+-287  
+-399  
+2993  
+
+weight 2010 -> reached weight 2009
+-5  
+-21  -21  -21  
+29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2020 -> reached weight 2019
+-29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2030 -> reached weight 2030
+-5  
+-21  -21  
+29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2040 -> reached weight 2040
+21  
+-29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2050 -> reached weight 2051
+-5  
+-21  
+29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2060 -> reached weight 2059
+-5  
+-21  -21  
+29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2070 -> reached weight 2069
+21  
+-259  
+-287  
+-399  
+2993  
+
+weight 2080 -> reached weight 2080
+-5  
+-21  
+29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2090 -> reached weight 2090
+21  21  
+-259  
+-287  
+-399  
+2993  
+
+weight 2100 -> reached weight 2101
+-5  
+29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2110 -> reached weight 2109
+-5  
+-21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2120 -> reached weight 2119
+21  21  
+29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2130 -> reached weight 2130
+-5  
+29  29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2140 -> reached weight 2140
+5  
+29  29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2150 -> reached weight 2151
+-5  
+21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2160 -> reached weight 2161
+5  
+21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2170 -> reached weight 2169
+21  21  21  
+29  29  
+-259  
+-287  
+-399  
+2993  
+
+weight 2180 -> reached weight 2180
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-399  
+2993  
+
+weight 2190 -> reached weight 2190
+5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-399  
+2993  
+
+weight 2200 -> reached weight 2199
+-21  
+-29  -29  -29  
+-287  
+-399  
+2993  
+
+weight 2210 -> reached weight 2210
+-5  
+-21  -21  -21  
+-29  
+-287  
+-399  
+2993  
+
+weight 2220 -> reached weight 2220
+-29  -29  -29  
+-287  
+-399  
+2993  
+
+weight 2230 -> reached weight 2230
+-5  
+-21  -21  
+-29  -29  
+-259  
+-399  
+2993  
+
+weight 2240 -> reached weight 2240
+5  
+-21  -21  
+-29  -29  
+-259  
+-399  
+2993  
+
+weight 2250 -> reached weight 2249
+5  
+-21  -21  -21  
+-287  
+-399  
+2993  
+
+weight 2260 -> reached weight 2260
+-5  
+-21  -21  
+-287  
+-399  
+2993  
+
+weight 2270 -> reached weight 2270
+5  
+-21  -21  
+-287  
+-399  
+2993  
+
+weight 2280 -> reached weight 2280
+-5  
+-21  
+-29  
+-259  
+-399  
+2993  
+
+weight 2290 -> reached weight 2290
+21  21  
+-29  -29  -29  
+-259  
+-399  
+2993  
+
+weight 2300 -> reached weight 2299
+21  
+-29  
+-287  
+-399  
+2993  
+
+weight 2310 -> reached weight 2310
+-5  
+-21  
+29  
+-287  
+-399  
+2993  
+
+weight 2320 -> reached weight 2320
+21  21  
+-29  
+-287  
+-399  
+2993  
+
+weight 2330 -> reached weight 2330
+-5  
+-259  
+-399  
+2993  
+
+weight 2340 -> reached weight 2340
+5  
+-259  
+-399  
+2993  
+
+weight 2350 -> reached weight 2350
+-5  
+-21  -21  -21  
+-29  
+-259  
+-287  
+2993  
+
+weight 2360 -> reached weight 2360
+-29  -29  -29  
+-259  
+-287  
+2993  
+
+weight 2370 -> reached weight 2370
+21  21  21  
+-287  
+-399  
+2993  
+
+weight 2380 -> reached weight 2380
+-21  -21  
+29  29  29  
+-259  
+-399  
+2993  
+
+weight 2390 -> reached weight 2390
+5  
+21  
+29  
+-259  
+-399  
+2993  
+
+weight 2400 -> reached weight 2400
+-5  
+-21  -21  
+-259  
+-287  
+2993  
+
+weight 2410 -> reached weight 2410
+5  
+-21  -21  
+-259  
+-287  
+2993  
+
+weight 2420 -> reached weight 2420
+5  
+21  
+29  29  29  
+-287  
+-399  
+2993  
+
+weight 2430 -> reached weight 2430
+-5  
+21  21  
+29  29  
+-259  
+-399  
+2993  
+
+weight 2440 -> reached weight 2440
+5  
+21  21  
+29  29  
+-259  
+-399  
+2993  
+
+weight 2450 -> reached weight 2450
+-5  
+-21  
+29  
+-259  
+-287  
+2993  
+
+weight 2460 -> reached weight 2460
+21  21  
+-29  
+-259  
+-287  
+2993  
+
+weight 2470 -> reached weight 2470
+5  
+-21  -21  
+-29  -29  -29  
+-399  
+2993  
+
+weight 2480 -> reached weight 2480
+-5  
+21  21  21  
+29  29  29  
+-259  
+-399  
+2993  
+
+weight 2490 -> reached weight 2490
+5  
+21  21  21  
+29  29  29  
+-259  
+-399  
+2993  
+
+weight 2500 -> reached weight 2500
+-5  
+29  29  
+-259  
+-287  
+2993  
+
+weight 2510 -> reached weight 2510
+21  21  21  
+-259  
+-287  
+2993  
+
+weight 2520 -> reached weight 2520
+5  
+-21  
+-29  -29  
+-399  
+2993  
+
+weight 2530 -> reached weight 2530
+-5  
+-29  -29  -29  
+-259  
+287  
+-399  
+2993  
+
+weight 2540 -> reached weight 2540
+-5  
+-21  
+259  
+-287  
+-399  
+2993  
+
+weight 2550 -> reached weight 2550
+-5  
+21  
+29  29  29  
+-259  
+-287  
+2993  
+
+weight 2560 -> reached weight 2560
+5  
+21  
+29  29  29  
+-259  
+-287  
+2993  
+
+weight 2570 -> reached weight 2570
+5  
+-29  
+-399  
+2993  
+
+weight 2580 -> reached weight 2580
+-5  
+-21  -21  -21  
+-29  -29  
+-287  
+2993  
+
+weight 2590 -> reached weight 2590
+5  
+-21  -21  -21  
+-29  -29  
+-287  
+2993  
+
+weight 2600 -> reached weight 2600
+-5  
+-21  -21  
+-29  -29  -29  
+-259  
+2993  
+
+weight 2610 -> reached weight 2610
+5  
+-21  -21  
+-29  -29  -29  
+-259  
+2993  
+
+weight 2620 -> reached weight 2620
+5  
+21  
+-399  
+2993  
+
+weight 2630 -> reached weight 2630
+-5  
+-21  -21  
+-29  
+-287  
+2993  
+
+weight 2640 -> reached weight 2640
+21  
+-29  -29  -29  
+-287  
+2993  
+
+weight 2650 -> reached weight 2650
+-5  
+-21  
+-29  -29  
+-259  
+2993  
+
+weight 2660 -> reached weight 2660
+5  
+-21  
+-29  -29  
+-259  
+2993  
+
+weight 2670 -> reached weight 2670
+5  
+21  21  
+29  
+-399  
+2993  
+
+weight 2680 -> reached weight 2680
+-5  
+-21  
+-287  
+2993  
+
+weight 2690 -> reached weight 2690
+5  
+-21  
+-287  
+2993  
+
+weight 2700 -> reached weight 2700
+-5  
+-29  
+-259  
+2993  
+
+weight 2710 -> reached weight 2710
+5  
+-29  
+-259  
+2993  
+
+weight 2720 -> reached weight 2720
+5  
+21  21  21  
+29  29  
+-399  
+2993  
+
+weight 2730 -> reached weight 2730
+-5  
+29  
+-287  
+2993  
+
+weight 2740 -> reached weight 2740
+5  
+29  
+-287  
+2993  
+
+weight 2750 -> reached weight 2750
+-5  
+21  
+-259  
+2993  
+
+weight 2760 -> reached weight 2760
+5  
+21  
+-259  
+2993  
+
+weight 2770 -> reached weight 2770
+-5  
+-21  -21  
+-29  
+-259  
+-287  
+399  
+2993  
+
+weight 2780 -> reached weight 2780
+-5  
+21  
+29  29  
+-287  
+2993  
+
+weight 2790 -> reached weight 2790
+5  
+21  
+29  29  
+-287  
+2993  
+
+weight 2800 -> reached weight 2800
+-21  
+29  29  29  
+-259  
+2993  
+
+weight 2810 -> reached weight 2810
+5  
+21  21  
+29  
+-259  
+2993  
+
+weight 2820 -> reached weight 2820
+5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+-287  
+2993  
+
+weight 2830 -> reached weight 2830
+-5  
+21  21  
+29  29  29  
+-287  
+2993  
+
+weight 2840 -> reached weight 2840
+5  
+21  21  
+29  29  29  
+-287  
+2993  
+
+weight 2850 -> reached weight 2850
+-5  
+21  21  21  
+29  29  
+-259  
+2993  
+
+weight 2860 -> reached weight 2860
+5  
+21  21  21  
+29  29  
+-259  
+2993  
+
+weight 2870 -> reached weight 2870
+5  
+-21  -21  
+-29  -29  
+259  
+-287  
+2993  
+
+weight 2880 -> reached weight 2880
+-5  
+-21  
+-29  -29  -29  
+2993  
+
+weight 2890 -> reached weight 2890
+5  
+-21  
+-29  -29  -29  
+2993  
+
+weight 2900 -> reached weight 2900
+-21  -21  -21  
+-29  -29  
+-259  
+287  
+2993  
+
+weight 2910 -> reached weight 2910
+-5  
+-21  
+-29  
+259  
+-287  
+2993  
+
+weight 2920 -> reached weight 2920
+21  21  
+-29  -29  -29  
+259  
+-287  
+2993  
+
+weight 2930 -> reached weight 2930
+-21  -21  -21  
+2993  
+
+weight 2940 -> reached weight 2940
+5  
+-29  -29  
+2993  
+
+weight 2950 -> reached weight 2950
+-21  -21  
+-29  
+-259  
+287  
+2993  
+
+weight 2960 -> reached weight 2960
+-5  
+259  
+-287  
+2993  
+
+weight 2970 -> reached weight 2970
+5  
+259  
+-287  
+2993  
+
+weight 2980 -> reached weight 2980
+-21  -21  
+29  
+2993  
+
+weight 2990 -> reached weight 2990
+5  
+21  
+-29  
+2993  
+
+weight 3000 -> reached weight 3000
+-21  
+-259  
+287  
+2993  
+
+weight 3010 -> reached weight 3010
+-21  -21  
+29  29  29  
+259  
+-287  
+2993  
+
+weight 3020 -> reached weight 3020
+5  
+21  
+29  
+259  
+-287  
+2993  
+
+weight 3030 -> reached weight 3030
+-5  
+21  21  
+2993  
+
+weight 3040 -> reached weight 3040
+5  
+21  21  
+2993  
+
+weight 3050 -> reached weight 3050
+29  
+-259  
+287  
+2993  
+
+weight 3060 -> reached weight 3060
+5  
+21  21  21  
+-29  
+-259  
+287  
+2993  
+
+weight 3070 -> reached weight 3070
+5  
+21  21  
+29  29  
+259  
+-287  
+2993  
+
+weight 3080 -> reached weight 3080
+29  29  29  
+2993  
+
+weight 3090 -> reached weight 3090
+5  
+21  21  21  
+29  
+2993  
+
+weight 3100 -> reached weight 3100
+21  
+29  29  
+-259  
+287  
+2993  
+
+weight 3110 -> reached weight 3110
+-5  
+21  21  21  
+29  29  29  
+259  
+-287  
+2993  
+
+weight 3120 -> reached weight 3120
+5  
+21  21  21  
+29  29  29  
+259  
+-287  
+2993  
+
+weight 3130 -> reached weight 3130
+-21  -21  -21  
+-29  -29  -29  
+287  
+2993  
+
+weight 3140 -> reached weight 3140
+259  
+287  
+-399  
+2993  
+
+weight 3150 -> reached weight 3150
+21  21  
+29  29  29  
+-259  
+287  
+2993  
+
+weight 3160 -> reached weight 3160
+-5  
+-29  -29  -29  
+259  
+2993  
+
+weight 3170 -> reached weight 3170
+5  
+-29  -29  -29  
+259  
+2993  
+
+weight 3180 -> reached weight 3180
+-21  -21  
+-29  -29  
+287  
+2993  
+
+weight 3190 -> reached weight 3190
+21  
+29  
+259  
+287  
+-399  
+2993  
+
+weight 3200 -> reached weight 3200
+-5  
+21  21  
+29  29  
+-287  
+399  
+2993  
+
+weight 3210 -> reached weight 3210
+-21  -21  
+259  
+2993  
+
+weight 3220 -> reached weight 3220
+5  
+21  
+-29  -29  
+259  
+2993  
+
+weight 3230 -> reached weight 3230
+-21  
+-29  
+287  
+2993  
+
+weight 3240 -> reached weight 3240
+5  
+21  21  
+-29  -29  -29  
+287  
+2993  
+
+weight 3250 -> reached weight 3250
+-5  
+21  21  21  
+29  29  29  
+-287  
+399  
+2993  
+
+weight 3260 -> reached weight 3260
+-21  
+29  
+259  
+2993  
+
+weight 3270 -> reached weight 3270
+5  
+21  21  
+-29  
+259  
+2993  
+
+weight 3280 -> reached weight 3280
+287  
+2993  
+
+weight 3290 -> reached weight 3290
+5  
+21  21  21  
+-29  -29  
+287  
+2993  
+
+weight 3300 -> reached weight 3300
+-5  
+-29  -29  -29  
+399  
+2993  
+
+weight 3310 -> reached weight 3310
+-5  
+21  21  21  
+259  
+2993  
+
+weight 3320 -> reached weight 3320
+5  
+21  21  21  
+259  
+2993  
+
+weight 3330 -> reached weight 3330
+21  
+29  
+287  
+2993  
+
+weight 3340 -> reached weight 3340
+5  
+-29  
+259  
+-287  
+399  
+2993  
+
+weight 3350 -> reached weight 3350
+-21  -21  
+399  
+2993  
+
+weight 3360 -> reached weight 3360
+21  
+29  29  29  
+259  
+2993  
+
+weight 3370 -> reached weight 3370
+-21  
+-29  
+-259  
+287  
+399  
+2993  
+
+weight 3380 -> reached weight 3380
+21  21  
+29  29  
+287  
+2993  
+
+weight 3390 -> reached weight 3390
+5  
+21  
+259  
+-287  
+399  
+2993  
+
+weight 3400 -> reached weight 3400
+-21  
+29  
+399  
+2993  
+
+weight 3410 -> reached weight 3410
+-21  -21  
+-29  -29  -29  
+259  
+287  
+2993  
+
+weight 3420 -> reached weight 3420
+-259  
+287  
+399  
+2993  
+
+weight 3430 -> reached weight 3430
+21  21  21  
+29  29  29  
+287  
+2993  
+
+weight 3440 -> reached weight 3440
+5  
+21  21  
+29  
+259  
+-287  
+399  
+2993  
+
+weight 3450 -> reached weight 3450
+-5  
+21  21  21  
+399  
+2993  
+
+weight 3460 -> reached weight 3460
+-21  
+-29  -29  
+259  
+287  
+2993  
+
+weight 3470 -> reached weight 3470
+21  
+29  
+-259  
+287  
+399  
+2993  
+
+weight 3480 -> reached weight 3480
+-5  
+21  21  21  
+29  29  
+259  
+-287  
+399  
+2993  
+
+weight 3490 -> reached weight 3490
+5  
+21  21  21  
+29  29  
+259  
+-287  
+399  
+2993  
+
+weight 3500 -> reached weight 3500
+-5  
+-21  -21  -21  
+29  
+259  
+287  
+2993  
+
+weight 3510 -> reached weight 3510
+-29  
+259  
+287  
+2993  
+
+weight 3520 -> reached weight 3520
+5  
+21  21  21  
+-29  -29  -29  
+259  
+287  
+2993  
+
+weight 3530 -> reached weight 3530
+-21  -21  -21  
+-29  -29  
+259  
+399  
+2993  
+
+weight 3540 -> reached weight 3539
+259  
+287  
+2993  
+
+weight 3550 -> reached weight 3550
+-5  
+-21  -21  
+29  29  
+259  
+287  
+2993  
+
+weight 3560 -> reached weight 3560
+21  
+259  
+287  
+2993  
+
+weight 3570 -> reached weight 3570
+21  21  21  
+29  29  29  
+-259  
+287  
+399  
+2993  
+
+weight 3580 -> reached weight 3580
+-21  -21  
+-29  
+259  
+399  
+2993  
+
+weight 3590 -> reached weight 3590
+5  
+21  
+-29  -29  -29  
+259  
+399  
+2993  
+
+weight 3600 -> reached weight 3600
+-5  
+-21  
+29  29  29  
+259  
+287  
+2993  
+
+weight 3610 -> reached weight 3610
+21  21  
+29  
+259  
+287  
+2993  
+
+weight 3620 -> reached weight 3619
+5  
+21  
+-29  -29  
+259  
+399  
+2993  
+
+weight 3630 -> reached weight 3630
+-21  
+259  
+399  
+2993  
+
+weight 3640 -> reached weight 3640
+5  
+21  21  
+-29  -29  
+259  
+399  
+2993  
+
+weight 3650 -> reached weight 3650
+-29  
+287  
+399  
+2993  
+
+weight 3660 -> reached weight 3660
+21  21  21  
+29  29  
+259  
+287  
+2993  
+
+weight 3670 -> reached weight 3670
+-5  
+-21  -21  -21  
+29  29  29  
+259  
+399  
+2993  
+
+weight 3680 -> reached weight 3680
+29  
+259  
+399  
+2993  
+
+weight 3690 -> reached weight 3690
+5  
+21  21  21  
+-29  
+259  
+399  
+2993  
+
+weight 3700 -> reached weight 3700
+21  
+287  
+399  
+2993  
+
+weight 3710 -> reached weight 3709
+-5  
+21  21  21  
+259  
+399  
+2993  
+
+weight 3720 -> reached weight 3719
+5  
+21  21  21  
+259  
+399  
+2993  
+
+weight 3730 -> reached weight 3730
+21  
+29  29  
+259  
+399  
+2993  
+
+weight 3740 -> reached weight 3740
+-5  
+-21  
+29  29  29  
+287  
+399  
+2993  
+
+weight 3750 -> reached weight 3750
+21  21  
+29  
+287  
+399  
+2993  
+
+weight 3760 -> reached weight 3759
+21  
+29  29  29  
+259  
+399  
+2993  
+
+weight 3770 -> reached weight 3771
+5  
+29  29  29  
+287  
+399  
+2993  
+
+weight 3780 -> reached weight 3780
+21  21  
+29  29  29  
+259  
+399  
+2993  
+
+weight 3790 -> reached weight 3788
+-21  -21  -21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  
+
+weight 3800 -> reached weight 3800
+21  21  21  
+29  29  
+287  
+399  
+2993  
+
+weight 3810 -> reached weight 3809
+-21  -21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  
+
+weight 3820 -> reached weight 3822
+5  
+-21  -21  -21  
+-29  -29  
+259  
+287  
+399  
+2993  
+
+weight 3830 -> reached weight 3830
+-21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  
+
+weight 3840 -> reached weight 3841
+-5  
+-21  -21  -21  
+-29  
+259  
+287  
+399  
+2993  
+
+weight 3850 -> reached weight 3851
+-29  -29  -29  
+259  
+287  
+399  
+2993  
+
+weight 3860 -> reached weight 3859
+-21  
+-29  -29  
+259  
+287  
+399  
+2993  
+
+weight 3870 -> reached weight 3870
+-5  
+-21  -21  -21  
+259  
+287  
+399  
+2993  
+
+weight 3880 -> reached weight 3880
+5  
+-21  -21  -21  
+259  
+287  
+399  
+2993  
+
+weight 3890 -> reached weight 3891
+-5  
+-21  -21  
+259  
+287  
+399  
+2993  
+
+weight 3900 -> reached weight 3899
+-5  
+-21  -21  -21  
+29  
+259  
+287  
+399  
+2993  
+
+weight 3910 -> reached weight 3909
+-29  
+259  
+287  
+399  
+2993  
+
+weight 3920 -> reached weight 3920
+-5  
+-21  -21  
+29  
+259  
+287  
+399  
+2993  
+
+weight 3930 -> reached weight 3930
+21  
+-29  
+259  
+287  
+399  
+2993  
+
+weight 3940 -> reached weight 3941
+-5  
+-21  
+29  
+259  
+287  
+399  
+2993  
+
+weight 3950 -> reached weight 3949
+-5  
+-21  -21  
+29  29  
+259  
+287  
+399  
+2993  
+
+weight 3960 -> reached weight 3959
+21  
+259  
+287  
+399  
+2993  
+
+weight 3970 -> reached weight 3970
+-5  
+-21  
+29  29  
+259  
+287  
+399  
+2993  
+
+weight 3980 -> reached weight 3980
+21  21  
+259  
+287  
+399  
+2993  
+
+weight 3990 -> reached weight 3991
+-5  
+29  29  
+259  
+287  
+399  
+2993  
+
+weight 4000 -> reached weight 3999
+-5  
+-21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4010 -> reached weight 4009
+21  21  
+29  
+259  
+287  
+399  
+2993  
+
+weight 4020 -> reached weight 4020
+-5  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4030 -> reached weight 4030
+5  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4040 -> reached weight 4041
+-5  
+21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4050 -> reached weight 4051
+5  
+21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4060 -> reached weight 4059
+21  21  21  
+29  29  
+259  
+287  
+399  
+2993  
+
+weight 4070 -> reached weight 4072
+5  
+21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4080 -> reached weight 4083
+-5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4090 -> reached weight 4088
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4100 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4110 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4120 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4130 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4140 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4150 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4160 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4170 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4180 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4190 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4200 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4210 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4220 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4230 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4240 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4250 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4260 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4270 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4280 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4290 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4300 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4310 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4320 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4330 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4340 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4350 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4360 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4370 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4380 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4390 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4400 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4410 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4420 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4430 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4440 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4450 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4460 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4470 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4480 -> reached weight 4093
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  
+
+weight 4490 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4500 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4510 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4520 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4530 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4540 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4550 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4560 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4570 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4580 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4590 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4600 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4610 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4620 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4630 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4640 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4650 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4660 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4670 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4680 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4690 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4700 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4710 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4720 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4730 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4740 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4750 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4760 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4770 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4780 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4790 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4800 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4810 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4820 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4830 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4840 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4850 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4860 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4870 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4880 -> reached weight 4886
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4890 -> reached weight 4891
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4900 -> reached weight 4896
+5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4910 -> reached weight 4912
+-21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4920 -> reached weight 4920
+-21  -21  -21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4930 -> reached weight 4928
+-5  
+-21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4940 -> reached weight 4941
+-21  -21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4950 -> reached weight 4949
+-5  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4960 -> reached weight 4959
+5  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4970 -> reached weight 4970
+-21  -21  
+-29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4980 -> reached weight 4980
+5  
+21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 4990 -> reached weight 4991
+-21  
+-29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5000 -> reached weight 4999
+-21  -21  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5010 -> reached weight 5009
+5  
+21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5020 -> reached weight 5020
+-21  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5030 -> reached weight 5030
+5  
+21  21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5040 -> reached weight 5041
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5050 -> reached weight 5049
+-21  
+29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5060 -> reached weight 5060
+-5  
+-21  -21  -21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5070 -> reached weight 5070
+29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5080 -> reached weight 5080
+5  
+21  21  21  
+-29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5090 -> reached weight 5091
+21  
+29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5100 -> reached weight 5099
+-5  
+21  21  21  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5110 -> reached weight 5109
+5  
+21  21  21  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5120 -> reached weight 5120
+21  
+29  29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5130 -> reached weight 5128
+29  29  29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5140 -> reached weight 5141
+21  21  
+29  29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5150 -> reached weight 5150
+-21  -21  -21  
+-29  -29  -29  
+-287  
+-399  
+2993  2993  
+
+weight 5160 -> reached weight 5162
+21  21  21  
+29  29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5170 -> reached weight 5170
+21  21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5180 -> reached weight 5179
+-21  -21  -21  
+-29  -29  
+-287  
+-399  
+2993  2993  
+
+weight 5190 -> reached weight 5191
+21  21  21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  2993  
+
+weight 5200 -> reached weight 5200
+-21  -21  
+-29  -29  
+-287  
+-399  
+2993  2993  
+
+weight 5210 -> reached weight 5208
+-5  
+-29  -29  -29  
+-287  
+-399  
+2993  2993  
+
+weight 5220 -> reached weight 5220
+-21  
+-29  -29  -29  
+-259  
+-399  
+2993  2993  
+
+weight 5230 -> reached weight 5229
+-21  -21  
+-29  
+-287  
+-399  
+2993  2993  
+
+weight 5240 -> reached weight 5239
+5  
+21  
+-29  -29  -29  
+-287  
+-399  
+2993  2993  
+
+weight 5250 -> reached weight 5250
+-21  
+-29  
+-287  
+-399  
+2993  2993  
+
+weight 5260 -> reached weight 5260
+-5  
+-21  -21  -21  
+-259  
+-399  
+2993  2993  
+
+weight 5270 -> reached weight 5270
+5  
+-21  -21  -21  
+-259  
+-399  
+2993  2993  
+
+weight 5280 -> reached weight 5279
+-21  
+-287  
+-399  
+2993  2993  
+
+weight 5290 -> reached weight 5290
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+2993  2993  
+
+weight 5300 -> reached weight 5300
+-287  
+-399  
+2993  2993  
+
+weight 5310 -> reached weight 5310
+-5  
+-21  -21  
+29  
+-259  
+-399  
+2993  2993  
+
+weight 5320 -> reached weight 5320
+21  
+-29  
+-259  
+-399  
+2993  2993  
+
+weight 5330 -> reached weight 5329
+29  
+-287  
+-399  
+2993  2993  
+
+weight 5340 -> reached weight 5340
+-21  -21  
+-29  -29  
+-259  
+-287  
+2993  2993  
+
+weight 5350 -> reached weight 5350
+21  
+29  
+-287  
+-399  
+2993  2993  
+
+weight 5360 -> reached weight 5360
+-5  
+-21  
+29  29  
+-259  
+-399  
+2993  2993  
+
+weight 5370 -> reached weight 5370
+21  21  
+-259  
+-399  
+2993  2993  
+
+weight 5380 -> reached weight 5379
+5  
+21  
+-29  -29  -29  
+-259  
+-287  
+2993  2993  
+
+weight 5390 -> reached weight 5390
+-21  
+-29  
+-259  
+-287  
+2993  2993  
+
+weight 5400 -> reached weight 5400
+5  
+21  21  
+-29  -29  -29  
+-259  
+-287  
+2993  2993  
+
+weight 5410 -> reached weight 5410
+-5  
+29  29  29  
+-259  
+-399  
+2993  2993  
+
+weight 5420 -> reached weight 5420
+5  
+29  29  29  
+-259  
+-399  
+2993  2993  
+
+weight 5430 -> reached weight 5430
+-5  
+-21  -21  -21  
+29  29  
+-259  
+-287  
+2993  2993  
+
+weight 5440 -> reached weight 5440
+-259  
+-287  
+2993  2993  
+
+weight 5450 -> reached weight 5450
+5  
+21  21  21  
+-29  -29  
+-259  
+-287  
+2993  2993  
+
+weight 5460 -> reached weight 5460
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+287  
+-399  
+2993  2993  
+
+weight 5470 -> reached weight 5470
+5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+287  
+-399  
+2993  2993  
+
+weight 5480 -> reached weight 5480
+-5  
+-21  -21  
+29  29  29  
+-259  
+-287  
+2993  2993  
+
+weight 5490 -> reached weight 5490
+21  
+29  
+-259  
+-287  
+2993  2993  
+
+weight 5500 -> reached weight 5500
+-29  -29  -29  
+-399  
+2993  2993  
+
+weight 5510 -> reached weight 5510
+-5  
+-21  -21  
+-29  -29  
+-259  
+287  
+-399  
+2993  2993  
+
+weight 5520 -> reached weight 5520
+5  
+-21  -21  
+-29  -29  
+-259  
+287  
+-399  
+2993  2993  
+
+weight 5530 -> reached weight 5530
+-29  
+259  
+-287  
+-399  
+2993  2993  
+
+weight 5540 -> reached weight 5540
+21  21  
+29  29  
+-259  
+-287  
+2993  2993  
+
+weight 5550 -> reached weight 5550
+5  
+-21  -21  
+-399  
+2993  2993  
+
+weight 5560 -> reached weight 5560
+-5  
+-21  
+-29  
+-259  
+287  
+-399  
+2993  2993  
+
+weight 5570 -> reached weight 5570
+-21  -21  
+-29  -29  -29  
+-287  
+2993  2993  
+
+weight 5580 -> reached weight 5580
+21  
+259  
+-287  
+-399  
+2993  2993  
+
+weight 5590 -> reached weight 5590
+21  21  21  
+29  29  29  
+-259  
+-287  
+2993  2993  
+
+weight 5600 -> reached weight 5600
+21  21  
+-29  
+-399  
+2993  2993  
+
+weight 5610 -> reached weight 5610
+-5  
+-259  
+287  
+-399  
+2993  2993  
+
+weight 5620 -> reached weight 5620
+-21  
+-29  -29  
+-287  
+2993  2993  
+
+weight 5630 -> reached weight 5630
+-5  
+-21  -21  -21  
+-29  
+-259  
+2993  2993  
+
+weight 5640 -> reached weight 5640
+-29  -29  -29  
+-259  
+2993  2993  
+
+weight 5650 -> reached weight 5650
+21  21  21  
+-399  
+2993  2993  
+
+weight 5660 -> reached weight 5660
+-5  
+-21  -21  -21  
+29  
+-287  
+2993  2993  
+
+weight 5670 -> reached weight 5670
+-29  
+-287  
+2993  2993  
+
+weight 5680 -> reached weight 5680
+-5  
+-21  -21  
+-259  
+2993  2993  
+
+weight 5690 -> reached weight 5690
+5  
+-21  -21  
+-259  
+2993  2993  
+
+weight 5700 -> reached weight 5700
+5  
+21  
+29  29  29  
+-399  
+2993  2993  
+
+weight 5710 -> reached weight 5710
+-5  
+-21  -21  
+29  29  
+-287  
+2993  2993  
+
+weight 5720 -> reached weight 5720
+21  
+-287  
+2993  2993  
+
+weight 5730 -> reached weight 5730
+-5  
+-21  
+29  
+-259  
+2993  2993  
+
+weight 5740 -> reached weight 5740
+21  21  
+-29  
+-259  
+2993  2993  
+
+weight 5750 -> reached weight 5750
+5  
+-21  -21  
+-29  -29  -29  
+287  
+-399  
+2993  2993  
+
+weight 5760 -> reached weight 5760
+-5  
+-21  
+29  29  29  
+-287  
+2993  2993  
+
+weight 5770 -> reached weight 5770
+21  21  
+29  
+-287  
+2993  2993  
+
+weight 5780 -> reached weight 5780
+-5  
+29  29  
+-259  
+2993  2993  
+
+weight 5790 -> reached weight 5790
+21  21  21  
+-259  
+2993  2993  
+
+weight 5800 -> reached weight 5800
+5  
+-21  
+-29  -29  
+287  
+-399  
+2993  2993  
+
+weight 5810 -> reached weight 5810
+-29  
+-259  
+-287  
+399  
+2993  2993  
+
+weight 5820 -> reached weight 5820
+21  21  21  
+29  29  
+-287  
+2993  2993  
+
+weight 5830 -> reached weight 5830
+-5  
+21  
+29  29  29  
+-259  
+2993  2993  
+
+weight 5840 -> reached weight 5840
+5  
+21  
+29  29  29  
+-259  
+2993  2993  
+
+weight 5850 -> reached weight 5850
+-21  
+-29  -29  -29  
+259  
+-287  
+2993  2993  
+
+weight 5860 -> reached weight 5860
+-5  
+-21  -21  -21  
+-29  -29  
+2993  2993  
+
+weight 5870 -> reached weight 5870
+5  
+-21  -21  -21  
+-29  -29  
+2993  2993  
+
+weight 5880 -> reached weight 5880
+-5  
+-21  -21  
+-29  -29  -29  
+-259  
+287  
+2993  2993  
+
+weight 5890 -> reached weight 5890
+-5  
+-21  -21  -21  
+259  
+-287  
+2993  2993  
+
+weight 5900 -> reached weight 5900
+5  
+-21  -21  -21  
+259  
+-287  
+2993  2993  
+
+weight 5910 -> reached weight 5910
+-5  
+-21  -21  
+-29  
+2993  2993  
+
+weight 5920 -> reached weight 5920
+21  
+-29  -29  -29  
+2993  2993  
+
+weight 5930 -> reached weight 5930
+-5  
+-21  
+-29  -29  
+-259  
+287  
+2993  2993  
+
+weight 5940 -> reached weight 5940
+5  
+-21  
+-29  -29  
+-259  
+287  
+2993  2993  
+
+weight 5950 -> reached weight 5950
+21  
+-29  
+259  
+-287  
+2993  2993  
+
+weight 5960 -> reached weight 5960
+-5  
+-21  
+2993  2993  
+
+weight 5970 -> reached weight 5970
+5  
+-21  
+2993  2993  
+
+weight 5980 -> reached weight 5980
+-5  
+-29  
+-259  
+287  
+2993  2993  
+
+weight 5990 -> reached weight 5990
+5  
+-29  
+-259  
+287  
+2993  2993  
+
+weight 6000 -> reached weight 6000
+21  21  
+259  
+-287  
+2993  2993  
+
+weight 6010 -> reached weight 6010
+-5  
+29  
+2993  2993  
+
+weight 6020 -> reached weight 6020
+5  
+29  
+2993  2993  
+
+weight 6030 -> reached weight 6030
+-5  
+21  
+-259  
+287  
+2993  2993  
+
+weight 6040 -> reached weight 6040
+5  
+21  
+-259  
+287  
+2993  2993  
+
+weight 6050 -> reached weight 6050
+5  
+29  29  29  
+259  
+-287  
+2993  2993  
+
+weight 6060 -> reached weight 6060
+-5  
+21  
+29  29  
+2993  2993  
+
+weight 6070 -> reached weight 6070
+5  
+21  
+29  29  
+2993  2993  
+
+weight 6080 -> reached weight 6080
+-21  
+29  29  29  
+-259  
+287  
+2993  2993  
+
+weight 6090 -> reached weight 6090
+-5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+2993  2993  
+
+weight 6100 -> reached weight 6100
+5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+2993  2993  
+
+weight 6110 -> reached weight 6110
+-5  
+21  21  
+29  29  29  
+2993  2993  
+
+weight 6120 -> reached weight 6120
+5  
+21  21  
+29  29  29  
+2993  2993  
+
+weight 6130 -> reached weight 6130
+-5  
+21  21  21  
+29  29  
+-259  
+287  
+2993  2993  
+
+weight 6140 -> reached weight 6140
+-5  
+-21  -21  
+-29  -29  
+259  
+2993  2993  
+
+weight 6150 -> reached weight 6150
+5  
+-21  -21  
+-29  -29  
+259  
+2993  2993  
+
+weight 6160 -> reached weight 6160
+-5  
+-21  
+-29  -29  -29  
+287  
+2993  2993  
+
+weight 6170 -> reached weight 6170
+5  
+-21  
+-29  -29  -29  
+287  
+2993  2993  
+
+weight 6180 -> reached weight 6180
+-5  
+29  29  29  
+-287  
+399  
+2993  2993  
+
+weight 6190 -> reached weight 6190
+-5  
+-21  
+-29  
+259  
+2993  2993  
+
+weight 6200 -> reached weight 6200
+21  21  
+-29  -29  -29  
+259  
+2993  2993  
+
+weight 6210 -> reached weight 6210
+-21  -21  -21  
+287  
+2993  2993  
+
+weight 6220 -> reached weight 6220
+5  
+-29  -29  
+287  
+2993  2993  
+
+weight 6230 -> reached weight 6230
+-5  
+-21  -21  -21  
+-29  -29  -29  
+399  
+2993  2993  
+
+weight 6240 -> reached weight 6240
+-5  
+259  
+2993  2993  
+
+weight 6250 -> reached weight 6250
+5  
+259  
+2993  2993  
+
+weight 6260 -> reached weight 6260
+-21  -21  
+29  
+287  
+2993  2993  
+
+weight 6270 -> reached weight 6270
+5  
+21  
+-29  
+287  
+2993  2993  
+
+weight 6280 -> reached weight 6280
+-5  
+-21  -21  
+-29  -29  
+399  
+2993  2993  
+
+weight 6290 -> reached weight 6290
+-21  -21  
+29  29  29  
+259  
+2993  2993  
+
+weight 6300 -> reached weight 6300
+5  
+21  
+29  
+259  
+2993  2993  
+
+weight 6310 -> reached weight 6310
+-5  
+21  21  
+287  
+2993  2993  
+
+weight 6320 -> reached weight 6320
+5  
+21  21  
+287  
+2993  2993  
+
+weight 6330 -> reached weight 6330
+-5  
+-21  
+-29  
+399  
+2993  2993  
+
+weight 6340 -> reached weight 6340
+-5  
+21  21  
+29  29  
+259  
+2993  2993  
+
+weight 6350 -> reached weight 6350
+5  
+21  21  
+29  29  
+259  
+2993  2993  
+
+weight 6360 -> reached weight 6360
+29  29  29  
+287  
+2993  2993  
+
+weight 6370 -> reached weight 6370
+5  
+21  21  21  
+29  
+287  
+2993  2993  
+
+weight 6380 -> reached weight 6380
+-5  
+399  
+2993  2993  
+
+weight 6390 -> reached weight 6390
+-5  
+21  21  21  
+29  29  29  
+259  
+2993  2993  
+
+weight 6400 -> reached weight 6400
+5  
+21  21  21  
+29  29  29  
+259  
+2993  2993  
+
+weight 6410 -> reached weight 6410
+-5  
+29  29  
+259  
+-287  
+399  
+2993  2993  
+
+weight 6420 -> reached weight 6420
+21  21  21  
+259  
+-287  
+399  
+2993  2993  
+
+weight 6430 -> reached weight 6430
+-21  -21  
+29  29  29  
+399  
+2993  2993  
+
+weight 6440 -> reached weight 6440
+-5  
+-29  -29  -29  
+259  
+287  
+2993  2993  
+
+weight 6450 -> reached weight 6450
+5  
+-29  -29  -29  
+259  
+287  
+2993  2993  
+
+weight 6460 -> reached weight 6460
+5  
+21  21  
+-259  
+287  
+399  
+2993  2993  
+
+weight 6470 -> reached weight 6470
+5  
+21  
+29  29  29  
+259  
+-287  
+399  
+2993  2993  
+
+weight 6480 -> reached weight 6480
+-5  
+21  21  
+29  29  
+399  
+2993  2993  
+
+weight 6490 -> reached weight 6490
+-21  -21  
+259  
+287  
+2993  2993  
+
+weight 6500 -> reached weight 6500
+5  
+21  
+-29  -29  
+259  
+287  
+2993  2993  
+
+weight 6510 -> reached weight 6510
+-5  
+-21  -21  
+-29  -29  -29  
+259  
+399  
+2993  2993  
+
+weight 6520 -> reached weight 6520
+5  
+-21  -21  
+-29  -29  -29  
+259  
+399  
+2993  2993  
+
+weight 6530 -> reached weight 6530
+-5  
+21  21  21  
+29  29  29  
+399  
+2993  2993  
+
+weight 6540 -> reached weight 6540
+-21  
+29  
+259  
+287  
+2993  2993  
+
+weight 6550 -> reached weight 6550
+5  
+21  21  
+-29  
+259  
+287  
+2993  2993  
+
+weight 6560 -> reached weight 6560
+-5  
+-21  
+-29  -29  
+259  
+399  
+2993  2993  
+
+weight 6570 -> reached weight 6570
+5  
+-21  
+-29  -29  
+259  
+399  
+2993  2993  
+
+weight 6580 -> reached weight 6580
+-5  
+-29  -29  -29  
+287  
+399  
+2993  2993  
+
+weight 6590 -> reached weight 6590
+-5  
+21  21  21  
+259  
+287  
+2993  2993  
+
+weight 6600 -> reached weight 6600
+5  
+21  21  21  
+259  
+287  
+2993  2993  
+
+weight 6610 -> reached weight 6610
+-5  
+-29  
+259  
+399  
+2993  2993  
+
+weight 6620 -> reached weight 6620
+5  
+-29  
+259  
+399  
+2993  2993  
+
+weight 6630 -> reached weight 6630
+-21  -21  
+287  
+399  
+2993  2993  
+
+weight 6640 -> reached weight 6640
+21  
+29  29  29  
+259  
+287  
+2993  2993  
+
+weight 6650 -> reached weight 6649
+5  
+259  
+399  
+2993  2993  
+
+weight 6660 -> reached weight 6660
+-5  
+21  
+259  
+399  
+2993  2993  
+
+weight 6670 -> reached weight 6670
+5  
+21  
+259  
+399  
+2993  2993  
+
+weight 6680 -> reached weight 6680
+-21  
+29  
+287  
+399  
+2993  2993  
+
+weight 6690 -> reached weight 6690
+5  
+21  21  
+-29  
+287  
+399  
+2993  2993  
+
+weight 6700 -> reached weight 6699
+5  
+21  
+29  
+259  
+399  
+2993  2993  
+
+weight 6710 -> reached weight 6710
+-21  
+29  29  29  
+259  
+399  
+2993  2993  
+
+weight 6720 -> reached weight 6720
+5  
+21  21  
+29  
+259  
+399  
+2993  2993  
+
+weight 6730 -> reached weight 6730
+-5  
+21  21  21  
+287  
+399  
+2993  2993  
+
+weight 6740 -> reached weight 6740
+5  
+21  21  21  
+287  
+399  
+2993  2993  
+
+weight 6750 -> reached weight 6749
+5  
+21  21  
+29  29  
+259  
+399  
+2993  2993  
+
+weight 6760 -> reached weight 6760
+-5  
+21  21  21  
+29  29  
+259  
+399  
+2993  2993  
+
+weight 6770 -> reached weight 6770
+5  
+21  21  21  
+29  29  
+259  
+399  
+2993  2993  
+
+weight 6780 -> reached weight 6780
+21  
+29  29  29  
+287  
+399  
+2993  2993  
+
+weight 6790 -> reached weight 6789
+-5  
+21  21  21  
+29  29  29  
+259  
+399  
+2993  2993  
+
+weight 6800 -> reached weight 6799
+5  
+21  21  21  
+29  29  29  
+259  
+399  
+2993  2993  
+
+weight 6810 -> reached weight 6810
+-21  -21  -21  
+-29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6820 -> reached weight 6818
+-5  
+-21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6830 -> reached weight 6831
+-21  -21  
+-29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6840 -> reached weight 6839
+-5  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6850 -> reached weight 6849
+5  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6860 -> reached weight 6860
+-21  -21  
+-29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6870 -> reached weight 6870
+5  
+21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6880 -> reached weight 6881
+-21  
+-29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6890 -> reached weight 6889
+-21  -21  
+259  
+287  
+399  
+2993  2993  
+
+weight 6900 -> reached weight 6899
+5  
+21  
+-29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6910 -> reached weight 6910
+-21  
+259  
+287  
+399  
+2993  2993  
+
+weight 6920 -> reached weight 6920
+5  
+21  21  
+-29  -29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6930 -> reached weight 6931
+259  
+287  
+399  
+2993  2993  
+
+weight 6940 -> reached weight 6939
+-21  
+29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6950 -> reached weight 6950
+-5  
+-21  -21  -21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6960 -> reached weight 6960
+29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6970 -> reached weight 6970
+5  
+21  21  21  
+-29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6980 -> reached weight 6981
+21  
+29  
+259  
+287  
+399  
+2993  2993  
+
+weight 6990 -> reached weight 6989
+-5  
+21  21  21  
+259  
+287  
+399  
+2993  2993  
+
+weight 7000 -> reached weight 6999
+5  
+21  21  21  
+259  
+287  
+399  
+2993  2993  
+
+weight 7010 -> reached weight 7010
+21  
+29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7020 -> reached weight 7018
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7030 -> reached weight 7031
+21  21  
+29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7040 -> reached weight 7039
+21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7050 -> reached weight 7052
+21  21  21  
+29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7060 -> reached weight 7060
+21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7070 -> reached weight 7065
+5  
+21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7080 -> reached weight 7081
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7090 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7100 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7110 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7120 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7130 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7140 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7150 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7160 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7170 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7180 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7190 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7200 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7210 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7220 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7230 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7240 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7250 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7260 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7270 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7280 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7290 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7300 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7310 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7320 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7330 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7340 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7350 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7360 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7370 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7380 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7390 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7400 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7410 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7420 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7430 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7440 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7450 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7460 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7470 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7480 -> reached weight 7086
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  
+
+weight 7490 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7500 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7510 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7520 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7530 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7540 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7550 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7560 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7570 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7580 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7590 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7600 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7610 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7620 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7630 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7640 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7650 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7660 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7670 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7680 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7690 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7700 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7710 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7720 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7730 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7740 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7750 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7760 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7770 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7780 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7790 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7800 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7810 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7820 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7830 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7840 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7850 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7860 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7870 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7880 -> reached weight 7879
+-5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7890 -> reached weight 7889
+5  
+-21  -21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7900 -> reached weight 7900
+-5  
+-21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7910 -> reached weight 7910
+5  
+-21  -21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7920 -> reached weight 7921
+-5  
+-21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7930 -> reached weight 7929
+-5  
+-21  -21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7940 -> reached weight 7939
+5  
+-21  -21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7950 -> reached weight 7950
+-5  
+-21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7960 -> reached weight 7960
+5  
+-21  
+-29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7970 -> reached weight 7971
+-21  -21  -21  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7980 -> reached weight 7979
+-5  
+-21  
+-29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 7990 -> reached weight 7989
+21  21  
+-29  -29  -29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8000 -> reached weight 8000
+-5  
+-29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8010 -> reached weight 8010
+5  
+-29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8020 -> reached weight 8021
+-21  -21  
+29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8030 -> reached weight 8029
+-5  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8040 -> reached weight 8039
+5  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8050 -> reached weight 8050
+-5  
+21  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8060 -> reached weight 8060
+5  
+21  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8070 -> reached weight 8071
+-5  
+21  21  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8080 -> reached weight 8079
+-21  -21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8090 -> reached weight 8089
+5  
+21  
+29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8100 -> reached weight 8100
+-21  
+29  29  29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8110 -> reached weight 8110
+5  
+21  21  
+29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8120 -> reached weight 8121
+29  29  29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8130 -> reached weight 8129
+-5  
+21  21  
+29  29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8140 -> reached weight 8139
+5  
+21  21  
+29  29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8150 -> reached weight 8150
+-5  
+21  21  21  
+29  29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8160 -> reached weight 8160
+5  
+21  21  21  
+29  29  
+-259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8170 -> reached weight 8169
+5  
+-21  -21  
+-29  -29  -29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8180 -> reached weight 8180
+-5  
+-21  
+-29  -29  -29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8190 -> reached weight 8190
+5  
+-21  
+-29  -29  -29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8200 -> reached weight 8200
+-21  -21  -21  
+-29  -29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8210 -> reached weight 8209
+-5  
+-21  
+-29  -29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8220 -> reached weight 8219
+5  
+-21  
+-29  -29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8230 -> reached weight 8230
+-21  -21  -21  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8240 -> reached weight 8240
+5  
+-29  -29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8250 -> reached weight 8250
+-21  -21  
+-29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8260 -> reached weight 8260
+5  
+21  
+-29  -29  -29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8270 -> reached weight 8269
+5  
+-29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8280 -> reached weight 8280
+-21  -21  
+29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8290 -> reached weight 8290
+5  
+21  
+-29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8300 -> reached weight 8300
+-21  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8310 -> reached weight 8310
+5  
+21  21  
+-29  -29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8320 -> reached weight 8320
+-5  
+-21  
+-29  -29  -29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8330 -> reached weight 8330
+5  
+-21  
+-29  -29  -29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8340 -> reached weight 8340
+-5  
+-21  -21  -21  
+29  29  29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8350 -> reached weight 8350
+29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8360 -> reached weight 8360
+5  
+21  21  21  
+-29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8370 -> reached weight 8370
+-21  -21  -21  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8380 -> reached weight 8380
+5  
+-29  -29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8390 -> reached weight 8390
+5  
+21  21  21  
+29  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8400 -> reached weight 8400
+21  
+29  29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8410 -> reached weight 8409
+5  
+-29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8420 -> reached weight 8420
+-21  -21  
+29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8430 -> reached weight 8430
+5  
+21  
+-29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8440 -> reached weight 8439
+-5  
+-21  
+-29  -29  -29  
+259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8450 -> reached weight 8450
+21  21  
+29  29  29  
+-259  
+-399  
+2993  2993  2993  
+
+weight 8460 -> reached weight 8460
+-5  
+-29  -29  -29  
+259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8470 -> reached weight 8470
+-5  
+21  21  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8480 -> reached weight 8480
+5  
+21  21  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8490 -> reached weight 8489
+-21  -21  -21  
+259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8500 -> reached weight 8500
+-21  
+-29  -29  -29  
+-259  
+287  
+-399  
+2993  2993  2993  
+
+weight 8510 -> reached weight 8510
+-21  -21  
+259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8520 -> reached weight 8520
+29  29  29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8530 -> reached weight 8530
+5  
+21  21  21  
+29  
+-259  
+-287  
+2993  2993  2993  
+
+weight 8540 -> reached weight 8540
+5  
+21  21  
+-29  -29  -29  
+-399  
+2993  2993  2993  
+
+weight 8550 -> reached weight 8550
+5  
+-21  -21  -21  
+-259  
+287  
+-399  
+2993  2993  2993  
+
+weight 8560 -> reached weight 8560
+-21  
+29  
+259  
+-287  
+-399  
+2993  2993  2993  
+
+weight 8570 -> reached weight 8570
+-21  -21  -21  
+-29  -29  -29  
+-259  
+2993  2993  2993  
+
+weight 8580 -> reached weight 8580
+-399  
+2993  2993  2993  
+
+weight 8590 -> reached weight 8590
+5  
+21  21  21  
+-29  -29  
+-399  
+2993  2993  2993  
+
+weight 8600 -> reached weight 8600
+-5  
+-29  -29  -29  
+-287  
+2993  2993  2993  
+
+weight 8610 -> reached weight 8610
+5  
+-29  -29  -29  
+-287  
+2993  2993  2993  
+
+weight 8620 -> reached weight 8620
+-21  -21  
+-29  -29  
+-259  
+2993  2993  2993  
+
+weight 8630 -> reached weight 8630
+21  
+29  
+-399  
+2993  2993  2993  
+
+weight 8640 -> reached weight 8640
+-5  
+-21  
+29  29  
+-259  
+287  
+-399  
+2993  2993  2993  
+
+weight 8650 -> reached weight 8650
+-21  -21  
+-287  
+2993  2993  2993  
+
+weight 8660 -> reached weight 8660
+5  
+21  
+-29  -29  
+-287  
+2993  2993  2993  
+
+weight 8670 -> reached weight 8670
+-21  
+-29  
+-259  
+2993  2993  2993  
+
+weight 8680 -> reached weight 8680
+5  
+21  21  
+-29  -29  -29  
+-259  
+2993  2993  2993  
+
+weight 8690 -> reached weight 8690
+-5  
+29  29  29  
+-259  
+287  
+-399  
+2993  2993  2993  
+
+weight 8700 -> reached weight 8700
+-21  
+29  
+-287  
+2993  2993  2993  
+
+weight 8710 -> reached weight 8710
+-5  
+-21  -21  -21  
+29  29  
+-259  
+2993  2993  2993  
+
+weight 8720 -> reached weight 8720
+-259  
+2993  2993  2993  
+
+weight 8730 -> reached weight 8730
+5  
+21  21  21  
+-29  -29  
+-259  
+2993  2993  2993  
+
+weight 8740 -> reached weight 8740
+-5  
+-29  -29  -29  
+-259  
+-287  
+399  
+2993  2993  2993  
+
+weight 8750 -> reached weight 8750
+-5  
+21  21  21  
+-287  
+2993  2993  2993  
+
+weight 8760 -> reached weight 8760
+-5  
+-21  -21  
+29  29  29  
+-259  
+2993  2993  2993  
+
+weight 8770 -> reached weight 8770
+21  
+29  
+-259  
+2993  2993  2993  
+
+weight 8780 -> reached weight 8780
+-29  -29  -29  
+287  
+-399  
+2993  2993  2993  
+
+weight 8790 -> reached weight 8790
+-21  -21  
+-259  
+-287  
+399  
+2993  2993  2993  
+
+weight 8800 -> reached weight 8800
+21  
+29  29  29  
+-287  
+2993  2993  2993  
+
+weight 8810 -> reached weight 8810
+-29  
+259  
+-399  
+2993  2993  2993  
+
+weight 8820 -> reached weight 8820
+21  21  
+29  29  
+-259  
+2993  2993  2993  
+
+weight 8830 -> reached weight 8830
+-21  -21  -21  
+-29  -29  
+259  
+-287  
+2993  2993  2993  
+
+weight 8840 -> reached weight 8840
+-21  
+29  
+-259  
+-287  
+399  
+2993  2993  2993  
+
+weight 8850 -> reached weight 8850
+-21  -21  
+-29  -29  -29  
+2993  2993  2993  
+
+weight 8860 -> reached weight 8860
+21  
+259  
+-399  
+2993  2993  2993  
+
+weight 8870 -> reached weight 8870
+21  21  21  
+29  29  29  
+-259  
+2993  2993  2993  
+
+weight 8880 -> reached weight 8880
+-21  -21  
+-29  
+259  
+-287  
+2993  2993  2993  
+
+weight 8890 -> reached weight 8890
+5  
+21  
+-29  -29  -29  
+259  
+-287  
+2993  2993  2993  
+
+weight 8900 -> reached weight 8900
+-21  
+-29  -29  
+2993  2993  2993  
+
+weight 8910 -> reached weight 8910
+-5  
+-21  -21  -21  
+-29  
+-259  
+287  
+2993  2993  2993  
+
+weight 8920 -> reached weight 8920
+-29  -29  -29  
+-259  
+287  
+2993  2993  2993  
+
+weight 8930 -> reached weight 8930
+-21  
+259  
+-287  
+2993  2993  2993  
+
+weight 8940 -> reached weight 8940
+-5  
+-21  -21  -21  
+29  
+2993  2993  2993  
+
+weight 8950 -> reached weight 8950
+-29  
+2993  2993  2993  
+
+weight 8960 -> reached weight 8960
+5  
+21  21  21  
+-29  -29  -29  
+2993  2993  2993  
+
+weight 8970 -> reached weight 8970
+5  
+-21  -21  
+-259  
+287  
+2993  2993  2993  
+
+weight 8980 -> reached weight 8980
+29  
+259  
+-287  
+2993  2993  2993  
+
+weight 8990 -> reached weight 8990
+-5  
+-21  -21  
+29  29  
+2993  2993  2993  
+
+weight 9000 -> reached weight 9000
+21  
+2993  2993  2993  
+
+weight 9010 -> reached weight 9010
+-5  
+-21  
+29  
+-259  
+287  
+2993  2993  2993  
+
+weight 9020 -> reached weight 9020
+21  21  
+-29  
+-259  
+287  
+2993  2993  2993  
+
+weight 9030 -> reached weight 9030
+21  
+29  29  
+259  
+-287  
+2993  2993  2993  
+
+weight 9040 -> reached weight 9040
+-5  
+-21  
+29  29  29  
+2993  2993  2993  
+
+weight 9050 -> reached weight 9050
+21  21  
+29  
+2993  2993  2993  
+
+weight 9060 -> reached weight 9060
+-5  
+29  29  
+-259  
+287  
+2993  2993  2993  
+
+weight 9070 -> reached weight 9070
+21  21  21  
+-259  
+287  
+2993  2993  2993  
+
+weight 9080 -> reached weight 9080
+21  21  
+29  29  29  
+259  
+-287  
+2993  2993  2993  
+
+weight 9090 -> reached weight 9090
+-29  
+-259  
+399  
+2993  2993  2993  
+
+weight 9100 -> reached weight 9100
+21  21  21  
+29  29  
+2993  2993  2993  
+
+weight 9110 -> reached weight 9110
+-5  
+21  
+29  29  29  
+-259  
+287  
+2993  2993  2993  
+
+weight 9120 -> reached weight 9120
+5  
+21  
+29  29  29  
+-259  
+287  
+2993  2993  2993  
+
+weight 9130 -> reached weight 9130
+-21  
+-29  -29  -29  
+259  
+2993  2993  2993  
+
+weight 9140 -> reached weight 9140
+-5  
+-21  -21  -21  
+-29  -29  
+287  
+2993  2993  2993  
+
+weight 9150 -> reached weight 9150
+5  
+-21  -21  -21  
+-29  -29  
+287  
+2993  2993  2993  
+
+weight 9160 -> reached weight 9160
+5  
+29  
+259  
+287  
+-399  
+2993  2993  2993  
+
+weight 9170 -> reached weight 9170
+-5  
+-21  -21  -21  
+259  
+2993  2993  2993  
+
+weight 9180 -> reached weight 9180
+5  
+-21  -21  -21  
+259  
+2993  2993  2993  
+
+weight 9190 -> reached weight 9190
+-5  
+-21  -21  
+-29  
+287  
+2993  2993  2993  
+
+weight 9200 -> reached weight 9200
+21  
+-29  -29  -29  
+287  
+2993  2993  2993  
+
+weight 9210 -> reached weight 9210
+5  
+21  
+29  29  
+259  
+287  
+-399  
+2993  2993  2993  
+
+weight 9220 -> reached weight 9220
+-5  
+-21  -21  
+29  
+259  
+2993  2993  2993  
+
+weight 9230 -> reached weight 9230
+21  
+-29  
+259  
+2993  2993  2993  
+
+weight 9240 -> reached weight 9240
+-5  
+-21  
+287  
+2993  2993  2993  
+
+weight 9250 -> reached weight 9250
+5  
+-21  
+287  
+2993  2993  2993  
+
+weight 9260 -> reached weight 9260
+5  
+21  21  
+29  29  29  
+259  
+287  
+-399  
+2993  2993  2993  
+
+weight 9270 -> reached weight 9270
+-5  
+-21  
+29  29  
+259  
+2993  2993  2993  
+
+weight 9280 -> reached weight 9280
+21  21  
+259  
+2993  2993  2993  
+
+weight 9290 -> reached weight 9290
+-5  
+29  
+287  
+2993  2993  2993  
+
+weight 9300 -> reached weight 9300
+5  
+29  
+287  
+2993  2993  2993  
+
+weight 9310 -> reached weight 9310
+-5  
+-21  -21  -21  
+399  
+2993  2993  2993  
+
+weight 9320 -> reached weight 9320
+-5  
+29  29  29  
+259  
+2993  2993  2993  
+
+weight 9330 -> reached weight 9330
+5  
+29  29  29  
+259  
+2993  2993  2993  
+
+weight 9340 -> reached weight 9340
+-5  
+21  
+29  29  
+287  
+2993  2993  2993  
+
+weight 9350 -> reached weight 9350
+5  
+21  
+29  29  
+287  
+2993  2993  2993  
+
+weight 9360 -> reached weight 9360
+-5  
+-21  -21  
+29  
+399  
+2993  2993  2993  
+
+weight 9370 -> reached weight 9370
+-5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+287  
+2993  2993  2993  
+
+weight 9380 -> reached weight 9380
+5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+287  
+2993  2993  2993  
+
+weight 9390 -> reached weight 9390
+-5  
+21  21  
+29  29  29  
+287  
+2993  2993  2993  
+
+weight 9400 -> reached weight 9400
+5  
+21  21  
+29  29  29  
+287  
+2993  2993  2993  
+
+weight 9410 -> reached weight 9410
+-5  
+-21  
+29  29  
+399  
+2993  2993  2993  
+
+weight 9420 -> reached weight 9420
+-5  
+-21  -21  
+-29  -29  
+259  
+287  
+2993  2993  2993  
+
+weight 9430 -> reached weight 9430
+5  
+-21  -21  
+-29  -29  
+259  
+287  
+2993  2993  2993  
+
+weight 9440 -> reached weight 9440
+5  
+29  
+-259  
+287  
+399  
+2993  2993  2993  
+
+weight 9450 -> reached weight 9450
+21  21  
+29  29  
+259  
+-287  
+399  
+2993  2993  2993  
+
+weight 9460 -> reached weight 9460
+-5  
+29  29  29  
+399  
+2993  2993  2993  
+
+weight 9470 -> reached weight 9470
+-5  
+-21  
+-29  
+259  
+287  
+2993  2993  2993  
+
+weight 9480 -> reached weight 9480
+21  21  
+-29  -29  -29  
+259  
+287  
+2993  2993  2993  
+
+weight 9490 -> reached weight 9490
+5  
+21  
+29  29  
+-259  
+287  
+399  
+2993  2993  2993  
+
+weight 9500 -> reached weight 9500
+21  21  21  
+29  29  29  
+259  
+-287  
+399  
+2993  2993  2993  
+
+weight 9510 -> reached weight 9510
+-5  
+-21  -21  -21  
+-29  -29  -29  
+287  
+399  
+2993  2993  2993  
+
+weight 9520 -> reached weight 9520
+-5  
+259  
+287  
+2993  2993  2993  
+
+weight 9530 -> reached weight 9530
+5  
+259  
+287  
+2993  2993  2993  
+
+weight 9540 -> reached weight 9540
+-5  
+-21  -21  -21  
+-29  
+259  
+399  
+2993  2993  2993  
+
+weight 9550 -> reached weight 9550
+-29  -29  -29  
+259  
+399  
+2993  2993  2993  
+
+weight 9560 -> reached weight 9560
+-5  
+-21  -21  
+-29  -29  
+287  
+399  
+2993  2993  2993  
+
+weight 9570 -> reached weight 9570
+-21  -21  
+29  29  29  
+259  
+287  
+2993  2993  2993  
+
+weight 9580 -> reached weight 9580
+5  
+21  
+29  
+259  
+287  
+2993  2993  2993  
+
+weight 9590 -> reached weight 9590
+-5  
+-21  -21  
+259  
+399  
+2993  2993  2993  
+
+weight 9600 -> reached weight 9600
+5  
+-21  -21  
+259  
+399  
+2993  2993  2993  
+
+weight 9610 -> reached weight 9610
+-5  
+-21  
+-29  
+287  
+399  
+2993  2993  2993  
+
+weight 9620 -> reached weight 9620
+-5  
+21  21  
+29  29  
+259  
+287  
+2993  2993  2993  
+
+weight 9630 -> reached weight 9630
+5  
+21  21  
+29  29  
+259  
+287  
+2993  2993  2993  
+
+weight 9640 -> reached weight 9640
+-5  
+-21  
+29  
+259  
+399  
+2993  2993  2993  
+
+weight 9650 -> reached weight 9650
+21  21  
+-29  
+259  
+399  
+2993  2993  2993  
+
+weight 9660 -> reached weight 9660
+-5  
+287  
+399  
+2993  2993  2993  
+
+weight 9670 -> reached weight 9670
+-5  
+21  21  21  
+29  29  29  
+259  
+287  
+2993  2993  2993  
+
+weight 9680 -> reached weight 9680
+5  
+21  21  21  
+29  29  29  
+259  
+287  
+2993  2993  2993  
+
+weight 9690 -> reached weight 9690
+-5  
+29  29  
+259  
+399  
+2993  2993  2993  
+
+weight 9700 -> reached weight 9700
+21  21  21  
+259  
+399  
+2993  2993  2993  
+
+weight 9710 -> reached weight 9710
+-21  -21  
+29  29  29  
+287  
+399  
+2993  2993  2993  
+
+weight 9720 -> reached weight 9720
+5  
+21  
+29  
+287  
+399  
+2993  2993  2993  
+
+weight 9730 -> reached weight 9729
+5  
+29  29  29  
+259  
+399  
+2993  2993  2993  
+
+weight 9740 -> reached weight 9740
+-5  
+21  
+29  29  29  
+259  
+399  
+2993  2993  2993  
+
+weight 9750 -> reached weight 9750
+5  
+21  
+29  29  29  
+259  
+399  
+2993  2993  2993  
+
+weight 9760 -> reached weight 9760
+-5  
+21  21  
+29  29  
+287  
+399  
+2993  2993  2993  
+
+weight 9770 -> reached weight 9770
+5  
+21  21  
+29  29  
+287  
+399  
+2993  2993  2993  
+
+weight 9780 -> reached weight 9779
+5  
+-21  -21  -21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9790 -> reached weight 9790
+-5  
+-21  -21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9800 -> reached weight 9800
+5  
+-21  -21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9810 -> reached weight 9810
+-5  
+21  21  21  
+29  29  29  
+287  
+399  
+2993  2993  2993  
+
+weight 9820 -> reached weight 9820
+5  
+21  21  21  
+29  29  29  
+287  
+399  
+2993  2993  2993  
+
+weight 9830 -> reached weight 9829
+5  
+-21  -21  
+-29  -29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9840 -> reached weight 9840
+-5  
+-21  
+-29  -29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9850 -> reached weight 9850
+5  
+-21  
+-29  -29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9860 -> reached weight 9861
+-21  -21  -21  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9870 -> reached weight 9869
+-5  
+-21  
+-29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9880 -> reached weight 9879
+21  21  
+-29  -29  -29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9890 -> reached weight 9890
+-5  
+-29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9900 -> reached weight 9900
+5  
+-29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9910 -> reached weight 9911
+-21  -21  
+29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9920 -> reached weight 9919
+-5  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9930 -> reached weight 9929
+5  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9940 -> reached weight 9940
+-5  
+21  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9950 -> reached weight 9950
+5  
+21  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9960 -> reached weight 9961
+-5  
+21  21  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9970 -> reached weight 9969
+-21  -21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9980 -> reached weight 9979
+5  
+21  
+29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 9990 -> reached weight 9990
+-21  
+29  29  29  
+259  
+287  
+399  
+2993  2993  2993  
+
+weight 10000 -> reached weight 10000
+5  
+21  21  
+29  
+259  
+287  
+399  
+2993  2993  2993  
+
