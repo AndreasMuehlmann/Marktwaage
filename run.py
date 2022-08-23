@@ -1,12 +1,15 @@
+from get_combinations import get_combinations
+from write_tree import write_tree
+
 from linear_search import LinearSearch
 from better_linear_search import BetterLinearSearch
 
 from reconstruct_path import reconstruct_path
-from get_combinations import get_combinations
 
 
 def run(start_weights, searched_weights):
     nodes = get_combinations(start_weights)
+    write_tree(nodes, 'tree_representation.txt')
 
     results = {}
     search = BetterLinearSearch(nodes)
