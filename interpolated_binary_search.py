@@ -2,15 +2,16 @@ from search import Search
 
 
 class InterpolatedBinarySearch(Search):
-    def __init__(self, nodes):
-        self.nodes = nodes
-        self.nodes.sort(key=lambda node: node.total_weight)
+    def __init__(self):
+        self.nodes = []
 
-        self.closesed = self.nodes[0]
 
     def get_closesed(self, number):
         low = 0
         high = len(self.nodes) - 1
+
+        if self.nodes:
+            self.closesed = self.nodes[0]
 
         while low < high:
             interpolation = low + abs(number - self.nodes[low].total_weight) \
@@ -52,3 +53,7 @@ class InterpolatedBinarySearch(Search):
     def _is_closesed(self, number, node):
         return abs(self.closesed.total_weight - number) > \
             abs(node.total_weight - number)
+
+    def set_nodes(self, nodes):
+        self.nodes = nodes
+        self.nodes.sort(key=lambda node: node.total_weight)

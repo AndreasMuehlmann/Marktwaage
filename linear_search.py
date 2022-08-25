@@ -2,9 +2,8 @@ from search import Search
 
 
 class LinearSearch(Search):
-    def __init__(self, nodes):
-        self.nodes = nodes
-        self.closesed = self.nodes[0]
+    def __init__(self):
+        self.nodes = []
 
     def get_closesed(self, number):
         self.closesed = self.nodes[0]

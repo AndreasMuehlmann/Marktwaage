@@ -1,14 +1,10 @@
-from typing import Any
-from dataclasses import dataclass
-
-
-@dataclass()
 class Node:
+    def __init__(self, count, weight, total_weight):
+        self.count = count
+        self.weight = weight
+        self.total_weight = total_weight
+        self.previous = None
+        self.edges = []
+        self.index = -1
 
-    count: int
-    weight: int
-    total_weight: int
-    previous: Any = None
-
-    def __post_init__(self):
         self.total_weight += self.count * self.weight

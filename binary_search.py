@@ -2,8 +2,8 @@ from search import Search
 
 
 class BinarySearch(Search):
-    def __init__(self, nodes):
-        self.nodes = nodes
+    def __init__(self):
+        self.nodes = []
         self.nodes.sort(key=lambda node: node.total_weight)
 
         self.closesed = self.nodes[0]
@@ -32,3 +32,7 @@ class BinarySearch(Search):
     def _is_closesed(self, number, node):
         return abs(self.closesed.total_weight - number) > \
             abs(node.total_weight - number)
+
+    def set_nodes(self, nodes):
+        self.nodes = nodes
+        self.nodes.sort(key=lambda node: node.total_weight)
