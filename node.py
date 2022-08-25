@@ -6,5 +6,3 @@ class Node:
         self.previous = None
         self.edges = []
         self.index = -1
-
-        self.total_weight += self.count * self.weight
