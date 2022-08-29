@@ -13,12 +13,6 @@ class InterpolationSearch(Search):
         if not self.nodes.any():
             return -1
 
-        if number <= self.nodes[0]:
-            return self.nodes[0]
-        elif number >= self.nodes[-1]:
-            return self.nodes[-1]
-
-
         while low < high:
             time.sleep(0.1)
 
@@ -26,9 +20,7 @@ class InterpolationSearch(Search):
                 return self.nodes[low]
             elif number >= self.nodes[high]:
                 return self.nodes[high]
-            # interpolation = low + abs(number - self.nodes[low].total_weight) \
-            #     / abs(self.nodes[high].total_weight - self.nodes[low].total_weight) \
-            #     * (high - low)
+            
             interpolation = int(low + (number - self.nodes[low]) \
                 / (self.nodes[high] - self.nodes[low]) \
                 * (high - low))
@@ -39,7 +31,6 @@ class InterpolationSearch(Search):
                 self.closesed = self.nodes[interpolation]
 
             if self.nodes[interpolation] > number:
-                # if self.nodes[interpolation].total_weight > number:
                 print('hello')
                 low = interpolation + 1
                 print(low)

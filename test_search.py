@@ -5,7 +5,6 @@ from multiprocessing import Pool
 import numpy as np
 
 from node import Node
-from iir_filter import IirFilter
 
 from linear_search import LinearSearch
 from better_linear_search import BetterLinearSearch
@@ -24,7 +23,7 @@ def create_random_test(length):
         nodes.append(node)
     '''
 
-    # numbers = np.random.uniform(-1, 1, 1000) # uniform distrubtion
+    # numbers = np.random.uniform(0, 1, length) # uniform distrubtion
     numbers = np.random.rand(length) # normal distribution
     sorted_numbers = np.sort(numbers)
     return sorted_numbers
@@ -40,14 +39,14 @@ def time_search_number(search, numbers, number):
 def avg_time_search(length):
     search = InterpolationSearch()
 
-    new_numbers = 5
-    searches_per_number = 2000
+    new_numbers = 1
+    searches_per_number = 1
 
     results = []
     for new_number in range(new_numbers):
         numbers = create_random_test(length)
         for search_per_number in range(searches_per_number):
-            number = np.random.uniform(-1, 1)
+            number = np.random.uniform(0, 1)
 
             time = time_search_number(search, numbers, number)
             results.append(time)
